@@ -24,10 +24,14 @@ $token= bin2hex(random_bytes(16));
             <div class="form-holder">
                 <div class="form-content">
                     <div class="form-items">
-                        <h3>Welcome to <span style="color:orange;">Bean Tree Cafe</span></h3>.             
+                        <h3>Welcome</h3> 
+                        <p> <span style="color:brown;">Bean Tree Cafe</span></p>             
                         <p style="color:green;" >Order online now!</p>
                         <p style="color:grey;" ><small>Get your order delivered within 60 minutes!</small></p>
-                        <p><small>Choose store:<a href="A1.php">terms and conditions</a>.</small></p>
+                        <p><small>Choose store:</small></p>
+                        <form>
+                        
+                        </form>
                         <div class="page-links">
                             <p><a href="Welcome.php"><span><small>I don't agree</small><span></a></p>
                             <p><a href="Items.php?auth=<?php echo $token; ?>"><span style="color:green"><small>I agree</small><span></a></p>
