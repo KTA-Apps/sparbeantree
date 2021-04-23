@@ -1,2 +1,2 @@
-<?php header('Location: https://sparbeantree.herokuapp.com/Shop.php');
+<?php header('Location: https://sparbeantree.herokuapp.com/Welcome.php');
 ?>
