@@ -24,13 +24,10 @@ $token= bin2hex(random_bytes(16));
             <div class="form-holder">
                 <div class="form-content">
                     <div class="form-items">
-                        <h3>Welcome to <span style="color:orange;">canibuy</span></h3>.             
-                        <p style="color:green;" >Cannabis Disposal Agency</p>
-                        <p style="color:grey;" ><small>Powered by the Cannabis Health and Awareness NPO [<a href="A2.php"><span>about us<span></a>]</small></p>
-                        <p style="color:grey;" ><small>How we operate [<a href="A3.php"><span>info<span></a>]</small></p>
-                        <p style="color:grey;" ><small>Operations login [<a href="Signin.php"><span>click here<span></a>]</small></p>
-                        <p><small>To enter you must acknowledge the following:</small></p>
-                        <p><small>I am over 18 years of age and I have read these <a href="A1.php">terms and conditions</a>.</small></p>
+                        <h3>Welcome to <span style="color:orange;">Bean Tree Cafe</span></h3>.             
+                        <p style="color:green;" >Order online now!</p>
+                        <p style="color:grey;" ><small>Get your order delivered within 60 minutes!</small></p>
+                        <p><small>Choose store:<a href="A1.php">terms and conditions</a>.</small></p>
                         <div class="page-links">
                             <p><a href="Welcome.php"><span><small>I don't agree</small><span></a></p>
                             <p><a href="Items.php?auth=<?php echo $token; ?>"><span style="color:green"><small>I agree</small><span></a></p>
