@@ -29,9 +29,18 @@ $token= bin2hex(random_bytes(16));
                         <p style="color:green;" >Order online now!</p>
                         <p style="color:grey;" ><small>Get your order delivered within 60 minutes!</small></p>
                         <p><small>Choose store:</small></p>
-                        <form>
-                        
-                        </form>
+                        <p>
+                        <select class="PTAtown" name="Towns" id="townsPTA" form="plug" required>
+                        <option value="" disabled selected>Select Town</option>
+                        <option value="PretoriaEast">Pretoria East</option>
+                        <option value="PretoriaNorthEast" disabled >Pretoria North East</option>
+                        <option value="PretoriaNorthWest" disabled >Pretoria North West</option>
+                        <option value="PretoriaCentral" disabled >Pretoria Central</option>
+                        <option value="PretoriaCentralWest" disabled >Pretoria Central West</option>
+                        <option value="Centurion" disabled >Centurion</option>
+                        <option value="Null" style="display:none" >Null</option>
+                        </select>
+                        </p>
                         <div class="page-links">
                             <p><a href="Welcome.php"><span><small>I don't agree</small><span></a></p>
                             <p><a href="Items.php?auth=<?php echo $token; ?>"><span style="color:green"><small>I agree</small><span></a></p>
