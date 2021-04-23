@@ -1,0 +1,536 @@
+.plugproductsDP{
+    margin-top: 20px;
+}
+.plugproductsCC{
+    margin-top: 20px;
+}
+.plugproductsOC{
+    margin-top: 20px;
+}
+.plugproductsBW{
+     margin-top: 20px;
+}
+.plugproductsNL{
+     margin-top: 20px;
+}
+.plugproductsPR{
+    margin-top: 20px;
+}
+.plugproductsCCES{
+     margin-top: 20px;
+}
+.plugproductsPE{
+     margin-top: 20px;
+}
+.emptycartdisplay{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.plugcontainer{
+    max-width: 760px;
+    justify-content: space-around;
+    margin: 0 auto;
+    float: initial;
+}
+.plugheader{
+    width: 100%;
+    max-width: 750px;
+    display: flex;
+    justify-content: flex-start;
+    border-bottom: 2px solid black;
+    margin: 0 auto;
+}
+.plugfooter{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    border-bottom: 2px solid black;
+    margin-top: 20 px;
+    margin-bottom: 20 px;
+}
+.plugtitleproduct{
+    width: 40%;
+    padding-left: 10%;
+}
+.plugtitleprice{
+    width: 20%;
+    display: flex;
+    align-items: center;
+}
+.plugtitlequantity{
+    width: 30%;
+    display: flex;
+    align-items: center;
+}
+.plugtitletotal{
+    width: 0%;
+    display: flex;
+    align-items: center;
+}
+.DPcontainer{
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    white-space: nowrap;
+    
+    overflow-y: hidden;
+}
+.DPcontainer > li {
+    display: inline-block;
+
+}
+.DPcontainer1{
+    width: 100px;
+}
+.DPcontainer2{
+    padding-left: 5%;
+}
+.DPcontainer3{
+    padding-left: 20%;
+}
+.quantitygrams{
+    padding-left: 80%;
+}
+.totalcart{
+    padding-left: 100%;
+}
+.Rands{
+    float: right;
+    padding-left: 170px;
+}
+.upbutton{
+    background-color: white;
+    width: 20%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3px;
+}
+    
+.centre{
+    width: 20%;
+    margin-right: auto;
+    display: block;
+}
+.DPcontainerCC{
+    position: relative;
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding: 0;
+    white-space: nowrap;
+    
+    overflow-y: hidden;
+}
+.DPcontainerCC > li {
+    display: inline-block;
+
+}
+.DPcontainer1CC{
+    width: 100px;
+}
+.DPcontainer2CC{
+    padding-left: 5%;
+}
+.DPcontainer3CC{
+    padding-left: 100%;
+}
+.quantitygramsCC{
+    padding-left: 150%;
+}
+.totalcartCC{
+    padding-left: 100%;
+}
+.RandsCC{
+    float: right;
+    padding-left: 233px;
+}
+.upbutton{
+    background-color: white;
+    width: 20%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3px;
+}
+    
+.centreCC{
+    width: 20%;
+    margin-right: auto;
+    display: block;
+}
+.DPcontainerOC{
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    
+    overflow-y: hidden;
+}
+.DPcontainerOC > li {
+    display: inline-block;
+
+}
+.DPcontainer1OC{
+    width: 100px;
+}
+.DPcontainer2OC{
+    padding-left: 5%;
+}
+.DPcontainer3OC{
+    padding-left: 20%;
+}
+.quantitygramsOC{
+    padding-right: 0%;
+}
+.totalcartOC{
+    padding-left: 100%;
+}
+.RandsOC{
+    float: right;
+    padding-left: 160px;
+}
+.upbutton{
+    background-color: white;
+    width: 20%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3px;
+}
+    
+.centreOC{
+    width: 20%;
+    margin-right: auto;
+    display: block;
+}
+
+.DPcontainerBW{
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    
+    overflow-y: hidden;
+}
+.DPcontainerBW > li {
+    display: inline-block;
+
+}
+.DPcontainer1BW{
+    width: 100px;
+}
+.DPcontainer2BW{
+    padding-left: 5%;
+}
+.DPcontainer3BW{
+    padding-left: 120%;
+}
+.quantitygramsBW{
+    padding-left: 180%;
+}
+.totalcartBW{
+    padding-left: 100%;
+}
+.RandsBW{
+    float: right;
+    padding-left: 260px;
+}
+.upbutton{
+    background-color: white;
+    width: 20%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3px;
+}
+.centreBW{
+    width: 20%;
+    margin-right: auto;
+    display: block;
+}
+
+.DPcontainerPR{
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    
+    overflow-y: hidden;
+}
+.DPcontainerPR > li {
+    display: inline-block;
+
+}
+.DPcontainer1PR{
+    width: 100px;
+}
+.DPcontainer2PR{
+    padding-left: 5%;
+}
+.DPcontainer3PR{
+    padding-left: 120%;
+}
+.quantitygramsPR{
+    padding-left: 220%;
+}
+.totalcartPR{
+    padding-left: 100%;
+}
+.RandsPR{
+    float: right;
+    padding-left: 260px;
+}
+.upbutton{
+    background-color: white;
+    width: 20%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3px;
+}
+.centrePR{
+    width: 20%;
+    margin-right: auto;
+    display: block;
+}
+
+.DPcontainerNL{
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    
+    overflow-y: hidden;
+}
+.DPcontainerNL > li {
+    display: inline-block;
+
+}
+.DPcontainer1NL{
+    width: 100px;
+}
+.DPcontainer2NL{
+    padding-left: 5%;
+}
+.DPcontainer3NL{
+    padding-left: 120%;
+}
+.quantitygramsNL{
+    padding-left: 180%;
+}
+.totalcartNL{
+    padding-left: 100%;
+}
+.RandsNL{
+    float: right;
+    padding-left: 258px;
+}
+.upbutton{
+    background-color: white;
+    width: 20%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3px;
+}
+.centreNL{
+    width: 20%;
+    margin-right: auto;
+    display: block;
+}
+
+.DPcontainerCCES{
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    
+    overflow-y: hidden;
+}
+.DPcontainerCCES > li {
+    display: inline-block;
+
+}
+.DPcontainer1CCES{
+    width: 100px;
+}
+.DPcontainer2CCES{
+    padding-left: 5%;
+}
+.DPcontainer3CCES{
+    padding-left: 30%;
+}
+.quantitygramsCCES{
+    padding-left: 0%;
+}
+.totalcartCCes{
+    padding-left: 100%;
+}
+.RandsCCES{
+    float: right;
+    padding-left: 100px;
+}
+.upbutton{
+    background-color: white;
+    width: 20%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3px;
+}
+.centreCCES{
+    width: 20%;
+    margin-right: auto;
+    display: block;
+}
+
+.DPcontainerPE{
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    
+    overflow-y: hidden;
+}
+.DPcontainerPE > li {
+    display: inline-block;
+
+}
+.DPcontainer1PE{
+    width: 100px;
+}
+.DPcontainer2PE{
+    padding-left: 5%;
+}
+.DPcontainer3PE{
+    padding-left: 100%;
+}
+.quantitygramsPE{
+    padding-left: 160%;
+}
+.totalcartPE{
+    padding-left: 100%;
+}
+.RandsPE{
+    float: right;
+    padding-left: 190px;
+}
+.upbutton{
+    background-color: white;
+    width: 20%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3px;
+}
+.centrePE{
+    width: 20%;
+    margin-right: auto;
+    display: block;
+}
+.closebtn{
+    display:inline-block;
+}
+.gramsamount{
+    display:inline-block;
+}
+.plugfooterEnd{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    border-bottom: 2px solid black;
+    margin-top: 20 px;
+    margin-bottom: 20 px;
+}
+.cartpayment{
+    float: right;
+}
+.totalDelivery{
+    float: right;
+}
+.totalOrderR{
+    float: left;
+    padding-left: 74.5%;
+    display: inline-block;
+}
+.totalOrderR1{
+    float: left;
+    padding-left: 76.5%;
+    display: inline-block;
+}
+.totalCart{
+    float: left;
+    padding-left: 0px;
+    display: inline-block;
+}
+.totalOrder{
+    float: right;
+    padding-right: 0px;
+    display: inline-block;
+}
+.totalOrder1{
+    float: right;
+    padding-right: 0px;
+    display: inline-block;
+}
+.totalOrder2{
+    float: right;
+    padding-right: 0px;
+    display: inline-block;
+}
+.itemsRow{
+    white-space: nowrap;
+}
+.totalsRow{
+    white-space: nowrap;
+}
+
+@media all screen  and (min-width : 1224px) {
+.totalOrderR{
+    float: left;
+    padding-left: 0%;
+    display: inline-block;
+}
+.totalOrderR1{
+    float: left;
+    padding-left: 0%;
+    display: inline-block;
+}
+}
+
+
+@media all screen  and (min-width : 1824px) {
+.totalOrderR{
+    float: left;
+    padding-left: 0%;
+    display: inline-block;
+}
+.totalOrderR1{
+    float: left;
+    padding-left: 0%;
+    display: inline-block;
+}
+}
