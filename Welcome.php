@@ -24,8 +24,24 @@ $token= bin2hex(random_bytes(16));
             <div class="form-holder">
                 <div class="form-content">
                     <div class="form-items">
-                        <h3>Welcome</h3> 
-                        <p> <span style="color:brown;">Bean Tree Cafe</span></p>             
+                        <p><h3>Welcome</h3></p> 
+<p> 
+<img 
+width="273" 
+height="348" 
+src="https://res.cloudinary.com/badboylu/image/upload/c_scale,h_348,w_273/v1596008969/b8d0de7cacaf88b8b43d5413142c274d_asslru.jpg"  
+alt="" 
+srcset=
+"https://res.cloudinary.com/badboylu/image/upload/v1596008969/b8d0de7cacaf88b8b43d5413142c274d_asslru.jpg 870w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_300,w_235/v1596008969/b8d0de7cacaf88b8b43d5413142c274d_asslru.jpg 235w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_980,w_768/v1596008969/b8d0de7cacaf88b8b43d5413142c274d_asslru.jpg 768w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_1024,w_803/v1596008969/b8d0de7cacaf88b8b43d5413142c274d_asslru.jpg 803w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_340,w_266/v1596008969/b8d0de7cacaf88b8b43d5413142c274d_asslru.jpg 266w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_280,w_219/v1596008969/b8d0de7cacaf88b8b43d5413142c274d_asslru.jpg 219w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_336,w_263/v1596008969/b8d0de7cacaf88b8b43d5413142c274d_asslru.jpg 263w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_671,w_526/v1596008969/b8d0de7cacaf88b8b43d5413142c274d_asslru.jpg 526w" 
+sizes="(max-width: 273px) 100vw, 273px" /> 
+</p>             
                         <p style="color:green;" >Order online now!</p>
                         <p style="color:grey;" ><small>Get your order delivered within 60 minutes!</small></p>
                         <p><small>Which store is closest to you?</small></p>
