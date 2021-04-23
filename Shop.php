@@ -909,14 +909,14 @@ src="https://res.cloudinary.com/ddjrcafre/image/upload/v1619189069/Quiche2_h5lj2
 class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
 alt="" 
 srcset=
-"https://res.cloudinary.com/ddjrcafre/image/upload/v1619189069/Quiche2_h5lj2g.jpg 870w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/v1619189069/Quiche2_h5lj2g.jpg 235w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/v1619189069/Quiche2_h5lj2g.jpg 768w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/v1619189069/Quiche2_h5lj2g.jpg 803w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/v1619189069/Quiche2_h5lj2g.jpg 266w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/v1619189069/Quiche2_h5lj2g.jpg 219w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/v1619189069/Quiche2_h5lj2g.jpg 263w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/v1619189069/Quiche2_h5lj2g.jpg 526w" 
+"https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 870w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 235w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 768w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 803w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 266w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 219w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 263w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 526w" 
 sizes="(max-width: 273px) 100vw, 273px" />
 </a>
 <div class="hover-img">  
@@ -928,14 +928,14 @@ sizes="(max-width: 273px) 100vw, 273px" />
 	class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
 	alt="" 
 	srcset=
-	"https://res.cloudinary.com/ddjrcafre/image/upload/v1619189068/Quiche1_hioazr.jpg 870w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/v1619189068/Quiche1_hioazr.jpg 235w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/v1619189068/Quiche1_hioazr.jpg 768w,
-	https://res.cloudinary.com/ddjrcafre/image/upload/v1619189068/Quiche1_hioazr.jpg 803w,
-	https://res.cloudinary.com/ddjrcafre/image/upload/v1619189068/Quiche1_hioazr.jpg 266w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/v1619189068/Quiche1_hioazr.jpg 219w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/v1619189068/Quiche1_hioazr.jpg 263w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/v1619189068/Quiche1_hioazr.jpg 526w" 
+	"https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 870w, 
+	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 235w, 
+	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 768w,
+	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 803w,
+	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 266w, 
+	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 219w, 
+	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 263w, 
+	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 526w" 
 	sizes="(max-width: 273px) 100vw, 273px" /> 
 </a>
 </div>
