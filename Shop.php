@@ -905,7 +905,7 @@ class="product-grid-item basel-hover-alt product  col-md-3 col-sm-4 col-xs-6 fir
 <img 
 width="273" 
 height="348" 
-src="https://res.cloudinary.com/ddjrcafre/image/upload/c_fit/v1619189069/Quiche2_h5lj2g.jpg" 
+src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189069/Quiche2_h5lj2g.jpg" 
 class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
 alt="" 
 srcset=
@@ -924,7 +924,7 @@ sizes="(max-width: 273px) 100vw, 273px" />
 <img 
 	width="273" 
 	height="348" 
-	src="https://res.cloudinary.com/ddjrcafre/image/upload/c_fit/v1619189068/Quiche1_hioazr.jpg" 
+	src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189068/Quiche1_hioazr.jpg" 
 	class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
 	alt="" 
 	srcset=
@@ -987,7 +987,7 @@ New
 <img 
 width="273" 
 height="348" 
-src="https://res.cloudinary.com/ddjrcafre/image/upload/c_fit/v1619189653/RoastChickenMayo2_kwhxmd.jpg" 
+src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189653/RoastChickenMayo2_kwhxmd.jpg" 
 class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
 alt="" 
 srcset=
@@ -1008,7 +1008,7 @@ sizes="(max-width: 273px) 100vw, 273px" />
 <img 
 	width="273" 
 	height="348" 
-	src="https://res.cloudinary.com/ddjrcafre/image/upload/c_fit/v1619189652/RoastChickenMayo1_benisc.jpg" 
+	src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189652/RoastChickenMayo1_benisc.jpg" 
 	class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
 	alt="" 
 	srcset=
