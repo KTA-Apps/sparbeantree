@@ -942,7 +942,7 @@ sizes="(max-width: 273px) 100vw, 273px" />
 </div>
 <h3 class="product-title">
 <a href="Strain 1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-Red Roses
+Home-made Quiches
 </a>
 </h3>
 <div class="wrap-price">
@@ -954,7 +954,7 @@ Red Roses
 <span class="woocommerce-Price-currencySymbol">
 R
 </span>
-70
+68
 </span>
 </span>
 </span>
@@ -1026,7 +1026,7 @@ sizes="(max-width: 273px) 100vw, 273px" />
 </div>
 <h3 class="product-title">
 	<a href="Dabcaps.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-	CBD oil capsules
+	Rost Chicken Mayo Sandwich
 	</a>
 	</h3>
 	<div class="wrap-price">
@@ -1038,7 +1038,7 @@ sizes="(max-width: 273px) 100vw, 273px" />
 		<span class="woocommerce-Price-currencySymbol">
 		R
 		</span>
-		240
+		60
 		</span>
 		
 		</span>
@@ -1111,7 +1111,7 @@ sizes="(max-width: 273px) 100vw, 273px" />
 </div>
 <h3 class="product-title">
 <a href="Strain 2.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-Pink Roses
+Spaghetti Bolognaise
 </a>
 </h3>
 <div class="wrap-price">
@@ -1123,7 +1123,7 @@ Pink Roses
 	<span class="woocommerce-Price-currencySymbol">
 	R
 	</span>
-	20
+	82
 	</span>
 	
 	</span>
@@ -1189,7 +1189,7 @@ sizes="(max-width: 273px) 100vw, 273px" />
 </div>
 <h3 class="product-title">
 <a href="Rolling paper.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-Milk Chocolates
+Conversations Breakfast
 </a>
 </h3>
 <div class="wrap-price">
@@ -1201,7 +1201,7 @@ Milk Chocolates
 	<span class="woocommerce-Price-currencySymbol">
 	R
 	</span>
-	30
+	75
 	</span>
 	
 	</span>
@@ -1279,7 +1279,7 @@ sizes="(max-width: 273px) 100vw, 273px" />
 </div>
 <h3 class="product-title">
 <a href="Pre Rolls.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-Dark Chocolates
+Beef Burger Meal
 </a>
 </h3>
 <div class="wrap-price">
@@ -1291,7 +1291,7 @@ Dark Chocolates
 <span class="woocommerce-Price-currencySymbol">
 R
 </span>
-60
+64
 </span>
 
 </span>
@@ -1358,7 +1358,7 @@ sizes="(max-width: 273px) 100vw, 273px" />
 </div>
 <h3 class="product-title">
 <a href="Strain 3.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-Sunflowers
+Conversations Club Salad
 </a>
 </h3>
 <div class="wrap-price">
@@ -1370,7 +1370,7 @@ Sunflowers
 <span class="woocommerce-Price-currencySymbol">
 R
 </span>
-45
+78
 </span>
 
 </span>
@@ -1441,7 +1441,7 @@ sizes="(max-width: 273px) 100vw, 273px" />
 </div>
 <h3 class="product-title">
 <a href="DabcapsES.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-CBD capsules (strong)
+Chicken Burger Meal 
 </a>
 </h3>
 <div class="wrap-price">
@@ -1453,7 +1453,7 @@ CBD capsules (strong)
 <span class="woocommerce-Price-currencySymbol">
 R
 </span>
-450
+68
 </span>
 per/batch
 </span>
@@ -1527,7 +1527,7 @@ sizes="(max-width: 273px) 100vw, 273px" />
 </div>
 <h3 class="product-title">
 <a href="PRI.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-Mugs
+Ham Emmental Sandwich
 </a>
 </h3>
 <div class="wrap-price">
@@ -1539,7 +1539,7 @@ Mugs
 <span class="woocommerce-Price-currencySymbol">
 R
 </span>
-100
+68
 </span>
 
 </span>
@@ -1580,9 +1580,9 @@ R
 <div class="col-left"> 
 <i class="fa fa-copyright">
 </i> 
-2020 Created by 
+2021 Created by 
 <span>
-Lunga Magagula
+Kahrent Technology Africa
 </span>
 Contact us <a href="C.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a>. Terms and conditions <a href="A1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a></div></div></div></div></footer></div>
 <div class="basel-close-side">
