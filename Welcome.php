@@ -26,21 +26,9 @@ $token= bin2hex(random_bytes(16));
                     <div class="form-items">
                         <p><h3>Welcome</h3></p> 
 <p> 
-<img 
-width="273" 
-height="348" 
+<img  
 src="https://res.cloudinary.com/ddjrcafre/image/upload/v1619180869/download_qiezgo.jpg"  
-alt="" 
-srcset=
-"https://res.cloudinary.com/ddjrcafre/image/upload/v1619180869/download_qiezgo.jpg 870w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/v1619180869/download_qiezgo.jpg 235w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/v1619180869/download_qiezgo.jpg 768w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/v1619180869/download_qiezgo.jpg 803w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/v1619180869/download_qiezgo.jpg 266w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/v1619180869/download_qiezgo.jpg 219w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/v1619180869/download_qiezgo.jpg 263w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/v1619180869/download_qiezgo.jpg 526w" 
-sizes="(max-width: 273px) 100vw, 273px" /> 
+alt="" /> 
 </p>             
                         <p style="color:green;" >Order online now!</p>
                         <p style="color:grey;" ><small>Get your order delivered within 60 minutes!</small></p>
