@@ -18,7 +18,7 @@ $token= bin2hex(random_bytes(16));
             <div class="img-holder">
                 <div class="bg"></div>
                 <div class="info-holder">
-                    <img src="LoginBackground.jpg" alt="">
+                    <img src="outside-area-1024x768.jpg" alt="">
                 </div>
             </div>
             <div class="form-holder">
