@@ -841,7 +841,7 @@ class="pf-value"
 href="Flowers.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"
 data-val="bags" 
 data-title="Bags" >
-Flowers
+Breakfast
 </a>
 </li>
 <li class="cat-item cat-item-63 ">
@@ -850,7 +850,7 @@ class="pf-value"
 href="Edibles.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"
 data-val="accessories" 
 data-title="Accessories" >
-Edibles
+Lunch Meals
 </a>
 </li>
 <li class="cat-item cat-item-62 ">
@@ -859,7 +859,7 @@ class="pf-value"
 href="Accessories.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"
 data-val="jewellery" 
 data-title="Jewellery" >
-Accessories
+Gourmet Sandwiches
 </a>
 </li>
 </ul>
