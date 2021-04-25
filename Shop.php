@@ -902,7 +902,6 @@ data-source="main_loop">
 class="product-grid-item basel-hover-alt product  col-md-3 col-sm-4 col-xs-6 first  type-product post-19655 status-publish first instock product_cat-bags product_tag-new product_tag-whte has-post-thumbnail featured shipping-taxable purchasable product-type-variable" data-loop="1" data-id="19655">
 	<div class="product-element-top"> 
 <a href="Strain 1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-<div style="width:273;height:348;">
 <img 
 width="273" 
 height="348" 
@@ -918,11 +917,10 @@ https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/
 https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 219w, 
 https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 263w, 
 https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 526w" 
-sizes="(max-width: 273px) 100vw, 273px" /></div>
+sizes="(max-width: 273px) 100vw, 273px" />
 </a>
 <div class="hover-img">  
 <a href="Strain 1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-<div style="width:273;height:348;">
 <img 
 	width="273" 
 	height="348" 
@@ -938,7 +936,7 @@ sizes="(max-width: 273px) 100vw, 273px" /></div>
 	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 219w, 
 	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 263w, 
 	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 526w" 
-	sizes="(max-width: 273px) 100vw, 273px" /></div>
+	sizes="(max-width: 273px) 100vw, 273px" />
 </a>
 </div>
 </div>
