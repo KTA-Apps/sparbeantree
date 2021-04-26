@@ -1,5 +1,5 @@
 <?php
-$servername="pxukqohrckdfo4ty.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+ $servername="pxukqohrckdfo4ty.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
  $dBUsername="tz4j9cvvvx19w3zk";
  $dBPassword="kwpkk6ybhd4t3mh2";
  $dBName="f7pf1g63rq9j6hth";
@@ -13,39 +13,6 @@ $authtoken = $_GET['auth'];
 $username = $_GET['username'];
 $confirmedpayment1 = 'Placed';
 $confirmedpayment = 'Pending';
-$query='SELECT * FROM users WHERE uidUsers="'.$username.'" ';
-$result=mysqli_query($conn,$query);
-
-while($row=mysqli_fetch_array($result)){
- $mail[]=$row['emailUser'];
-}
-
-$email=Min($mail);
-$dp = $_GET['DPgrams'];
-$oc = $_GET['OCgrams'];
-$bw = $_GET['BWgrams'];
-$pr = $_GET['PRgrams'];
-$nl = $_GET['NLgrams'];
-$cces = $_GET['CCESgrams'];
-$cc = $_GET['CCgrams'];
-$pe = $_GET['PEgrams'];
-
-$province = $_GET['Province'];
-$city = $_GET['City'];
-$town = $_GET['Towns'];
-$suburb = $_GET['suburbs'];
-$street = $_GET['Street'];
-$structure = $_GET['Crib'];
-$mall = $_GET['Mall'];
-$building = $_GET['Building'];
-$estate = $_GET['Estate'];
-$complex = $_GET['Complex'];
-$company = $_GET['Company'];
-$shop = $_GET['Shop'];
-$housenumber = $_GET['House-number'];
-$unitnumber = $_GET['Unit-number'];
-$contactnumber = $_GET['Contact-number'];
-$total = $_GET['totalamount'];
 
    function generateSignature($data, $passPhrase = null) {
     // Create parameter string
