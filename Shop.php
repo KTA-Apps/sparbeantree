@@ -1,6 +1,5 @@
 <?php
-   $username = 'test';
-   $authtoken = 'me';
+ $authtoken = $_GET['auth'];
 ?>
 <html>
 <head>
