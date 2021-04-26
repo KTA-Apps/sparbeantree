@@ -3,12 +3,12 @@ $servername="pxukqohrckdfo4ty.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
  $dBUsername="tz4j9cvvvx19w3zk";
  $dBPassword="kwpkk6ybhd4t3mh2";
  $dBName="f7pf1g63rq9j6hth";
-   $conn=mysqli_connect($servername,$dBUsername,$dBPassword,$dBName);
-   $authtoken = $_GET['auth'];
-   $username = $_GET['username'];
-   $prepared = 'Prepared';
-   $collected = 'Collected';
-   $pending = 'Pending';
+date_default_timezone_set('Africa/Johannesburg');
+$conn=mysqli_connect($servername,$dBUsername,$dBPassword,$dBName);
+$authtoken = $_GET['auth'];
+$prepared = 'Prepared';
+$collected = 'Collected';
+$pending = 'Pending';
    
    $total = $_GET['eTotal'];
    $city = $_GET['eCity'];
@@ -34,92 +34,112 @@ $servername="pxukqohrckdfo4ty.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
    $contact = $_GET['eContact'];
    $date = $_GET['eDate'];
    
-
-   $sql="SELECT * FROM oders WHERE idOrderConfirmation=? OR idOrderConfirmation=? OR idOrderConfirmation=? AND idOrderUsername=? ";
-   $stmt=mysqli_stmt_init($conn);
-   if(!mysqli_stmt_prepare($stmt,$sql)){
-       header("Location:register.html?error=SQL1");
-       exit();
+   $query="SELECT * FROM oders WHERE idOrderToken='".$authtoken."' ";
+   $result=mysqli_query($conn,$query);
+   $count=mysqli_num_rows($result);
+   if($count>0){
+   while($row=mysqli_fetch_array($result)){
+   $check[]=$row['idOrderConfirmation'];
    }
-   mysqli_stmt_bind_param($stmt,"ssss",$pending,$prepared,$collected,$username);
-   mysqli_stmt_execute($stmt);
-   mysqli_stmt_store_result($stmt);
-   $check=mysqli_stmt_num_rows($stmt);
-   
-   if($check>0){
-   $query="SELECT * FROM oders WHERE idOrderConfirmation='Pending' OR idOrderConfirmation='Prepared' OR idOrderConfirmation='Collected' AND idOrderUsername='".$username."' ";
+   if($check='Pending'||$check='Collected'||$check='Prepared'){
+   $query="SELECT * FROM oders WHERE idOrderToken='".$authtoken."'";
    $result=mysqli_query($conn,$query);
    while($row=mysqli_fetch_array($result)){
    $ordernumbers[]=$row['idOrders'];
    }
    $order=Min($ordernumbers);
-   
    $query="SELECT * FROM oders WHERE idOrders='".$order."' ";
    $result=mysqli_query($conn,$query);
    while($row=mysqli_fetch_array($result)){
    $ordertoken[]=$row['idOrderToken'];
    }
    $token=Min($ordertoken); 
-
+  
    $query="SELECT * FROM oders WHERE idOrders='".$order."' ";
    $result=mysqli_query($conn,$query);
    while($row=mysqli_fetch_array($result)){
    $custitoken[]=$row['idOrderCustiCode'];
    }
    $code=Min($custitoken); 
-
+  
    $query="SELECT * FROM deliverytoken WHERE idOrderID='".$token."' AND idCustomerToken='".$code."' ";
    $result=mysqli_query($conn,$query);
    while($row=mysqli_fetch_array($result)){
    $ordernm[]=$row['id'];
    }
    $ordernmb=Min($ordernm); 
-
-   $query="SELECT * FROM users WHERE uidUsers='".$username."' ";
-   $result=mysqli_query($conn,$query);
-   while($row=mysqli_fetch_array($result)){
-   $usermail[]=$row['emailUsers'];
-   }
-   $email=Min($usermail); 
-   
-   $sql="SELECT * FROM oders WHERE idOrderConfirmation=? AND idOrderUsername=? AND idOrders=? ";
+  
+   $sql="SELECT * FROM oders WHERE idOrderConfirmation=? AND idOrderToken=? AND idOrders=? ";
    $stmt=mysqli_stmt_init($conn);
    if(!mysqli_stmt_prepare($stmt,$sql)){
        header("Location:register.html?error=SQL1");
        exit();
    }
-   mysqli_stmt_bind_param($stmt,"sss",$prepared,$username,$order);
+   mysqli_stmt_bind_param($stmt,"sss",$prepared,$authtoken,$order);
    mysqli_stmt_execute($stmt);
    mysqli_stmt_store_result($stmt);
-   $prepared=mysqli_stmt_num_rows($stmt);
+   $prepared1=mysqli_stmt_num_rows($stmt);
    
-   $sql="SELECT * FROM oders WHERE idOrderConfirmation=? AND idOrderUsername=? AND idOrders=? ";
+   $sql="SELECT * FROM oders WHERE idOrderConfirmation=? AND idOrderToken=? AND idOrders=? ";
    $stmt=mysqli_stmt_init($conn);
    if(!mysqli_stmt_prepare($stmt,$sql)){
        header("Location:register.html?error=SQL1");
        exit();
    }
-   mysqli_stmt_bind_param($stmt,"sss",$collected,$username,$order);
+   mysqli_stmt_bind_param($stmt,"sss",$collected,$authtoken,$order);
    mysqli_stmt_execute($stmt);
    mysqli_stmt_store_result($stmt);
-   $collected=mysqli_stmt_num_rows($stmt);
-   
-   $sql="SELECT * FROM oders WHERE idOrderConfirmation=? AND idOrderUsername=? AND idOrders=? ";
+   $collected1=mysqli_stmt_num_rows($stmt);
+  
+   $sql="SELECT * FROM oders WHERE idOrderConfirmation=? AND idOrderToken=? AND idOrders=? ";
    $stmt=mysqli_stmt_init($conn);
    if(!mysqli_stmt_prepare($stmt,$sql)){
        header("Location:register.html?error=SQL1");
        exit();
    }
-   mysqli_stmt_bind_param($stmt,"sss",$pending,$username,$order);
+   mysqli_stmt_bind_param($stmt,"sss",$pending,$authtoken,$order);
    mysqli_stmt_execute($stmt);
    mysqli_stmt_store_result($stmt);
-   $pending=mysqli_stmt_num_rows($stmt);
+   $pending1=mysqli_stmt_num_rows($stmt);
+  
    }
    else{
-    $prepared='0';
-    $collected='0';
-    $pending='0';
+    $prepared1='0';
+    $collected1='0';
+    $pending1='0';
    }
+   }else{
+    $prepared1='0';
+    $collected1='0';
+    $pending1='0';
+   }
+
+   $sql='SELECT idTime FROM address WHERE idOrderCustiCode="'.$code.'"';
+   $stmt=mysqli_stmt_init($conn);
+ if(!mysqli_stmt_prepare($stmt,$sql)){
+       header("Location:Signin.php?error=SQL2");
+       exit();
+}
+   mysqli_stmt_execute($stmt);
+   mysqli_stmt_bind_result($stmt, $hash);
+   while (mysqli_stmt_fetch($stmt)) { 
+    $timeplaced=$hash;
+}
+
+$sql='SELECT idDate FROM address WHERE idOrderCustiCode="'.$code.'"';
+   $stmt=mysqli_stmt_init($conn);
+ if(!mysqli_stmt_prepare($stmt,$sql)){
+       header("Location:Signin.php?error=SQL2");
+       exit();
+}
+   mysqli_stmt_execute($stmt);
+   mysqli_stmt_bind_result($stmt, $hash1);
+   while (mysqli_stmt_fetch($stmt)) { 
+    $dateplaced=$hash1;
+	   
+$timeplacedReal= date('H:i', strtotime($timeplaced));
+$timeChange=date('H:i',strtotime('+2 hour',strtotime($timeplaced)));
+}
 ?>
 <!DOCTYPE html> <!--[if IE 8]><html class="ie ie8" lang="en-US"> <![endif]--> <!--[if !(IE 7) & !(IE 8)]><!--><html lang="en-US"> <!--<![endif]-->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -131,7 +151,7 @@ $servername="pxukqohrckdfo4ty.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
 href="http://gmpg.org/xfn/11">
 <link rel="pingback" 
 href="Backend/xmlrpc.html">
-<title>Order Tracker</title>
+<title>Delivery status</title>
 <link rel="stylesheet" 
 href="c7c58cca0fc9c8acb3530bf8cbf53297.css" 
 data-minify="1" />
@@ -205,15 +225,15 @@ href="cannacaps.html" />
 	<div class="container">
 	<div class="topbar-content">
 	<div class="top-bar-left"> 
-	<span> <?php echo $_GET['username']; ?></span><span> </span> <span>[<a href="Logout.php?&auth=<?php echo $_GET['auth'];?>"><span style="color:red;"> Log out</span></a>]</span> <span>[<a href="O1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"><span style="color:orange;">Order log</span></a>]</span>
+	
 	</div>
 	<div class="top-bar-right">
 	<div class="topbar-menu">
 	<div class="menu-top-bar-container">
 	<ul id="menu-top-bar" class="menu">
 	<li id="menu-item-20488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20488 menu-item-design-default item-event-hover">
-	<a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-	Shop
+	<a href="Items.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+	Items
 	</a></li></ul></div></div></div></div></div></div>
 	
 	<header class="main-header header-has-no-bg header-shop icons-design-line color-scheme-dark">
@@ -225,9 +245,7 @@ href="cannacaps.html" />
 </div>
 <div class="site-logo">
 <div class="basel-logo-wrap"> 
-<a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" class="basel-logo basel-main-logo" rel="home"> 
-<img  src="https://res.cloudinary.com/badboylu/image/upload/c_scale,h_350/v1595757623/website_logo_head_aswjjx.jpg" alt="Basel" /> 
-</a></div></div>
+</div></div>
 <div class="right-column">
 <div >
 <div >
@@ -257,7 +275,7 @@ href="cannacaps.html" />
 </span>
 <h4 class="title" >
 <strong>
-Order Tracker
+Delivery status
 </strong>
 <span class="title-separator">
 <span>
@@ -269,11 +287,11 @@ Order Tracker
 </div>
 <span class="title-after_title">
 
-</span></div><div class="woocommerce"><div class="single-product" data-product-page-preselected-id="0"><div class="single-breadcrumbs-wrapper"><div class="container"> <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" class="basel-back-btn basel-tooltip"><span>Back</span></a><nav class="woocommerce-breadcrumb">
-<a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+</span></div><div class="woocommerce"><div class="single-product" data-product-page-preselected-id="0"><div class="single-breadcrumbs-wrapper"><div class="container"> <a href="Items.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" class="basel-back-btn basel-tooltip"><span>Back</span></a><nav class="woocommerce-breadcrumb">
+<a href="Items.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 Shop
 </a><span class="breadcrumb-last"> 
-Tracker 
+Delivery status 
 </span>
 </nav>
 </div>
@@ -285,16 +303,19 @@ Tracker
 <P id="OD2" style="display:none" ><strong> Order number:</strong>N/A</p>
 <P id="codehide1"><strong> Collection code:</strong> <?php echo $code; ?> </p>
 <P id="codehide2" style="display:none" ><strong> Collection code:</strong>N/A</p>
-<br>
-<p id="preparehide1"><strong> Order preparation: </strong> <span style="color:orange">Pending </span> </p>
-<p id="preparehide2" style="display:none"><strong> Order preparation: </strong> <span style="color:green"> Prepared </span> </p>
-<p id="preparehide3" style="display:none"><strong> Order preparation: </strong> <span> N/A </span> </p>
-<p id="collecthide1"><strong> Order collection: </strong> <span style="color:orange"> Pending </span> </p>
-<p id="collecthide2" style="display:none" ><strong> Order collection: </strong> <span style="color:green"> Collected by driver </span> </p>
-<p id="collecthide3" style="display:none" ><strong> Order collection: </strong> <span> N/A </span> </p>
-<p id="deliveryhide1"><strong> Order delivery: </strong> <span style="color:orange"> Pending </span> </p>
-<p id="deliveryhide2" style="display:none" ><strong> Order delivery: </strong> <span style="color:green"> En-route </span> </p>
-<p id="deliveryhide3" style="display:none" ><strong> Order delivery: </strong> <span> N/A </span> </p>
+<P id="timehide1"><strong> Placed:</strong> [<?php echo $dateplaced; ?>] [<?php echo $timeplacedReal; ?>]</p>
+<P id="timehide2" style="display:none" ><strong> Placed:</strong>N/A</p>
+<P id="etahide1"><strong> Estimated time of arrival:</strong> [<?php echo $dateplaced; ?>] [<?php echo $timeChange; ?>] </p>
+<P id="etahide2" style="display:none" ><strong> Estimated time of arrival:</strong>N/A</p>
+<p id="preparehide1"><strong> Preparation status: </strong> <span style="color:orange">Pending </span> </p>
+<p id="preparehide2" style="display:none"><strong> Preparation status: </strong> <span style="color:green"> Packaged </span> </p>
+<p id="preparehide3" style="display:none"><strong> Preparation status: </strong> <span> N/A </span> </p>
+<p id="collecthide1"><strong> Pick-up status: </strong> <span style="color:orange"> Pending </span> </p>
+<p id="collecthide2" style="display:none" ><strong> Pick-up status: </strong> <span style="color:green"> Collected </span> </p>
+<p id="collecthide3" style="display:none" ><strong> Pick-up status: </strong> <span> N/A </span> </p>
+<p id="deliveryhide1"><strong> Location status: </strong> <span style="color:orange"> @Distro point </span> </p>
+<p id="deliveryhide2" style="display:none" ><strong> Location status: </strong> <span style="color:green"> En-route </span> </p>
+<p id="deliveryhide3" style="display:none" ><strong> Location status: </strong> <span> N/A </span> </p>
 <br>
 	<button onclick='refreshPage()'>
 		Update
@@ -311,18 +332,18 @@ Tracker
 <div class="col-left"> 
 <i class="fa fa-copyright">
 </i> 
-2020 Created by 
+2021 Created by 
 <span>
 Kahrent Technology
 </span>
-Africa. Contact us <a href="C.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a>. Terms and conditions <a href="A1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a></div></div></div></div></footer></div>
+Africa (Pty) Ltd. Contact us <a href="C.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a>. Terms and conditions <a href="A1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a></div></div></div></div></footer></div>
 <div class="basel-close-side">
 </div>
 <div class="basel-toolbar icons-design-line basel-toolbar-label-show">
 <div class="basel-toolbar-shop basel-toolbar-item"> 
-<a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<a href="Items.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 <span class="basel-toolbar-label"> 
-Shop 
+Items
 </span> </a></div>
 <div class="king"> 
 <img src="https://img.icons8.com/ios-glyphs/30/000000/medieval-crown.png"/>
@@ -361,9 +382,9 @@ src="Form.js" >
 </script>
 <script>
 setInterval (function hideCollect(){
-var collected = ' <?php echo $collected; ?> ';
-var prepared = ' <?php echo $prepared; ?> ';
-var pending = ' <?php echo $pending; ?> ';
+var collected = ' <?php echo $collected1; ?> ';
+var prepared = ' <?php echo $prepared1; ?> ';
+var pending = ' <?php echo $pending1; ?> ';
 if (prepared>0){
  document.getElementById("preparehide1").style.display = "none";
  document.getElementById("preparehide2").style.display = "block";
