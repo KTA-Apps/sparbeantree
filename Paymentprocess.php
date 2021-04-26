@@ -112,7 +112,7 @@ $data = array(
     'merchant_id' => '10000100',
     'merchant_key' => '46f0cd694581a',
     'return_url' => 'https://sparbeantree.herokuapp.com/process2.php',
-    'cancel_url' => 'https:/sparbeantree.herokuapp.com/process1.php',
+    'cancel_url' => 'https://sparbeantree.herokuapp.com/process1.php',
     'amount'=> $total,
     'item_name' => 'Canibuy Health Store',
 );
