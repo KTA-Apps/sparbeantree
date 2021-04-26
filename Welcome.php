@@ -26,7 +26,7 @@ $token= bin2hex(random_bytes(16));
                     <div class="form-items">
                         <p><h3>Welcome</h3></p> 
 <p> 
-<div>
+<div style="display: block;margin-left: auto;margin-right: auto;width: 50%;">
 <img  
 src="https://res.cloudinary.com/ddjrcafre/image/upload/v1619180869/download_qiezgo.jpg"  
 alt="" /> 
