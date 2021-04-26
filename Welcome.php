@@ -44,7 +44,7 @@ alt="" />
                         </select>
                         </p>
                         <div class="page-links">
-                            <p><a href="Shop.php?auth=<?php echo $token; ?>"><span style="color:green"><small>Enter</small><span></a></p>
+                            <p><a href="Shop.php?auth=<?php echo $token; ?>"><span style="color:green"><small>Enter store</small><span></a></p>
                         </div>
                     </div>
                 </div>
