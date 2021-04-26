@@ -11,7 +11,7 @@ let user = localStorage.getItem('username');
 document.getElementById("user").value = user;
 }
 function auth(){
-let auth = localStorage.getItem('token');
+let auth = localStorage.getItem('token1');
 document.getElementById("auth").value = auth ;
 }
 function submit(){
