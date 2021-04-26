@@ -1,15 +1,10 @@
 <html>
 
 <form action="process4.php" method="get" id="form">
-<input type="hidden" name="username" value="" id="user">
 <input type="hidden" name="auth" value="" id="auth">
 </form>
 
 <script>
-function user(){
-let user = localStorage.getItem('username');
-document.getElementById("user").value = user;
-}
 function auth(){
 let auth = localStorage.getItem('token1');
 document.getElementById("auth").value = auth ;
@@ -62,7 +57,6 @@ function clear(){
   localStorage.removeItem("promo");
 }
 clear();
-user();
 auth();
 submit();
 </script>
