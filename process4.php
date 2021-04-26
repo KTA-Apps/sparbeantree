@@ -3,8 +3,8 @@ $servername="pxukqohrckdfo4ty.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
  $dBUsername="tz4j9cvvvx19w3zk";
  $dBPassword="kwpkk6ybhd4t3mh2";
  $dBName="f7pf1g63rq9j6hth";
+
 $conn=mysqli_connect($servername,$dBUsername,$dBPassword,$dBName);
-$username = $_GET['username'];
 $authtoken = $_GET['auth'];
 $query='SELECT * FROM oders WHERE idOrderToken="'.$authtoken.'" ';
 $result=mysqli_query($conn,$query);
@@ -26,7 +26,6 @@ mysqli_query($conn,$sql2);
 
 <html>
 <form action="T1.php" method="get" id="form">
-<input type="hidden" name="username" value="" id="user">
 <input type="hidden" name="auth" value="" id="auth">
 <input type="hidden" name="eTotal" value="" id="eTotal">
 <input type="hidden" name="eCity" value="" id="eCity">
@@ -54,12 +53,8 @@ mysqli_query($conn,$sql2);
 <input type="hidden" name="eDate" value="" id="eDate">
 </form>
 <script>
-function user(){
-let user = localStorage.getItem('username');
-document.getElementById("user").value = user;
-}
 function auth(){
-let auth = localStorage.getItem('token');
+let auth = localStorage.getItem('token1');
 document.getElementById("auth").value = auth ;
 }
 function submit(){
@@ -157,7 +152,6 @@ function date(){
 let date = localStorage.getItem('eDate');
 document.getElementById("eDate").value = date ;
 }
-user();
 auth();
 total();
 city();
