@@ -1,8 +1,8 @@
 <?php
-$servername="dt3bgg3gu6nqye5f.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-$dBUsername="fn5xp8yu9vmphif8";
-$dBPassword="j0oarzobzrwqy40b";
-$dBName="eebooc1cx2mejqru";
+$servername="pxukqohrckdfo4ty.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+ $dBUsername="tz4j9cvvvx19w3zk";
+ $dBPassword="kwpkk6ybhd4t3mh2";
+ $dBName="f7pf1g63rq9j6hth";
 ?>
 <!DOCTYPE html> <!--[if IE 8]><html class="ie ie8" lang="en-US"> <![endif]--> <!--[if !(IE 7) & !(IE 8)]><!--><html lang="en-US"> <!--<![endif]-->
 <!-- Mirrored from demo.xtemos.com/basel/single-product/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Jul 2020 01:45:51 GMT -->
