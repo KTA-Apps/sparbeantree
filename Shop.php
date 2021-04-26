@@ -1687,18 +1687,9 @@ addHide();
 function test(){
 let auth = '<?php echo $authtoken; ?>';
 if(auth){
-  localStorage.setItem('token', auth);
+  localStorage.setItem('token1', auth);
  }
 }
-
-function show(){
-let user = '<?php echo $username; ?>';
-if(user){
-  localStorage.setItem('username', user);
- }
-}
-
-show();
 test();
 </script>
 </body>
