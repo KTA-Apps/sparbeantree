@@ -1,1 +1,1 @@
-# Spar Website application
+# Spar Website Application
