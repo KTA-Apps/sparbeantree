@@ -85,11 +85,10 @@ if(!mysqli_stmt_prepare($stmt, $sql4)){
 
 $cartTotal = 10.00;
 $data = array(
-    'merchant_id' => '16487327',
-    'merchant_key' => 'grrpth5dyco9u',
-    'return_url' => 'https://canibuy.co.za/process2.php',
-    'cancel_url' => 'https://canibuy.co.za/process1.php',
-    'email_address'=> $email,
+    'merchant_id' => '10000100',
+    'merchant_key' => '46f0cd694581a',
+    'return_url' => 'https://canibu.herokuapp.com/process2.php',
+    'cancel_url' => 'https://canibu.herokuapp.com/process1.php',
     'amount'=> $total,
     'item_name' => 'Canibuy Health Store',
 );
@@ -97,7 +96,7 @@ $signature = generateSignature($data);
 $data['signature'] = $signature;
 
 
-$htmlForm = '<form action="https://sandbox.payfast.co.za​/eng/process" method="post" id="form">';
+$htmlForm = '<form action="https://sandbox.payfast.co.za/eng/process" method="post" id="form">';
 foreach($data as $name=> $value)
 {
     $htmlForm .= '<input name="'.$name.'" type="hidden" value="'.$value.'" />';
