@@ -14,6 +14,59 @@ $username = $_GET['username'];
 $confirmedpayment1 = 'Placed';
 $confirmedpayment = 'Pending';
 
+$sql="INSERT INTO oders (idOrderUsername,idOrderDPgrams,idOrderCCbatches,idOrderOCgrams,idOrderBWgrams, idOrderPRjays, idOrderNLgrams, idOrderCCESbatches, idOrderPEgrams, idOrderConfirmation, idOrderToken, idOrderTime, idOrderDate,idOrderTotal,idOrderCustiCode,idOrderCode) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)";
+$stmt=mysqli_stmt_init($conn);
+
+    if(!mysqli_stmt_prepare($stmt,$sql)){
+       header("Location:Signin.php?error=sqlerror111");
+       exit();
+}
+     mysqli_stmt_bind_param($stmt,"siiiiiiiissssiss",$username,$dp,$cc,$oc,$bw,$pr,$nl,$cces,$pe,$confirmedpayment1,$authtoken,$time,$date,$total,$custitoken,$preppertoken);
+     mysqli_stmt_execute($stmt);
+     mysqli_stmt_close($stmt);
+
+$sql="INSERT INTO address (idUsername,idProvince,idCity,idTown,idSuburb,idCrib,idBuilding,idEstate,idComplex,idMall,idShop,idStreet,idUnitNumber,idHouseNumber,idContactNumber,idTime,idDate,idToken,idOrderConfirmation,idOrderCustiCode) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)";
+$stmt=mysqli_stmt_init($conn);
+
+    if(!mysqli_stmt_prepare($stmt,$sql)){
+       header("Location:Signin.php?error=sqlerror222");
+       exit();
+}
+     mysqli_stmt_bind_param($stmt,"ssssssssssssssssssss",$username,$province,$city,$town,$suburb,$structure,$building,$estate,$complex,$mall,$shop,$street,$unitnumber,$housenumber,$contactnumber,$time,$date,$authtoken,$confirmedpayment1,$custitoken);
+     mysqli_stmt_execute($stmt);
+     mysqli_stmt_close($stmt);
+
+$sql3="INSERT INTO deliverytoken (idDate,idUsername,idCustomerToken,idPrepperToken,idOrderID) VALUES (?,?,?,?,?);";
+$stmt= mysqli_stmt_init($conn);
+
+if(!mysqli_stmt_prepare($stmt, $sql3)){
+    header("Location:Signin.php?error=sqlerror999");
+    exit();
+ }
+
+    mysqli_stmt_bind_param($stmt,"sssss",$date,$confirmedpayment,$custitoken,$preppertoken,$authtoken);
+    mysqli_stmt_execute($stmt);
+    mysqli_stmt_close($stmt);
+
+$query="select * from deliverytoken";
+$result=mysqli_query($conn,$query);
+while($row=mysqli_fetch_array($result)){
+ $ordernumbers[]=$row['id'];
+}
+$order=Max($ordernumbers);
+
+$sql4="INSERT INTO orderlog (idDate,idAmount,idOrderStat,idCustiToken,idUsername,idOrderNumber,idPrepperToken) VALUES (?,?,?,?,?,?,?);";
+$stmt= mysqli_stmt_init($conn);
+
+if(!mysqli_stmt_prepare($stmt, $sql4)){
+    header("Location:Signin.php?error=sqlerror123");
+    exit();
+ }
+    mysqli_stmt_bind_param($stmt,"sisssis",$date,$total,$confirmedpayment1,$custitoken,$username,$order,$authtoken);
+    mysqli_stmt_execute($stmt);
+    mysqli_stmt_close($stmt);
+
+
    function generateSignature($data, $passPhrase = null) {
     // Create parameter string
     $pfOutput = '';
