@@ -25,8 +25,9 @@ $signup=$_GET['signup'];
             <div class="form-holder">
                 <div class="form-content">
                     <div class="form-items">
-                        <h3>Welcome! <br><span style="color:orange;">Lunga M's demo site</span></h3>
-                        <p style="color:green;" >Login to view site features</p>
+                        <h3>Welcome! <br> Login to <span style="color:orange;">account</span></h3>
+                        <p style="color:green;" >Operations</p>
+                      
                         
                         <form action="logintest.php" method="post">
                             <input id="uid" class="form-control" type="text" name="uid" placeholder="Username/E-mail" required>
@@ -47,8 +48,7 @@ $signup=$_GET['signup'];
                         </form>
                       
                         <div class="page-links">
-                            <br>
-                            <a href="register.php"><span style="color:green">Register new account<span></a>
+                            
                         </div>
                     </div>
                 </div>
