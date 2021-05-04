@@ -1430,16 +1430,16 @@ sizes="(max-width: 273px) 100vw, 273px" />
 <img 
 width="273" 
 height="348" 
-src="../../../basel-cec2.kxcdn.com/basel/wp-content/uploads/2015/10/watches-13.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" 
+src="https://res.cloudinary.com/ddjrcafre/image/upload/v1620128374/Chickenburger2_uzdwe1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" 
 srcset=
-"https://res.cloudinary.com/badboylu/image/upload/v1595155752/_DSC6512_jsmovp.jpg 870w, 
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_300,w_235/v1595155752/_DSC6512_jsmovp.jpg 235w, 
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_980,w_768/v1595155752/_DSC6512_jsmovp.jpg 768w, 
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_1024,w_803/v1595155752/_DSC6512_jsmovp.jpg 803w, 
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_340,w_266/v1595155752/_DSC6512_jsmovp.jpg 266w, 
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_280,w_219/v1595155752/_DSC6512_jsmovp.jpg 219w, 
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_336,w_263/v1595155752/_DSC6512_jsmovp.jpg 263w, 
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_671,w_526/v1595155752/_DSC6512_jsmovp.jpg 526w" 
+"https://res.cloudinary.com/ddjrcafre/image/upload/v1620128374/Chickenburger2_uzdwe1.jpg 870w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1620128374/Chickenburger2_uzdwe1.jpg 235w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1620128374/Chickenburger2_uzdwe1.jpg 768w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1620128374/Chickenburger2_uzdwe1.jpg 803w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1620128374/Chickenburger2_uzdwe1.jpg 266w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1620128374/Chickenburger2_uzdwe1.jpg 219w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1620128374/Chickenburger2_uzdwe1.jpg 263w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1620128374/Chickenburger2_uzdwe1.jpg 526w" 
 sizes="(max-width: 273px) 100vw, 273px" /> 
 </a>
 </div>
