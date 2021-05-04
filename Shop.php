@@ -1011,20 +1011,20 @@ sizes="(max-width: 273px) 100vw, 273px" />
 <img 
 	width="273" 
 	height="348" 
-	src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189652/RoastChickenMayo1_benisc.jpg" 
+	src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620123332/Grilled-Chicken-3_t8o0jc.jpg" 
 	class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
 	alt="" 
 	srcset=
-        "https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189652/RoastChickenMayo1_benisc.jpg 273w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1619189652/RoastChickenMayo1_benisc.jpg 235w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1619189652/RoastChickenMayo1_benisc.jpg 768w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1619189652/RoastChickenMayo1_benisc.jpg 803w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_697,w_546/v1619189652/RoastChickenMayo1_benisc.jpg 546w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1619189652/RoastChickenMayo1_benisc.jpg 266w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1619189652/RoastChickenMayo1_benisc.jpg 219w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1619189652/RoastChickenMayo1_benisc.jpg 263w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1619189652/RoastChickenMayo1_benisc.jpg 526w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189652/RoastChickenMayo1_benisc.jpg 870w" 
+        "https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 273w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 235w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 768w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 803w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_697,w_546/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 546w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 266w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 219w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 263w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 526w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 870w" 
 	sizes="(max-width: 273px) 100vw, 273px" /> 
 </a>
 </div>
