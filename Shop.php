@@ -907,15 +907,17 @@ height="348"
 src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189069/Quiche2_h5lj2g.jpg" 
 class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
 alt="" 
-srcset=
-"https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 870w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 235w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 768w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 803w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 266w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 219w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 263w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 526w" 
+srcset= 
+"https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189069/Quiche2_h5lj2g.jpg 273w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1619189069/Quiche2_h5lj2g.jpg 235w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1619189069/Quiche2_h5lj2g.jpg 768w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1619189069/Quiche2_h5lj2g.jpg 803w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 546w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1619189069/Quiche2_h5lj2g.jpg 266w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1619189069/Quiche2_h5lj2g.jpg 219w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1619189069/Quiche2_h5lj2g.jpg 263w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1619189069/Quiche2_h5lj2g.jpg 526w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189069/Quiche2_h5lj2g.jpg 870w" 
 sizes="(max-width: 273px) 100vw, 273px" />
 </a>
 <div class="hover-img">  
@@ -927,14 +929,16 @@ sizes="(max-width: 273px) 100vw, 273px" />
 	class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
 	alt="" 
 	srcset=
-	"https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 870w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 235w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 768w,
-	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 803w,
-	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 266w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 219w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 263w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 526w" 
+        "https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189068/Quiche1_hioazr.jpg 273w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1619189068/Quiche1_hioazr.jpg 235w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1619189068/Quiche1_hioazr.jpg 768w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1619189068/Quiche1_hioazr.jpg 803w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 546w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1619189068/Quiche1_hioazr.jpg 266w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1619189068/Quiche1_hioazr.jpg 219w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1619189068/Quiche1_hioazr.jpg 263w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1619189068/Quiche1_hioazr.jpg 526w, 
+        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189068/Quiche1_hioazr.jpg 870w" 
 	sizes="(max-width: 273px) 100vw, 273px" />
 </a>
 </div>
