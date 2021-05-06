@@ -900,7 +900,7 @@ data-source="main_loop">
 	<div 
 class="product-grid-item basel-hover-alt product  col-md-3 col-sm-4 col-xs-6 first  type-product post-19655 status-publish first instock product_cat-bags product_tag-new product_tag-whte has-post-thumbnail featured shipping-taxable purchasable product-type-variable" data-loop="1" data-id="19655">
 	<div class="product-element-top"> 
-<a href="HomeMadeQuinches.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<a href="HomeMadeQuiches.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 <img 
 width="273" 
 height="348" 
@@ -921,7 +921,7 @@ https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v161918906
 sizes="(max-width: 273px) 100vw, 273px" />
 </a>
 <div class="hover-img">  
-<a href="HomeMadeQuinches.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<a href="HomeMadeQuiches.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 <img 
 	width="273" 
 	height="348" 
@@ -944,7 +944,7 @@ sizes="(max-width: 273px) 100vw, 273px" />
 </div>
 </div>
 <h3 class="product-title">
-<a href="HomeMadeQuinches.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<a href="HomeMadeQuiches.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 Home-made Quiches
 </a>
 </h3>
