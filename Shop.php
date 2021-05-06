@@ -1422,7 +1422,7 @@ https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v16194523
 https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1619452321/Chickenburger1_ukfmj4.jpg 266w, 
 https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1619452321/Chickenburger1_ukfmj4.jpg 219w, 
 https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1619452321/Chickenburger1_ukfmj4.jpg 263w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/vv1619452321/Chickenburger1_ukfmj4.jpg 526w" 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1619452321/Chickenburger1_ukfmj4.jpg 526w" 
 sizes="(max-width: 273px) 100vw, 273px" /> 
 </a>
 <div class="hover-img"> 
