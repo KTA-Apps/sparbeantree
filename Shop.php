@@ -1069,7 +1069,7 @@ class="product-grid-item basel-hover-alt product  col-md-3 col-sm-4 col-xs-6 typ
 data-loop="3" 
 data-id="19515">
 <div class="product-element-top"> 
-<a href="SpaghettiBolognaise.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<a href="SpagettiBolongaise.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 <img 
 width="273" 
 height="348" 
@@ -1091,7 +1091,7 @@ https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v161945236
 sizes="(max-width: 273px) 100vw, 273px" /> 
 </a>
 <div class="hover-img"> 
-<a href="SpaghettiBolognaise.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<a href="SpagettiBolongaise.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 <img 
 width="273" 
 height="348" 
@@ -1115,8 +1115,8 @@ sizes="(max-width: 273px) 100vw, 273px" />
 </div>
 </div>
 <h3 class="product-title">
-<a href="SpaghettiBolognaise.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-Spaghetti Bolognaise
+<a href="SpagettiBolongaise.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+Spagetti Bolongaise
 </a>
 </h3>
 <div class="wrap-price">
