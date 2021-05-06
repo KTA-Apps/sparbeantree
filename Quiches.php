@@ -4,11 +4,7 @@ $servername="pxukqohrckdfo4ty.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
  $dBPassword="kwpkk6ybhd4t3mh2";
  $dBName="f7pf1g63rq9j6hth";
 ?>
-<!DOCTYPE html> <!--[if IE 8]><html class="ie ie8" lang="en-US"> <![endif]--> <!--[if !(IE 7) & !(IE 8)]><!--><html lang="en-US"> <!--<![endif]-->
-<!-- Mirrored from demo.xtemos.com/basel/single-product/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Jul 2020 01:45:51 GMT -->
-<!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
