@@ -1152,7 +1152,7 @@ class="product-grid-item basel-hover-alt product  col-md-3 col-sm-4 col-xs-6 typ
 data-loop="4" 
 data-id="19515">
 <div class="product-element-top"> 
-<a href="Rolling paper.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<a href="ConversationsBreakfast.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 	<img 
 	width="273" 
 	height="348" 
@@ -1171,7 +1171,7 @@ data-id="19515">
 sizes="(max-width: 273px) 100vw, 273px" /> 
 </a>
 <div class="hover-img"> 
-<a href="Rolling paper.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<a href="ConversationsBreakfast.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 	<img 
 	width="273" 
 	height="348" 
@@ -1193,7 +1193,7 @@ sizes="(max-width: 273px) 100vw, 273px" />
 </div>
 </div>
 <h3 class="product-title">
-<a href="Rolling paper.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<a href="ConversationsBreakfast.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 Conversations Breakfast
 </a>
 </h3>
