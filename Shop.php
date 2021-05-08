@@ -1593,7 +1593,7 @@ Kahrent Technology Africa
 <div class="basel-close-side">
 </div>
 <div class="basel-toolbar icons-design-line basel-toolbar-label-show">
-<span>Quick pick menu</span></div></div> 
+<span><strong>Quick-Pick Menu</strong></span></div></div> 
 </div>
 
  
