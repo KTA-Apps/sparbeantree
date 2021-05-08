@@ -1592,22 +1592,7 @@ Kahrent Technology Africa
 </div></div></div></div></footer></div>
 <div class="basel-close-side">
 </div>
-<div class="basel-toolbar icons-design-line basel-toolbar-label-show">
-<div class="lighterHome">  
-<img src="https://img.icons8.com/pastel-glyph/30/000000/hand-lighter-without-flame.png"/>
-</div>
-<div class="king"> 
-<img src="https://img.icons8.com/ios-glyphs/30/000000/medieval-crown.png"/>
-</div>
-<div class="queen"> 
-<img src="https://img.icons8.com/pastel-glyph/30/000000/like--v1.png"/>
-</div>
-<div> 
-<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-<img src="https://img.icons8.com/android/21/000000/shopping-cart.png"/>
-<span class="basel-toolbar-label">
-Cart 
-</span> </a></div></div> 
+<span>Quick pick menu</span></div></div> 
 </div>
 
  
