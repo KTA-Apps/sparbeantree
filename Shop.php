@@ -1592,6 +1592,7 @@ Kahrent Technology Africa
 </div></div></div></div></footer></div>
 <div class="basel-close-side">
 </div>
+<div class="basel-toolbar icons-design-line basel-toolbar-label-show">
 <span>Quick pick menu</span></div></div> 
 </div>
 
