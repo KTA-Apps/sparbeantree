@@ -79,7 +79,7 @@ href="cannacaps.html" />
 	<div class="container">
 	<div class="topbar-content">
 	<div class="top-bar-left"> 
-	<span> <?php echo $_GET['username']; ?></span><span> </span><span>[<a href="Logout.php?&auth=<?php echo $_GET['auth'];?>"><span style="color:red;"> Log out</span></a>]</span>
+	<span>[<a href="T1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"><span style="color:orange;">Delivery status</span></a>]</span>
 	</div>
 	<div class="top-bar-right">
 	<div class="topbar-menu">
@@ -132,14 +132,14 @@ href="cannacaps.html" />
 <header class="entry-header">
 <h1 class="entry-title">
 </h1>
-Flowers range
+Meal
 </h1>
 <div class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 Shop
 </a> 
 <span class="current">
-	Durban Poison
+	Homemade Quiches
 </span></div></header></div></div>
 <div class="container">
 <div class="row">
@@ -155,7 +155,7 @@ Shop
 </span>
 <h4 class="title" >
 <strong>
-	Durban Poison
+	Homemade Quiches
 </strong>
 <span class="title-separator">
 <span>
@@ -166,12 +166,12 @@ Shop
 </span>
 </div>
 <span class="title-after_title">
-	Indoor
+	Meal
 </span></div><div class="woocommerce"><div class="single-product" data-product-page-preselected-id="0"><div class="single-breadcrumbs-wrapper"><div class="container"> <a href="javascript:baselThemeModule.backHistory()" class="basel-back-btn basel-tooltip"><span>Back</span></a><nav class="woocommerce-breadcrumb">
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 Shop
 </a><span class="breadcrumb-last"> 
-	Durban Poison
+Homemade Quiches
 </span>
 </nav>
 </div>
