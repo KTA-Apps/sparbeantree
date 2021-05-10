@@ -299,30 +299,30 @@ class="single-product-page single-product-content product-design-default product
 <div class="col-md-9 col-md-push-3">
 <figure class="woocommerce-product-gallery__wrapper owl-carousel">
 <figure data-thumb="
-https://res.cloudinary.com/badboylu/image/upload/c_scale,h_348,w_273/v1595155865/cannacaps.jpg" 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_348,w_273/v1619452366/Spaggeti1_rn050m.jpg" 
 class="woocommerce-product-gallery__image">
-<a href="https://res.cloudinary.com/badboylu/image/upload/v1595155865/cannacaps.jpg">
+<a href="https://res.cloudinary.com/badboylu/image/upload/v1619452366/Spaggeti1_rn050m.jpg">
 <img width="870" height="1110" 
-src="https://res.cloudinary.com/badboylu/image/upload/v1595155865/cannacaps.jpg" 
+src="https://res.cloudinary.com/badboylu/image/upload/v1619452366/Spaggeti1_rn050m.jpg" 
 class="attachment-woocommerce_single size-woocommerce_single" 
 alt="" 
 title="woman (22)" 
 data-caption="" 
-data-src="https://res.cloudinary.com/badboylu/image/upload/v1595155865/cannacaps.jpg" 
-data-large_image="https://res.cloudinary.com/badboylu/image/upload/v1595155865/cannacaps.jpg" 
+data-src="https://res.cloudinary.com/badboylu/image/upload/v1619452366/Spaggeti1_rn050m.jpg" 
+data-large_image="https://res.cloudinary.com/badboylu/image/upload/v1619452366/Spaggeti1_rn050m.jpg" 
 data-large_image_width="870" 
 data-large_image_height="1110" 
 srcset="
-https://res.cloudinary.com/badboylu/image/upload/v1595155865/cannacaps.jpg 870w, 
-https://res.cloudinary.com/badboylu/image/upload/c_scale,h_697,w_546/v1595155865/cannacaps.jpg 546w, 
-https://res.cloudinary.com/badboylu/image/upload/c_scale,h_348,w_273/v1595155865/cannacaps.jpg 273w, 
-https://res.cloudinary.com/badboylu/image/upload/c_scale,h_300,w_235/v1595155865/cannacaps.jpg 235w, 
-https://res.cloudinary.com/badboylu/image/upload/c_scale,h_980,w_768/v1595155865/cannacaps.jpg 768w, 
-https://res.cloudinary.com/badboylu/image/upload/c_scale,h_1024,w_803/v1595155865/cannacaps.jpg 803w, 
-https://res.cloudinary.com/badboylu/image/upload/c_scale,h_340,w_266/v1595155865/cannacaps.jpg 266w, 
-https://res.cloudinary.com/badboylu/image/upload/c_scale,h_280,w_219/v1595155865/cannacaps.jpg 219w, 
-https://res.cloudinary.com/badboylu/image/upload/c_scale,h_336,w_263/v1595155865/cannacaps.jpg 263w, 
-https://res.cloudinary.com/badboylu/image/upload/c_scale,h_671,w_526/v1595155865/cannacaps.jpg 526w" 
+https://res.cloudinary.com/badboylu/image/upload/v1619452366/Spaggeti1_rn050m.jpg 870w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_697,w_546/v1619452366/Spaggeti1_rn050m.jpg 546w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_348,w_273/v1619452366/Spaggeti1_rn050m.jpg 273w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_300,w_235/v1619452366/Spaggeti1_rn050m.jpg 235w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_980,w_768/v1619452366/Spaggeti1_rn050m.jpg 768w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_1024,w_803/v1619452366/Spaggeti1_rn050m.jpg 803w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_340,w_266/v1619452366/Spaggeti1_rn050m.jpg 266w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_280,w_219/v1619452366/Spaggeti1_rn050m.jpg 219w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_336,w_263/v1619452366/Spaggeti1_rn050m.jpg 263w, 
+https://res.cloudinary.com/badboylu/image/upload/c_scale,h_671,w_526/v1619452366/Spaggeti1_rn050m.jpg 526w" 
 sizes="(max-width: 870px) 100vw, 870px" />
 </a>
 </figure>
