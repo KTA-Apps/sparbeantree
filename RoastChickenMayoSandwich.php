@@ -277,30 +277,30 @@ class="single-product-page single-product-content product-design-default product
 <div class="col-md-9 col-md-push-3">
 <figure class="woocommerce-product-gallery__wrapper owl-carousel">
 <figure data-thumb="
-https://res.cloudinary.com/badboylu/image/upload/v1595088823/_DSC6569_nk6rz5.jpg" 
+https://res.cloudinary.com/ddjrcafre/image/upload/v1619189653/RoastChickenMayo2_kwhxmd.jpg" 
 class="woocommerce-product-gallery__image">
-<a href="https://res.cloudinary.com/badboylu/image/upload/v1595088823/_DSC6569_nk6rz5.jpg">
+<a href="https://res.cloudinary.com/ddjrcafre/image/upload/v1619189653/RoastChickenMayo2_kwhxmd.jpg">
 <img width="870" height="1110" 
-src="https://res.cloudinary.com/badboylu/image/upload/v1595088823/_DSC6569_nk6rz5.jpg" 
+src="https://res.cloudinary.com/ddjrcafre/image/upload/v1619189653/RoastChickenMayo2_kwhxmd.jpg" 
 class="attachment-woocommerce_single size-woocommerce_single" 
 alt="" 
 title="woman (22)" 
 data-caption="" 
-data-src="https://res.cloudinary.com/badboylu/image/upload/c_fit,h_1528,w_3315/v1595088823/_DSC6569_nk6rz5.jpg" 
-data-large_image="https://res.cloudinary.com/badboylu/image/upload/c_fit,h_1528,w_3315/v1595088823/_DSC6569_nk6rz5.jpg" 
+data-src="https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_1528,w_3315/v1619189653/RoastChickenMayo2_kwhxmd.jpg" 
+data-large_image="https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_1528,w_3315/v1619189653/RoastChickenMayo2_kwhxmd.jpg" 
 data-large_image_width="3315" 
 data-large_image_height="1528" 
 srcset="
-https://res.cloudinary.com/badboylu/image/upload/v1595088823/_DSC6569_nk6rz5.jpg 870w, 
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_697,w_546/v1595088823/_DSC6569_nk6rz5.jpg 546w, 
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_348,w_273/v1595088823/_DSC6569_nk6rz5.jpg 273w, 
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_300,w_235/v1595088823/_DSC6569_nk6rz5.jpg 235w, 
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_980,w_768/v1595088823/_DSC6569_nk6rz5.jpg 768w,
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_1024,w_803/v1595088823/_DSC6569_nk6rz5.jpg 803w,
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_340,w_266/v1595088823/_DSC6569_nk6rz5.jpg 266w,
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_280,w_219/v1595088823/_DSC6569_nk6rz5.jpg 219w, 
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_336,w_263/v1595088823/_DSC6569_nk6rz5.jpg 263w, 
-https://res.cloudinary.com/badboylu/image/upload/c_fit,h_671,w_526/v1595088823/_DSC6569_nk6rz5.jpg 526w" 
+https://res.cloudinary.com/ddjrcafre/image/upload/v1619189653/RoastChickenMayo2_kwhxmd.jpg 870w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619189653/RoastChickenMayo2_kwhxmd.jpg 546w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_348,w_273/v1619189653/RoastChickenMayo2_kwhxmd.jpg 273w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_300,w_235/v1619189653/RoastChickenMayo2_kwhxmd.jpg 235w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_980,w_768/v1619189653/RoastChickenMayo2_kwhxmd.jpg 768w,
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_1024,w_803/v1619189653/RoastChickenMayo2_kwhxmd.jpg 803w,
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_340,w_266/v1619189653/RoastChickenMayo2_kwhxmd.jpg 266w,
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_280,w_219/v1619189653/RoastChickenMayo2_kwhxmd.jpg 219w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_336,w_263/v1619189653/RoastChickenMayo2_kwhxmd.jpg 263w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_671,w_526/v1619189653/RoastChickenMayo2_kwhxmd.jpg 526w" 
 sizes="(max-width: 870px) 100vw, 870px" />
 
 </a>
