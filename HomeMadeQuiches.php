@@ -291,7 +291,7 @@ Flowers
 
 <div class="container">
 <div class="Added" id="added" style="display:none;" >
-<span><strong>Homemade Quiches added to cart [<a href="Cart.php?auth=<?php echo $_GET['auth'];?>">view cart</a>]</strong></span>
+<span><strong>Homemade Quiches added [<a href="Cart.php?auth=<?php echo $_GET['auth'];?>">view cart</a>]</strong></span>
 </div>
 </div>
 </div>
