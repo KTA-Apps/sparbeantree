@@ -7,9 +7,6 @@
    $username = $_GET['username'];
    $authtoken = $_GET['auth'];
 ?>
-<!DOCTYPE html> <!--[if IE 8]><html class="ie ie8" lang="en-US"> <![endif]--> <!--[if !(IE 7) & !(IE 8)]><!--><html lang="en-US"> <!--<![endif]-->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -194,7 +191,7 @@ class="single-product-page single-product-content product-design-default product
 			    </div>
                         <li> 
                         <img src="
-                        https://res.cloudinary.com/badboylu/image/upload/c_scale,h_348,w_273/v1600203458/16b5858d0e5449cd7bd2bd858da19eda_uiupom.jpg"  class = "DPcontainer1">
+                        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189069/Quiche2_h5lj2g.jpg"  class = "DPcontainer1">
                     </li>
                 <li>	
                 <span class = "DPcontainer2BW"><strong>Milk Chocolates</strong></span>
@@ -236,7 +233,7 @@ class="single-product-page single-product-content product-design-default product
                         </div>
                         <li> 
                         <img src="
-                        https://res.cloudinary.com/badboylu/image/upload/c_scale,h_348,w_273/v1595155865/cannacaps.jpg"  class = "DPcontainer1">
+                        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189653/RoastChickenMayo2_kwhxmd.jpg"  class = "DPcontainer1">
                     </li>
                 <li>	
                 <span class = "DPcontainer2CC"><strong>CBD oil capsules</strong></span>
@@ -279,7 +276,7 @@ class="single-product-page single-product-content product-design-default product
                                                 </div>
 						<li> 
 						<img src="
-						https://res.cloudinary.com/badboylu/image/upload/c_thumb,h_600,w_1302/v1595088823/_DSC6569_nk6rz5.jpg"  class = "DPcontainer1">
+						https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619452366/Spaggeti1_rn050m.jpg"  class = "DPcontainer1">
 					</li>
 				<li>	
 				<span class = "DPcontainer2OC"><strong>Pink Roses</strong></span>
@@ -322,7 +319,7 @@ class="single-product-page single-product-content product-design-default product
                         </div>
                         <li> 
                         <img src="
-                        https://res.cloudinary.com/badboylu/image/upload/c_scale,h_300,w_235/v1612773186/IMG_20210204_140203_317_hprh8d.jpg"  class = "DPcontainer1">
+                        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620124942/Breakfast2_yccqi8.jpg"  class = "DPcontainer1">
                     </li>
                 <li>	
                 <span class = "DPcontainer2PR"><strong>Dark Chocolates</strong></span>
@@ -363,7 +360,7 @@ class="single-product-page single-product-content product-design-default product
                             </div>
                             <li> 
                             <img src="
-                            https://res.cloudinary.com/badboylu/image/upload/c_fit,h_340,w_266/v1595155752/_DSC6512_jsmovp.jpg"  class = "DPcontainer1">
+                            https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620127119/Salad1_zrgqo9.jpg"  class = "DPcontainer1">
                         </li>
                     <li>	
                     <span class = "DPcontainer2CCES"><strong>CBD oil capsules (strong)</strong></span>
@@ -405,7 +402,7 @@ class="single-product-page single-product-content product-design-default product
                         </div>
                         <li> 
                         <img src="
-                        https://res.cloudinary.com/badboylu/image/upload/c_fit,h_340,w_266/v1595088975/_DSC6533_vdjxdu.jpg"  class = "DPcontainer1">
+                        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619452321/Chickenburger1_ukfmj4.jpg"  class = "DPcontainer1">
                     </li>
                 <li>	
                 <span class = "DPcontainer2NL"><strong>Sunflowers</strong></span>
@@ -447,7 +444,7 @@ class="single-product-page single-product-content product-design-default product
                         </div>
                         <li> 
                         <img src="
-                        https://res.cloudinary.com/badboylu/image/upload/c_scale,h_300,w_235/v1612773186/IMG_20210204_140203_317_hprh8d.jpg"  class = "DPcontainer1">
+                        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620129158/Ham1_wbb7s5.jpg"  class = "DPcontainer1">
                     </li>
                 <li>	
                 <span class = "DPcontainer2PE"><strong>Mugs</strong></span>
