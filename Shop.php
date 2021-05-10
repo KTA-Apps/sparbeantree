@@ -9,7 +9,7 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="../xmlrpc.html">
 	<title>
-		Spar Bean tree cafe
+		Spar Bean tree cafe`
 	</title>
 	<link rel="stylesheet" href="c7c58cca0fc9c8acb3530bf8cbf53297.css" data-minify="1" />
         <link rel="stylesheet" href="plugIcons.css" />
@@ -756,7 +756,7 @@ close
 id="menu-item-20484" 
 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20484 menu-item-design-default item-event-hover">
 <a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-Cart
+Bill
 </a>
 </li>
 </ul>
@@ -792,7 +792,7 @@ class="menu">
 <div class="shopping-cart basel-cart-design-1 basel-cart-icon cart-widget-opener"> 
 <a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
 <span>
-Cart (<span>o</span>)
+Bill (<span>o</span>)
 </span> 
 <span class="basel-cart-totals"> 
 	<span class="basel-cart-numberCart">
@@ -822,7 +822,7 @@ style="">
 <div class="nav-shop">
 <div  
 class="basel-show-categories">
-Online Shop
+Spar Bean Tree Cafe`
 </div>
 <ul class="basel-product-categories">
 <li class="cat-link shop-all-link">
@@ -870,8 +870,8 @@ Gourmet Sandwiches
 </a></span>
 </div>
 <div class="Added" id="added" style="display:none;" >
-<span><strong>Item/s added to cart <a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-	(View Cart)
+<span><strong>Item/s added to Bill <a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
+	(View Bill)
 </a>	</strong></span>
 </div>
 <div class="row">
