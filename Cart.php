@@ -485,7 +485,7 @@ class="single-product-page single-product-content product-design-default product
                         </li>
                         </div>	 
                         <li> 
-                        <img src="https://res.cloudinary.com/badboylu/image/upload/c_thumb,h_600,w_1302/v1595088623/_DSC6572_zun5in.jpg" class = "DPcontainer1">
+                        <img src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620126542/Beef1_pfodz6.jpg" class = "DPcontainer1">
                     </li>
                 <li>	
                 <span class = "DPcontainer2"><strong>Red Roses</strong></span>
