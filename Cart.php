@@ -102,9 +102,11 @@ href="cannacaps.html" />
 	
 <div class="site-logo">
 <div class="basel-logo-wrap"> 
-<a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" class="basel-logo basel-main-logo"
- rel="home">  
-</a></div></div>
+<a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" class="basel-logo basel-main-logo" rel="home"> 
+<img  src="https://res.cloudinary.com/ddjrcafre/image/upload/v1620635722/spar-logo_tk4nx8.png" alt="Basel" /> 
+</a>
+</div>
+</div>
 <div class="right-column">
 <div >
 <div >
