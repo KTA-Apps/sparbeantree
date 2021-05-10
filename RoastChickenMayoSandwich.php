@@ -100,24 +100,6 @@ href="../../wp-includes/wlwmanifest.xml" /><meta name="generator" content="WordP
 	<header class="main-header header-has-no-bg header-shop icons-design-line color-scheme-dark">
 	<div class="container">
 	<div class="wrapp-header">
-	<div class="main-nav site-navigation basel-navigation menu-left" role="navigation">
-	<div class="menu-main-navigation-container">
-	<ul id="menu-main-navigation" class="menu">
-	<li id="menu-item-19422" class="dropdown-scroll menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-19422 menu-item-design-sized item-event-hover menu-item-has-children">
-	<a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-	Cafe`
-	</a>
-	<div class="sub-menu-dropdown color-scheme-dark">
-	<div class="container">
-	<div class="vc_row wpb_row vc_row-fluid col-five vc_custom_1475533876817">
-	<div class="wpb_column vc_column_container vc_col-sm-2 color-scheme-dark">
-	<div class="vc_column-inner">
-	<div class="wpb_wrapper">
-	
-<style>.menu-item-19422>.sub-menu-dropdown{min-height:10px;width:1125px}</style></li>
-</ul>
-</div>
-</div>
 <div class="site-logo">
 <div class="basel-logo-wrap"> 
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" class="basel-logo basel-main-logo" rel="home"> 
