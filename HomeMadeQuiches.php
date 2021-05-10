@@ -240,9 +240,8 @@ Click to enlarge
 <span class="woocommerce-Price-currencySymbol">
 R
 </span>
-70
+68
 </span>
-per/gram
 </span>
 </p>
 <div class="woocommerce-product-details__short-description">
