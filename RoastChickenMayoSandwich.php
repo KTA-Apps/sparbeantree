@@ -169,7 +169,7 @@ Roast Chicken Mayo Sandwich
 by the bean tree cafe`
 </span></div><div class="woocommerce"><div class="single-product" data-product-page-preselected-id="0"><div class="single-breadcrumbs-wrapper"><div class="container"> <a href="javascript:baselThemeModule.backHistory()" class="basel-back-btn basel-tooltip"><span>Back</span></a><nav class="woocommerce-breadcrumb">
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-Shop
+Cafe`
 </a><span class="breadcrumb-last"> 
 Roast Chicken Mayo Sandwich
 </span>
