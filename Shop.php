@@ -9,7 +9,7 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="../xmlrpc.html">
 	<title>
-		Spar Bean tree
+		Spar Bean tree cafe
 	</title>
 	<link rel="stylesheet" href="c7c58cca0fc9c8acb3530bf8cbf53297.css" data-minify="1" />
         <link rel="stylesheet" href="plugIcons.css" />
@@ -782,11 +782,9 @@ class="menu">
 </div>
 </div>
 <div class="site-logo">
-<div class="basel-logo-wrap">  
-<a 
-href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"
-rel="home">
-	
+<div class="basel-logo-wrap"> 
+<a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" class="basel-logo basel-main-logo" rel="home"> 
+<img  src="https://res.cloudinary.com/ddjrcafre/image/upload/v1620635722/spar-logo_tk4nx8.png" alt="Basel" /> 
 </a>
 </div>
 </div>
