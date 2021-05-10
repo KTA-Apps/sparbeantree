@@ -14,7 +14,7 @@
 href="http://gmpg.org/xfn/11">
 <link rel="pingback" 
 href="Backend/xmlrpc.html">
-<title>Cart </title>
+<title>Bill</title>
 <link rel="stylesheet" 
 href="c7c58cca0fc9c8acb3530bf8cbf53297.css" 
 data-minify="1" />
@@ -148,7 +148,7 @@ href="cannacaps.html" />
 </span>
 <h4 class="title" >
 <strong>
-Cart <?php $_GET['promo'] ?>
+Bill <?php $_GET['promo'] ?>
 </strong>
 <span class="title-separator">
 <span>
@@ -162,9 +162,9 @@ Cart <?php $_GET['promo'] ?>
 
 </span></div><div class="woocommerce"><div class="single-product" data-product-page-preselected-id="0"><div class="single-breadcrumbs-wrapper"><div class="container"> <a href="javascript:baselThemeModule.backHistory()" class="basel-back-btn basel-tooltip"><span>Back</span></a><nav class="woocommerce-breadcrumb">
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-Shop
+Cafe`
 </a><span class="breadcrumb-last"> 
-Cart
+Bill
 </span>
 </nav>
 </div>
