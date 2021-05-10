@@ -1408,7 +1408,7 @@ New
 <img 
 width="273" 
 height="348" 
-src="https://res.cloudinary.com/ddjrcafre/image/upload/v1619452321/Chickenburger1_ukfmj4.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
+src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619452321/Chickenburger1_ukfmj4.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
 alt="" 
 srcset=
 "https://res.cloudinary.com/ddjrcafre/image/upload/v1619452321/Chickenburger1_ukfmj4.jpg 870w, 
