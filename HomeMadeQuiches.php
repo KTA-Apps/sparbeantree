@@ -12,7 +12,7 @@ $servername="pxukqohrckdfo4ty.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
 href="http://gmpg.org/xfn/11">
 <link rel="pingback" 
 href="Backend/xmlrpc.html">
-<title>Durban poison</title>
+<title>Spar Bean Tree Cafe</title>
 <link rel="stylesheet" 
 href="c7c58cca0fc9c8acb3530bf8cbf53297.css" 
 data-minify="1" />
@@ -166,7 +166,7 @@ Shop
 </span>
 </div>
 <span class="title-after_title">
-	Meal
+	by Bean tree cafe
 </span></div><div class="woocommerce"><div class="single-product" data-product-page-preselected-id="0"><div class="single-breadcrumbs-wrapper"><div class="container"> <a href="javascript:baselThemeModule.backHistory()" class="basel-back-btn basel-tooltip"><span>Back</span></a><nav class="woocommerce-breadcrumb">
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 Shop
@@ -188,7 +188,7 @@ class="single-product-page single-product-content product-design-default product
 <div class="col-md-9 col-md-push-3">
 <figure class="woocommerce-product-gallery__wrapper owl-carousel">
 	<figure data-thumb="
-	https://res.cloudinary.com/badboylu/image/upload/v1595088623/_DSC6572_zun5in.jpg" 
+	https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189069/Quiche2_h5lj2g.jpg" 
 	class="woocommerce-product-gallery__image">
 	<a href="https://res.cloudinary.com/badboylu/image/upload/v1595088623/_DSC6572_zun5in.jpg">
 	<img width="870" height="1110" 
