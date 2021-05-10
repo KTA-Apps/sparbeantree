@@ -1346,8 +1346,8 @@ src="https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_348,w_273/v162012
 class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
 alt="" 
 srcset=
-"https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_348,w_273/v1620127088/Salad2_vgtoww.jpg"
-870w, 
+"
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_348,w_273/v1620127088/Salad2_vgtoww.jpg 870w, 
 https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_300,w_235/v1620127088/Salad2_vgtoww.jpg 235w, 
 https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_980,w_768/v1620127088/Salad2_vgtoww.jpg 768w, 
 https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_1024,w_803/v1620127088/Salad2_vgtoww.jpg 803w, 
