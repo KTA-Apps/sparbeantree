@@ -1494,7 +1494,7 @@ src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620
 class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
 alt="" 
 srcset=
-"https://res.cloudinary.com/ddjrcafre/image/upload/v1620129158/Ham1_wbb7s5.jpg 870w, 
+"https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620129158/Ham1_wbb7s5.jpg 870w, 
 https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1620129158/Ham1_wbb7s5.jpg 235w, 
 https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1620129158/Ham1_wbb7s5.jpg 768w, 
 https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1620129158/Ham1_wbb7s5.jpg 803w, 
