@@ -247,11 +247,9 @@ R
 </p>
 <div class="woocommerce-product-details__short-description">
 	<p>
-	<strong>Strain Type:</strong><span> Hybrid</span>
-	<br>
-	<strong>Quality:</strong><span> Greenhouse</span>
+	<span>A scrumptious meal to satisfy the deepest hunger</span>
         <br>
-	<strong>Description:</strong><span> An internationally know bud with genetic origins from Europe grown in a greenhouse environment. It is accepted to be a 50/50 indica/sativa and produces a sweet citrus aroma reminiscent of orange zest. Also known as C.O.B, it got its name through Dutch growers calling it “Californian Orange” in feminized seed form. It has since found its way around the globe and is a favorite with many growers. Most users report that California Orange produces an upbeat, clear-headed effect. </span>
+	<strong>Ingredients:</strong><span> [insert]</span>
 	</p></div>
 <div >
 	<div class="single_variation_wrap">
@@ -268,12 +266,12 @@ R
 	</button>
 	
 	<span>
-	Grams
+	Serving/s
 	</span>
 	</div>
 	<br>
 	<button class="OrangeCali" id="OC">
-		add to cart
+		add to bill
 	</button>
 	</div>
 	</div>
@@ -285,7 +283,7 @@ Category:
 
 <a href="Flowers.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>
 " rel="tag">
-Flowers
+Sandwich
 </a>
 </span>
 </div>
@@ -293,7 +291,7 @@ Flowers
 
 <div class="container">
 <div class="Added" id="added" style="display:none;" >
-<span><strong>California Orange added to cart</strong></span>
+<span><strong>California Orange added to bill</strong></span>
 </div>
 </div>
 </div>
@@ -317,23 +315,9 @@ Africa. Contact us <a href="C.php?username=<?php echo $_GET['username'];?>&auth=
 <div class="basel-close-side">
 </div>
 <div class="basel-toolbar icons-design-line basel-toolbar-label-show">
-<div class="basel-toolbar-shop basel-toolbar-item"> 
-<a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-<span class="basel-toolbar-label"> 
-Shop 
-</span> </a></div>
-<div class="king"> 
-<img src="https://img.icons8.com/ios-glyphs/30/000000/medieval-crown.png"/>
-</div>
-<div class="queen"> 
-<img src="https://img.icons8.com/pastel-glyph/30/000000/like--v1.png"/>
-</div>
-<div> 
-<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-<img src="https://img.icons8.com/android/21/000000/shopping-cart.png"/>
-<span class="basel-toolbar-label">
-Cart 
-</span> </a></div></div> 
+<div class="basel-toolbar icons-design-line basel-toolbar-label-show">
+<div style="text-align:center;"><span><strong><a href="Shop.php?auth=<?php echo $_GET['auth'];?>">Back to Menu </a></strong></span></div></div></div> 
+</div> 
 <a href="#" class="scrollToTop basel-tooltip">
 Scroll To Top
 </a> 
