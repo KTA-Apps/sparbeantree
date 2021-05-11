@@ -312,7 +312,7 @@ Kahrent Technology Africa
 <div class="basel-close-side">
 </div>
 <div class="basel-toolbar icons-design-line basel-toolbar-label-show">
-<div style="text-align:center;margin-bottom:50%;"><span><strong><a href="Shop.php?auth=<?php echo $_GET['auth'];?>">Back to Menu </a></strong></span></div></div></div> 
+<div style="text-align:center;vertical-align: middle;"><span><strong><a href="Shop.php?auth=<?php echo $_GET['auth'];?>">Back to Menu </a></strong></span></div></div></div> 
 </div>
 
  
