@@ -871,7 +871,7 @@ Gourmet Sandwiches
 </div>
 <div class="Added" id="added" style="display:none;" >
 <span><strong>Item/s added to bill <a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-	(View bill)
+	(view bill)
 </a>	</strong></span>
 </div>
 <div class="row">
@@ -961,7 +961,7 @@ R
 </span>
 <div class="btn-add" id="DpHomecart">
 <a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-	View bill
+	view bill
 </a>	
 </div> 
 <div class="btn-add" id="DpHome"> 
@@ -1048,7 +1048,7 @@ sizes="(max-width: 273px) 100vw, 273px" />
 		</span>
 		<div class="btn-add" id="CcHomecart">
 			<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-				View bill
+				view bill
 			</a>	
 			</div>
 		<div class="btn-add" id="CcHome"> 
@@ -1133,7 +1133,7 @@ Spagetti Bolongaise
 	</span>
 	<div class="btn-add" id="OcHomecart">
 		<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-			View bill
+			view bill
 		</a>	
 		</div> 
 		<div class="btn-add" id="OcHome"> 
@@ -1211,7 +1211,7 @@ Conversations Breakfast
 	</span>
 <div class="btn-add" id="BwHomecart">
 		<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-			View bill
+			view bill
 		</a>	
 		</div>
 	<div class="btn-add"> 
@@ -1301,7 +1301,7 @@ R
 </span>
 <div class="btn-add" id="PrHomecart">
 		<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-			View bill
+			view bill
 		</a>	
 		</div>
 <div class="btn-add"> 
@@ -1380,7 +1380,7 @@ R
 </span>
 <div class="btn-add" id="NlHomecart">
 		<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-			View bill
+			view bill
 		</a>	
 		</div>
 <div class="btn-add"> 
@@ -1463,7 +1463,7 @@ per/batch
 </span>
 <div class="btn-add" id="CCesHomecart">
 		<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-			View bill
+			view bill
 		</a>	
 		</div>
 <div class="btn-add"> 
@@ -1550,7 +1550,7 @@ R
 </span>
 <div class="btn-add" id="PeHomecart">
 		<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-			View bill
+			view bill
 		</a>	
 		</div>
 <div class="btn-add"> 
@@ -1591,7 +1591,7 @@ Kahrent Technology Africa
 <div class="basel-close-side">
 </div>
 <div class="basel-toolbar icons-design-line basel-toolbar-label-show">
-<div style="text-align:center"><span><strong>Quick-Pick Menu</strong></span></div></div></div> 
+<div style="text-align:center"><span><strong>Quick-pick menu</strong></span></div></div></div> 
 </div>
 
  
