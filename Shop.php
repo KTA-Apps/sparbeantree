@@ -34,8 +34,8 @@
  <meta name="generator" content="WordPress 5.3.2" />
  <meta name="generator" content="WooCommerce 3.9.2" />
  <meta name="theme-color" content="">
- <link rel="shortcut icon" href="favicon.png">
- <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../../basel-cec2.kxcdn.com/basel/wp-content/themes/basel/images/icons/apple-touch-icon-152x152-precomposed.png">
+ <link rel="shortcut icon" href="https://res.cloudinary.com/ddjrcafre/image/upload/v1620742146/BeanTreeLogo1_n0flv5.jpg">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://res.cloudinary.com/ddjrcafre/image/upload/v1620742146/BeanTreeLogo1_n0flv5.jpg">
  <style>
  .basel-promo-popup{max-width:900px}
  .site-logo{width:20%}
