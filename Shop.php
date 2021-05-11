@@ -870,8 +870,8 @@ Gourmet Sandwiches
 </a></span>
 </div>
 <div class="Added" id="added" style="display:none;" >
-<span><strong>Item/s added to Bill <a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-	(View Bill)
+<span><strong>Item/s added to bill <a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
+	(View bill)
 </a>	</strong></span>
 </div>
 <div class="row">
@@ -961,12 +961,12 @@ R
 </span>
 <div class="btn-add" id="DpHomecart">
 <a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-	View cart
+	View bill
 </a>	
 </div> 
 <div class="btn-add" id="DpHome"> 
 	<button class="DurbanPoisonHome" >
-		add to cart
+		add to bill
 	</button>
 </div>
 </div>
@@ -1048,12 +1048,12 @@ sizes="(max-width: 273px) 100vw, 273px" />
 		</span>
 		<div class="btn-add" id="CcHomecart">
 			<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-				View cart
+				View bill
 			</a>	
 			</div>
 		<div class="btn-add" id="CcHome"> 
 			<button class="cannacapsHome">
-				add to cart
+				add to bill
 			</button>
 		</div>
 		</div>
@@ -1133,12 +1133,12 @@ Spagetti Bolongaise
 	</span>
 	<div class="btn-add" id="OcHomecart">
 		<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-			View cart
+			View bill
 		</a>	
 		</div> 
 		<div class="btn-add" id="OcHome"> 
 			<button class="OrangeCaliHome" >
-				add to cart
+				add to bill
 			</button>
 		</div>
 	</div>
@@ -1211,12 +1211,12 @@ Conversations Breakfast
 	</span>
 <div class="btn-add" id="BwHomecart">
 		<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-			View cart
+			View bill
 		</a>	
 		</div>
 	<div class="btn-add"> 
 		<button class="BluntWrapHome" id="BwHome">
-			add to cart
+			add to bill
 		</button>
 	</div>
 	</div>
@@ -1301,12 +1301,12 @@ R
 </span>
 <div class="btn-add" id="PrHomecart">
 		<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-			View cart
+			View bill
 		</a>	
 		</div>
 <div class="btn-add"> 
 	<button class="PreRollsHome" id="PrHome" >
-		add to cart
+		add to bill
 	</button>
 </div>
 </div>
@@ -1380,12 +1380,12 @@ R
 </span>
 <div class="btn-add" id="NlHomecart">
 		<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-			View cart
+			View bill
 		</a>	
 		</div>
 <div class="btn-add"> 
 	<button class="NorthernLightsHome" id="NlHome" >
-		add to cart
+		add to bill
 	</button>
 </div>
 </div>
@@ -1463,12 +1463,12 @@ per/batch
 </span>
 <div class="btn-add" id="CCesHomecart">
 		<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-			View cart
+			View bill
 		</a>	
 		</div>
 <div class="btn-add"> 
 	<button class="CannacapsESHome" id="CCesHome" >
-		add to cart
+		add to bill
 	</button>
 </div>
 </div>
@@ -1550,12 +1550,12 @@ R
 </span>
 <div class="btn-add" id="PeHomecart">
 		<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-			View cart
+			View bill
 		</a>	
 		</div>
 <div class="btn-add"> 
 	<button class="PineappleExpressHome" id="PeHome" >
-		add to cart
+		add to bill
 	</button>
 </div>
 </div>
@@ -1583,7 +1583,7 @@ R
 <div class="col-left"> 
 <i class="fa fa-copyright">
 </i> 
-2021 Created by 
+2021 created by 
 <span>
 Kahrent Technology Africa
 </span>
