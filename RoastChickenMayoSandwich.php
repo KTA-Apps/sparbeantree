@@ -134,7 +134,7 @@ href="../../wp-includes/wlwmanifest.xml" /><meta name="generator" content="WordP
 <header class="entry-header">
 <h1 class="entry-title">
 </h1>
-Meal
+Sandwich
 </h1>
 <div class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"  rel="v:url" property="v:title">
@@ -250,7 +250,7 @@ R
 </p>
 <div class="woocommerce-product-details__short-description">
 	<p>
-	<span>A scrumptious meal to satisfy the deepest hunger</span>
+	<span>A scrumptious sandwich to satisfy the deepest hunger</span>
         <br>
 	<strong>Ingredients:</strong><span> [insert]</span>
 	</p></div>
@@ -294,7 +294,7 @@ Sandwich
 
 <div class="container">
 <div class="Added" id="added" style="display:none;" >
-<span><strong>California Orange added to bill</strong></span>
+<span><strong>California Orange added [<a href="Cart.php?auth=<?php echo $_GET['auth'];?>">view cart</a>] </strong></span>
 </div>
 </div>
 </div>
@@ -310,11 +310,11 @@ Sandwich
 <div class="col-left"> 
 <i class="fa fa-copyright">
 </i> 
-2020 Created by 
+2021 Created by 
 <span>
-Kahrent Technology
+Kahrent Technology Africa
 </span>
-Africa. Contact us <a href="C.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a>. Terms and conditions <a href="A1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a></div></div></div></div></footer></div>
+</div></div></div></div></footer></div>
 <div class="basel-close-side">
 </div>
 <div class="basel-toolbar icons-design-line basel-toolbar-label-show">
