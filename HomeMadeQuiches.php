@@ -246,11 +246,9 @@ R
 </p>
 <div class="woocommerce-product-details__short-description">
 	<p>
-	<strong>Strain Type:</strong><span> Sativa</span>
-	<br>
-	<strong>Quality:</strong><span> Indoor</span>
+	<span>A scrumptious meal to satisfy the deepest hunger</span>
         <br>
-	<strong>Description:</strong><span> An internationally know strain of bud with genetic origins from South Africa. It has been grown in a controlled environment using modern indoor growing technology to produce the highest quality of bud currently possible.</span>
+	<strong>Ingredients:</strong><span> [insert]</span>
 	</p></div>
 <div >
 	<div class="single_variation_wrap">
@@ -267,7 +265,7 @@ R
 	</button>
 	
 	<span>
-	Grams
+	Serving/s
 	</span>
 	</div>
 	<br>
@@ -282,7 +280,7 @@ R
 <span class="posted_in">
 Category: 
 <a href="Flowers.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" rel="tag">
-Flowers
+Lunch Meal
 </a>
 </span>
 </div>
