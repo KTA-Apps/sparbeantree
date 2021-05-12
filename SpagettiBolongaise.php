@@ -285,7 +285,7 @@ R
 <span class="posted_in">
 Category: 
 <a href="Edibles.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" rel="tag">
-Edibles
+Light Meals
 </a>
 </span>
 </div>
