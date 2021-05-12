@@ -293,7 +293,7 @@ Edibles
 
 <div class="container">
 <div class="Added" id="added" style="display:none;" >
-<span><strong>Dabcaps added to cart</strong></span>
+<span><strong>Spagetti Bolongaise added to cart [<a href="Cart.php?auth=<?php echo $_GET['auth'];?>">view cart</a>]</strong></span>
 </div>
 </div>
 </div>
