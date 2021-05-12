@@ -280,7 +280,7 @@ R
 <span class="posted_in">
 Category: 
 <a href="Flowers.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" rel="tag">
-Lunch Meal
+Light Meal
 </a>
 </span>
 </div>
