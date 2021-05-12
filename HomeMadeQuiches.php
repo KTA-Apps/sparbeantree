@@ -134,7 +134,7 @@ href="cannacaps.html" />
 <header class="entry-header">
 <h1 class="entry-title">
 </h1>
-Lunch meal
+Light meal
 </h1>
 <div class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
