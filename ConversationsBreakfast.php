@@ -248,7 +248,7 @@ R
 </p>
 <div class="woocommerce-product-details__short-description">
 	<p>
-	<span>2eggs, grilled tomato, bacon, saute`ed mushrooms and a pork sausage.</span>
+	<span>2 eggs, grilled tomato, bacon, saute`ed mushrooms and a pork sausage.</span>
 	</p></div>
 <div >
 	<div class="single_variation_wrap">
@@ -265,7 +265,7 @@ R
 	</button>
 	
 	<span>
-	Batch/s
+	serving/s
 	</span>
 	</div>
 	<br>
@@ -280,7 +280,7 @@ R
 <span class="posted_in">
 Category: 
 <a href="Edibles.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" rel="tag">
-Edibles
+Breakfast
 </a>
 </span>
 </div>
@@ -288,7 +288,7 @@ Edibles
 
 <div class="container">
 <div class="Added" id="added" style="display:none;" >
-<span><strong>Dabcaps (Extra Strong) added to cart</strong></span>
+<span><strong>Conversations breakfast [<a href="Cart.php?auth=<?php echo $_GET['auth'];?>">view cart</a>]</strong></span>
 </div>
 </div>
 </div>
@@ -304,31 +304,16 @@ Edibles
 <div class="col-left"> 
 <i class="fa fa-copyright">
 </i> 
-2020 Created by 
+2021 Created by 
 <span>
-Kahrent Technology
+Kahrent Technology Africa
 </span>
-Africa. Contact us <a href="C.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a>. Terms and conditions <a href="A1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a></div></div></div></div></footer></div>
+</div></div></div></div></footer></div>
 <div class="basel-close-side">
 </div>
 <div class="basel-toolbar icons-design-line basel-toolbar-label-show">
-<div class="basel-toolbar-shop basel-toolbar-item"> 
-<a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-<span class="basel-toolbar-label"> 
-Shop 
-</span> </a></div>
-<div class="king"> 
-<img src="https://img.icons8.com/ios-glyphs/30/000000/medieval-crown.png"/>
+<div style="text-align:center;margin-bottom:1px;"><span><strong><a href="Shop.php?auth=<?php echo $_GET['auth'];?>">Back to Menu </a></strong></span></div></div></div> 
 </div>
-<div class="queen"> 
-<img src="https://img.icons8.com/pastel-glyph/30/000000/like--v1.png"/>
-</div>
-<div> 
-<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-<img src="https://img.icons8.com/android/21/000000/shopping-cart.png"/>
-<span class="basel-toolbar-label">
-Cart 
-</span> </a></div></div> 
 <a href="#" class="scrollToTop basel-tooltip">
 Scroll To Top
 </a> 
