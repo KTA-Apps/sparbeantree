@@ -319,13 +319,6 @@ Kahrent Technology Africa
 <div class="basel-toolbar icons-design-line basel-toolbar-label-show">
 <div style="text-align:center;margin-bottom:1px;"><span><strong><a href="Shop.php?auth=<?php echo $_GET['auth'];?>">Back to Menu </a></strong></span></div></div></div> 
 </div>
-
-<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-<img src="https://img.icons8.com/android/21/000000/shopping-cart.png"/>
-<span class="basel-toolbar-label">
-Cart 
-</span> </a></div></div> 
-</div>
 <a href="#" class="scrollToTop basel-tooltip">
 Scroll To Top
 </a> 
