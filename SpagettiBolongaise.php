@@ -132,7 +132,7 @@ href="cannacaps.html" />
 <header class="entry-header">
 <h1 class="entry-title">
 </h1>
-Lunch meal
+Light meal
 </h1> 
 <div class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"
@@ -167,10 +167,10 @@ Spagetti Bolongaise
 </span>
 </div>
 <span class="title-after_title">
-Edibles
+by Bean tree cafe`
 </span></div><div class="woocommerce"><div class="single-product" data-product-page-preselected-id="0"><div class="single-breadcrumbs-wrapper"><div class="container"> <a href="javascript:baselThemeModule.backHistory()" class="basel-back-btn basel-tooltip"><span>Back</span></a><nav class="woocommerce-breadcrumb">
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-Shop
+Cafe`
 </a><span class="breadcrumb-last"> 
 Spagetti Bolongaise
 </span>
@@ -241,16 +241,12 @@ Spagetti Bolongaise
 <span class="woocommerce-Price-currencySymbol">
 R
 </span>
-240 per batch of 8
+82
 </span>
 </p>
 <div class="woocommerce-product-details__short-description">
 	<p>
-	<strong>Strains used in production:</strong><span> Mixture of sativa and indica</span>
-	<br>
-	<strong>Strength:</strong><span> Light</span>
-	<br>
-	<strong>Description:</strong><span> Dabcapsules are a brand new product that is produced locally to make cannibus edibles more healthy to consume. Using modern extraction methods, cannibus oils are extracted from sativa and indica strains and then after encapsulated into the dabcapsules. These capsules contain the full spectrum of the cannibus oil compounds which gives the full health benefits of the cannibus plant. Health benefits may include a boosted endocannabinoid system which enhances overall well being.</span>
+	<span>Ground beef in a tomato herb base, spaghetti and parmesan shavings.</span>
 	</p></div>
 <div >
 	<div >
@@ -271,7 +267,7 @@ R
 		</button>
 		
 		<span>
-			Batch/s
+			serving/s
 		</span>
 		</div>
 		<br>
