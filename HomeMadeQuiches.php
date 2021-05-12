@@ -265,7 +265,7 @@ R
 	</button>
 	
 	<span>
-	Serving/s
+	serving/s
 	</span>
 	</div>
 	<br>
