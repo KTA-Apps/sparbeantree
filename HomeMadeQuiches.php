@@ -248,9 +248,7 @@ R
 </p>
 <div class="woocommerce-product-details__short-description">
 	<p>
-	<span>A scrumptious meal to satisfy the deepest hunger</span>
-        <br>
-	<strong>Ingredients:</strong><span> [insert]</span>
+	<span>A BBQ based beef patty with lettuce, tomato and onion rings, served with french fries.</span>
 	</p></div>
 <div >
 	<div class="single_variation_wrap">
