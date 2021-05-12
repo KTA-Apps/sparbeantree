@@ -250,9 +250,7 @@ R
 </p>
 <div class="woocommerce-product-details__short-description">
 	<p>
-	<span>A scrumptious sandwich to satisfy the deepest hunger</span>
-        <br>
-	<strong>Ingredients:</strong><span> [insert]</span>
+	<span>Chicken mayo, baby greens, avo, feta and sun-dried tomato pesto.</span>
 	</p></div>
 <div >
 	<div class="single_variation_wrap">
