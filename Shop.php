@@ -1458,7 +1458,6 @@ R
 </span>
 68
 </span>
-per/batch
 </span>
 </span>
 <div class="btn-add" id="CCesHomecart">
