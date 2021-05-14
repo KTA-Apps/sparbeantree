@@ -250,7 +250,7 @@ R
 </p>
 <div class="woocommerce-product-details__short-description">
 	<p>
-	<span>Ground beef in a tomato herb base, spaghetti and parmesan shavings.</span>
+	<span>Signature club salad.</span>
 	</p></div>
 <div >
 	<div class="single_variation_wrap">
