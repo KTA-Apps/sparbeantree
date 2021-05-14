@@ -249,7 +249,7 @@ R
 </p>
 <div class="woocommerce-product-details__short-description">
 	<p>
-	<span>Ground beef in a tomato herb base, spaghetti and parmesan shavings.</span>
+	<span>BBQ basted beef patty with lettuce, tomato and onion rings served with french fries.</span>
 	</p></div>
 <div >
 	<div class="single_variation_wrap">
