@@ -334,26 +334,13 @@ Delivery status
 </i> 
 2021 Created by 
 <span>
-Kahrent Technology
+Kahrent Technology Africa
 </span>
-Africa (Pty) Ltd. Contact us <a href="C.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a>. Terms and conditions <a href="A1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a></div></div></div></div></footer></div>
+</div></div></div></div></footer></div>
 <div class="basel-close-side">
 </div>
 <div class="basel-toolbar icons-design-line basel-toolbar-label-show">
-<div class="basel-toolbar-shop basel-toolbar-item"> 
-<a href="Items.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-<span class="basel-toolbar-label"> 
-Items
-</span> </a></div>
-<div class="king"> 
-<img src="https://img.icons8.com/ios-glyphs/30/000000/medieval-crown.png"/>
-</div>
-<div class="queen"> 
-<img src="https://img.icons8.com/pastel-glyph/30/000000/like--v1.png"/>
-</div>
-<div class="lighter">  
-<img src="https://img.icons8.com/pastel-glyph/30/000000/hand-lighter-without-flame.png"/>
-</a></div></div> 
+<div style="text-align:center;margin-bottom:1px;"><span><strong><a href="Shop.php?auth=<?php echo $_GET['auth'];?>">Back to Menu </a></strong></span></div></div></div> 
 </div>
 <a href="#" class="scrollToTop basel-tooltip">
 Scroll To Top
