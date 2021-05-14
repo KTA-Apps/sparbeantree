@@ -290,7 +290,7 @@ Light meal
 
 <div class="container">
 <div class="Added" id="added" style="display:none;" >
-<span><strong>Club Salad added [<a href="Cart.php?auth=<?php echo $_GET['auth'];?>">view cart</a>]</strong></span>
+<span><strong>Club salad added [<a href="Cart.php?auth=<?php echo $_GET['auth'];?>">view cart</a>]</strong></span>
 </div>
 </div>
 </div>
