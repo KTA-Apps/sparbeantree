@@ -166,7 +166,7 @@ Conversations Breakfast
 </span>
 </div>
 <span class="title-after_title">
-by Bean tree cafe`
+by the Bean tree cafe`
 </span></div><div class="woocommerce"><div class="single-product" data-product-page-preselected-id="0"><div class="single-breadcrumbs-wrapper"><div class="container"> <a href="javascript:baselThemeModule.backHistory()" class="basel-back-btn basel-tooltip"><span>Back</span></a><nav class="woocommerce-breadcrumb">
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
 Cafe`
@@ -270,7 +270,7 @@ R
 	</div>
 	<br>
 	<button class="CannacapsES" id="CCes">
-		add to cart
+		add to bill
 	</button>
 	</div>
 	</div>
