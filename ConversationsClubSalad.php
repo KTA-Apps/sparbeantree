@@ -6,11 +6,7 @@ $servername="pxukqohrckdfo4ty.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
    $conn=mysqli_connect($servername,$dBUsername,$dBPassword,$dBName);
    $authtoken = $_GET['auth'];
 ?>
-<!DOCTYPE html> <!--[if IE 8]><html class="ie ie8" lang="en-US"> <![endif]--> <!--[if !(IE 7) & !(IE 8)]><!--><html lang="en-US"> <!--<![endif]-->
-<!-- Mirrored from demo.xtemos.com/basel/single-product/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Jul 2020 01:45:51 GMT -->
-<!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<!-- /Added by HTTrack -->
+<html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -18,7 +14,7 @@ $servername="pxukqohrckdfo4ty.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
 href="http://gmpg.org/xfn/11">
 <link rel="pingback" 
 href="Backend/xmlrpc.html">
-<title>Pineapple Express</title>
+<title>Conversations Club Salad</title>
 <link rel="stylesheet" 
 href="c7c58cca0fc9c8acb3530bf8cbf53297.css" 
 data-minify="1" />
@@ -92,128 +88,17 @@ href="cannacaps.html" />
 	<ul id="menu-top-bar" class="menu">
 	<li id="menu-item-20484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20484 menu-item-design-default item-event-hover">
 	<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-	Cart
+	Bill
 	</a></li>
 	<li id="menu-item-20488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20488 menu-item-design-default item-event-hover">
 	<a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">  
-	Shop
+	Cafe`
 	</a></li></ul></div></div></div></div></div></div>
 	
 	<header class="main-header header-has-no-bg header-shop icons-design-line color-scheme-dark">
 	<div class="container">
 	<div class="wrapp-header">
-	<div class="main-nav site-navigation basel-navigation menu-left" role="navigation">
-	<div class="menu-main-navigation-container">
-	<ul id="menu-main-navigation" class="menu">
-	<li id="menu-item-19422" class="dropdown-scroll menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-19422 menu-item-design-sized item-event-hover menu-item-has-children">
-	<a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-	Shop
-	</a>
-	<div class="sub-menu-dropdown color-scheme-dark">
-        <div class="container">
-            <div class="vc_row wpb_row vc_row-fluid col-five vc_custom_1475533876817">
-            <div class="wpb_column vc_column_container vc_col-sm-2 color-scheme-dark">
-            <div class="vc_column-inner">
-            <div class="wpb_wrapper">
-            <div class="wpb_text_column wpb_content_element vc_custom_1487879314225" >
-            <div class="wpb_wrapper">
-            <h5 style="text-align: center;">
-            <a style="color: #1b1919; text-transform: uppercase; letter-spacing: 0.3px;" href="Strain 1.html">
-            <strong>
-            <span style="color: #1aada3;">
-            1.</span> Durban Poison (Indoor)</strong>
-            </a></h5></div></div>
-            <div class="vc_custom_1511344750662">
-            <a href="Strain 1.html" class="vc_single_image-wrapper vc_box_border_grey">
-            <img 
-            class="basel-lasy-image" 
-            data-blazy-src="https://res.cloudinary.com/badboylu/image/upload/v1595088623/_DSC6572_zun5in.jpg" 
-            src="https://res.cloudinary.com/badboylu/image/upload/v1595088623/_DSC6572_zun5in.jpg" />
-            </a></div></div></div></div>
-            <div class="wpb_column vc_column_container vc_col-sm-2">
-            <div class="vc_column-inner"><div class="wpb_wrapper">
-            <div class="wpb_text_column wpb_content_element vc_custom_1487879330860" >
-            <div class="wpb_wrapper">
-            <h5 style="text-align: center;">
-            <a style="color: #1b1919; text-transform: uppercase; letter-spacing: 0.3px;" href="cannacaps.html">
-            <strong><span style="color: #1aada3;">
-            2.</span>Cannacaps</strong>
-            </a></h5></div></div>
-            <div class="vc_custom_1487879340170">
-            <a 
-            href="cannacaps.html" 
-            class="vc_single_image-wrapper vc_box_border_grey">
-            <img 
-            class="basel-lasy-image" 
-            data-blazy-src="https://res.cloudinary.com/badboylu/image/upload/v1595155752/_DSC6512_jsmovp.jpg" 
-            src="https://res.cloudinary.com/badboylu/image/upload/v1595155752/_DSC6512_jsmovp.jpg" />
-            </a></div></div></div></div>
-            <div class="wpb_column vc_column_container vc_col-sm-2">
-            <div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_text_column wpb_content_element vc_custom_1521125735460" ><div class="wpb_wrapper">
-            <h5 style="text-align: center;"><a style="color: #1b1919; text-transform: uppercase; letter-spacing: 0.3px;" href="Strain 2.html">
-            <strong><span style="color: #1aada3;">
-            3.</span>Orange Cali</strong></a></h5></div></div><div class="vc_custom_1521125450949">
-            <a href="Strain 2.html" class="vc_single_image-wrapper vc_box_border_grey">
-            <img 
-            class="basel-lasy-image" 
-            data-blazy-src="https://res.cloudinary.com/badboylu/image/upload/v1595088823/_DSC6569_nk6rz5.jpg" 
-            src="https://res.cloudinary.com/badboylu/image/upload/v1595088823/_DSC6569_nk6rz5.jpg" />
-            </a></div></div></div></div>
-            <div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner"><div class="wpb_wrapper">
-            <div class="wpb_text_column wpb_content_element vc_custom_1497366060747" ><div class="wpb_wrapper"><h5 style="text-align: center;">
-            <a style="color: #1b1919; text-transform: uppercase; letter-spacing: 0.3px;" href="Rolling paper.html"><strong><span style="color: #1aada3;">
-            4.</span>Blunt Wrap</strong></a></h5></div></div><div class="vc_custom_1497366048454">
-            <a href="Rolling paper.html" class="vc_single_image-wrapper vc_box_border_grey">
-            <img 
-            class="basel-lasy-image" 
-            data-blazy-src="https://res.cloudinary.com/badboylu/image/upload/v1600203458/images-3_bgewza.jpg" 
-            src="https://res.cloudinary.com/badboylu/image/upload/v1600203458/images-3_bgewza.jpg" />
-            </a></div></div></div></div>
-            <div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner"><div class="wpb_wrapper">
-            <div class="wpb_text_column wpb_content_element vc_custom_1505233042256" ><div class="wpb_wrapper"><h5 style="text-align: center;">
-            <a style="color: #1b1919; text-transform: uppercase; letter-spacing: 0.3px;" href="Canna_gwaaiz.html"><strong><span style="color: #1aada3;">
-            5.</span>Pre-Rolls</strong></a></h5></div></div>
-            <div class="vc_custom_1484179872282"><a href="Canna_gwaaiz.html" class="vc_single_image-wrapper vc_box_border_grey">
-            <img 
-            class="basel-lasy-image" 
-            data-blazy-src="https://res.cloudinary.com/badboylu/image/upload/v1600436773/IMG_20200918_153419_332_cqqpki.jpg" 
-            src="https://res.cloudinary.com/badboylu/image/upload/v1600436773/IMG_20200918_153419_332_cqqpki.jpg" />
-            </a></div></div></div></div></div>
-            <div class="vc_row wpb_row vc_row-fluid col-five vc_custom_1476734232282">
-            <div class="wpb_column vc_column_container vc_col-sm-2 color-scheme-dark">
-            <div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_text_column wpb_content_element vc_custom_1505233031603" ><div class="wpb_wrapper">
-            <h5 style="text-align: center;"><a style="color: #1b1919; text-transform: uppercase; letter-spacing: 0.3px;" href="Strain 3.html"><strong>
-            <span style="color: #1aada3;">
-            6. </span>Northern Lights</strong></a></h5></div></div>
-            <div class="vc_custom_1494340426796"><a href="Strain 3.html" class="vc_single_image-wrapper vc_box_border_grey">
-            <img 
-            class="basel-lasy-image" 
-            data-blazy-src="https://res.cloudinary.com/badboylu/image/upload/c_fit,h_348,w_273/v1595088975/_DSC6533_vdjxdu.jpg" 
-            src="https://res.cloudinary.com/badboylu/image/upload/c_fit,h_348,w_273/v1595088975/_DSC6533_vdjxdu.jpg" />
-            </a></div></div></div></div>
-            <div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner"><div class="wpb_wrapper">
-            <div class="wpb_text_column wpb_content_element vc_custom_1505232776768" ><div class="wpb_wrapper"><h5 style="text-align: center;">
-            <a style="color: #1b1919; text-transform: uppercase; letter-spacing: 0.3px;" href="CannacapsES.html"><strong><span style="color: #1aada3;">
-            7.</span>Cannacaps Extra Strong</strong></a></h5></div></div><div class="vc_custom_1502548857766">
-            <a 
-            href="CannacapsES.html" class="vc_single_image-wrapper vc_box_border_grey">
-            <img 
-            class="basel-lasy-image" 
-            data-blazy-src="https://res.cloudinary.com/badboylu/image/upload/v1595155752/_DSC6512_jsmovp.jpg" 
-            src="https://res.cloudinary.com/badboylu/image/upload/v1595155752/_DSC6512_jsmovp.jpg" />
-            </a></div></div></div></div>
-            <div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner"><div class="wpb_wrapper">
-            <div class="wpb_text_column wpb_content_element vc_custom_1505232782803" ><div class="wpb_wrapper"><h5 style="text-align: center;">
-            <a style="color: #1b1919; text-transform: uppercase; letter-spacing: 0.3px;" href="Strain 4.html"><strong><span style="color: #1aada3;">
-            8.</span> Pineapple Express</strong></a></h5></div></div><div class="vc_custom_1484179846825">
-            <a href="Strain 4.html" class="vc_single_image-wrapper vc_box_border_grey">
-            <img class="basel-lasy-image" data-blazy-src="https://res.cloudinary.com/badboylu/image/upload/c_fit,h_348,w_273/v1595088889/_DSC6536_aeu5je.jpg" src="https://res.cloudinary.com/badboylu/image/upload/c_fit,h_348,w_273/v1595088889/_DSC6536_aeu5je.jpg" />
-            </a></div></div></div></div>
-        </div></div></div>
-<style>.menu-item-19422>.sub-menu-dropdown{min-height:10px;width:1125px}</style></li>
-</ul>
-</div>
-</div>
+	
 <div class="site-logo">
 <div class="basel-logo-wrap"> 
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" class="basel-logo basel-main-logo" rel="home"> 
@@ -248,14 +133,14 @@ href="cannacaps.html" />
 <header class="entry-header">
 <h1 class="entry-title">
 </h1>
-Flowers range
+Light meal
 </h1>
 <div class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" rel="v:url" property="v:title">
-Shop
+Cafe`
 </a> 
 <span class="current">
-	Pineapple Express
+	Conversations Club Salad
 </span></div></header></div></div>
 <div class="container">
 <div class="row">
@@ -271,7 +156,7 @@ Shop
 </span>
 <h4 class="title" >
 <strong>
-	Pineapple Express
+	Conversations Club Salad
 </strong>
 <span class="title-separator">
 <span>
@@ -282,12 +167,12 @@ Shop
 </span>
 </div>
 <span class="title-after_title">
-	Indoor
+	by the Bean tree cafe`
 </span></div><div class="woocommerce"><div class="single-product" data-product-page-preselected-id="0"><div class="single-breadcrumbs-wrapper"><div class="container"> <a href="javascript:baselThemeModule.backHistory()" class="basel-back-btn basel-tooltip"><span>Back</span></a><nav class="woocommerce-breadcrumb">
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
 Shop
 </a><span class="breadcrumb-last"> 
-	Pineapple Express
+	Conversations Club Salad
 </span>
 </nav>
 </div>
@@ -349,7 +234,7 @@ Click to enlarge
 <div class="summary-inner ">
 <div class="basel-scroll-content">
 <h1 itemprop="name" class="product_title entry-title">
-	Pineapple Express Indoor
+	Conversations Club Salad
 </h1>
 <p class="price">
 <span class="woocommerce-Price-amount amount">
@@ -357,9 +242,8 @@ Click to enlarge
 <span class="woocommerce-Price-currencySymbol">
 R
 </span>
-110.00
+78
 </span>
-per/g
 </span>
 </p>
 <div class="woocommerce-product-details__short-description">
@@ -390,7 +274,7 @@ per/g
 	</div>
 	<br>
 	<button class="PineappleExpress" id="PE">
-		add to cart
+		add to bill
 	</button>
 	</div>
 	</div>
@@ -400,7 +284,7 @@ per/g
 <span class="posted_in">
 Category: 
 <a href="Flowers.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" rel="tag">
-Flowers
+Light meal
 </a>
 </span>
 </div>
@@ -408,7 +292,7 @@ Flowers
 
 <div class="container">
 <div class="Added" id="added" style="display:none;" >
-<span><strong>Pineapple Express added to cart</strong></span>
+<span><strong>Conversations Club Salad added</strong></span>
 </div>
 </div>
 </div>
