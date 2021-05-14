@@ -104,7 +104,7 @@ href="cannacaps.html" />
 <div class="site-logo">
 <div class="basel-logo-wrap"> 
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" class="basel-logo basel-main-logo" rel="home"> 
-<img  src="https://res.cloudinary.com/badboylu/image/upload/c_scale,h_350/v1595757623/website_logo_head_aswjjx.jpg" alt="Basel" /> 
+<img  src="https://res.cloudinary.com/ddjrcafre/image/upload/v1620635722/spar-logo_tk4nx8.png" alt="Basel" /> 
 </a></div></div>
 <div class="right-column">
 <div class="search-button basel-search-full-screen"> <a href="#"> <i class="fa fa-search"></i> </a><div class="basel-search-wrapper"><div class="basel-search-inner"> <span class="basel-close-search">close</span><form role="search" method="get" id="searchform" class="searchform  basel-ajax-search" action="https://demo.xtemos.com/basel/"  data-thumbnail="1" data-price="1" data-count="5" data-post_type="product" data-symbols_count="3" data-sku="0"><div> <label class="screen-reader-text">Search for:</label> <input type="text" class="search-field" placeholder="Search for products" value="" name="s" id="s" /> <input type="hidden" name="post_type" id="post_type" value="product"> <button type="submit" id="searchsubmit" value="Search">Search</button></div></form><div class="search-results-wrapper"><div class="basel-scroll"><div class="basel-search-results basel-scroll-content"></div></div></div></div></div></div>
@@ -251,9 +251,7 @@ R
 </p>
 <div class="woocommerce-product-details__short-description">
 	<p>
-	<strong>Quality:</strong><span> Organic, unprocessed and unbleached papers.</span>
-        <br>
-	<strong>Description:</strong><span> Josh Kesselman, an American entrepreneur, founded Raw rolling paper in 2005 which became one of the first "vegan" rolling papers to hit the market and has now become an international brand.</span>
+	<span>Ham, emmental cheese, tomato and sweet chilli mayo.</span>
 	</p></div>
 <div >
 	<div class="single_variation_wrap">
@@ -293,7 +291,7 @@ Sandwich
 
 <div class="container">
 <div class="Added" id="added" style="display:none;" >
-<span><strong>Ham sandwich added </strong></span>
+<span><strong>Ham sandwich added [<a href="Cart.php?auth=<?php echo $_GET['auth'];?>">view cart</a>]</strong></span>
 </div>
 </div>
 </div>
@@ -309,31 +307,15 @@ Sandwich
 <div class="col-left"> 
 <i class="fa fa-copyright">
 </i> 
-2020 Created by 
+2021 Created by 
 <span>
-Kahrent Technology
+Kahrent Technology Africa
 </span>
-Africa. Contact us <a href="C.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a>. Terms and conditions <a href="A1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a></div></div></div></div></footer></div>
+</div></div></div></div></footer></div>
 <div class="basel-close-side">
 </div>
 <div class="basel-toolbar icons-design-line basel-toolbar-label-show">
-<div class="basel-toolbar-shop basel-toolbar-item"> 
-<a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-<span class="basel-toolbar-label"> 
-Shop 
-</span> </a></div>
-<div class="king"> 
-<img src="https://img.icons8.com/ios-glyphs/30/000000/medieval-crown.png"/>
-</div>
-<div class="queen"> 
-<img src="https://img.icons8.com/pastel-glyph/30/000000/like--v1.png"/>
-</div>
-<div> 
-<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-<img src="https://img.icons8.com/android/21/000000/shopping-cart.png"/>
-<span class="basel-toolbar-label">
-Cart 
-</span> </a></div></div> 
+<div style="text-align:center;margin-bottom:1px;"><span><strong><a href="Shop.php?auth=<?php echo $_GET['auth'];?>">Back to Menu </a></strong></span></div></div></div> 
 </div>
 <a href="#" class="scrollToTop basel-tooltip">
 Scroll To Top
