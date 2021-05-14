@@ -270,7 +270,7 @@ R
 	</div>
 	<br>
 	<button class="DurbanPoison" id="DP">
-		add to cart
+		add to bill
 	</button>
 	</div>
 	</div>
