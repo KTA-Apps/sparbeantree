@@ -141,9 +141,7 @@ $timeplacedReal= date('H:i', strtotime($timeplaced));
 $timeChange=date('H:i',strtotime('+2 hour',strtotime($timeplaced)));
 }
 ?>
-<!DOCTYPE html> <!--[if IE 8]><html class="ie ie8" lang="en-US"> <![endif]--> <!--[if !(IE 7) & !(IE 8)]><!--><html lang="en-US"> <!--<![endif]-->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<!-- /Added by HTTrack -->
+<html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -291,7 +289,7 @@ Delivery status
 </div>
 <span class="title-after_title">
 
-</span></div><div class="woocommerce"><div class="single-product" data-product-page-preselected-id="0"><div class="single-breadcrumbs-wrapper"><div class="container"> <a href="Items.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" class="basel-back-btn basel-tooltip"><span>Back</span></a><nav class="woocommerce-breadcrumb">
+</span></div><div class="woocommerce"><div class="single-product" data-product-page-preselected-id="0"><div class="single-breadcrumbs-wrapper"><div class="container"> <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" class="basel-back-btn basel-tooltip"><span>Back</span></a><nav class="woocommerce-breadcrumb">
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 Shop
 </a><span class="breadcrumb-last"> 
