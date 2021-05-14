@@ -87,7 +87,7 @@ href="cannacaps.html" />
             <div class="menu-top-bar-container">
             <ul id="menu-top-bar" class="menu">
             <li id="menu-item-20484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20484 menu-item-design-default item-event-hover">
-            <a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
+            <a href="Bill.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
             Bill
             </a></li>
             <li id="menu-item-20488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20488 menu-item-design-default item-event-hover">
@@ -108,7 +108,7 @@ href="cannacaps.html" />
 <div class="right-column">
 <div class="search-button basel-search-full-screen"> <a href="#"> <i class="fa fa-search"></i> </a><div class="basel-search-wrapper"><div class="basel-search-inner"> <span class="basel-close-search">close</span><form role="search" method="get" id="searchform" class="searchform  basel-ajax-search" action="https://demo.xtemos.com/basel/"  data-thumbnail="1" data-price="1" data-count="5" data-post_type="product" data-symbols_count="3" data-sku="0"><div> <label class="screen-reader-text">Search for:</label> <input type="text" class="search-field" placeholder="Search for products" value="" name="s" id="s" /> <input type="hidden" name="post_type" id="post_type" value="product"> <button type="submit" id="searchsubmit" value="Search">Search</button></div></form><div class="search-results-wrapper"><div class="basel-scroll"><div class="basel-search-results basel-scroll-content"></div></div></div></div></div></div>
 <div> 
-	<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">  
+	<a href="Bill.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">  
 	<span class="basel-cart-totals"> 
 		<span class="basel-cart-numberCart">
 		0
@@ -293,7 +293,7 @@ Light Meals
 
 <div class="container">
 <div class="Added" id="added" style="display:none;" >
-<span><strong>Spagetti Bolongaise added [<a href="Cart.php?auth=<?php echo $_GET['auth'];?>">view cart</a>]</strong></span>
+<span><strong>Spagetti Bolongaise added [<a href="Bill.php?auth=<?php echo $_GET['auth'];?>">view cart</a>]</strong></span>
 </div>
 </div>
 </div>
