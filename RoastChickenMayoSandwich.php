@@ -92,7 +92,7 @@ href="../../wp-includes/wlwmanifest.xml" /><meta name="generator" content="WordP
 	<div class="menu-top-bar-container">
 	<ul id="menu-top-bar" class="menu">
 	<li id="menu-item-20484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20484 menu-item-design-default item-event-hover">
-	<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
+	<a href="Bill.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
 	Bill
 	</a></li>
 	<li id="menu-item-20488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20488 menu-item-design-default item-event-hover">
@@ -110,7 +110,7 @@ href="../../wp-includes/wlwmanifest.xml" /><meta name="generator" content="WordP
 </a></div></div>
 <div class="right-column">
 <div>
-	        <a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
+	        <a href="Bill.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
                 <span class="basel-cart-totals"> 
 		<span class="basel-cart-numberCart">
 		0
@@ -291,7 +291,7 @@ Gourmet Sandwich
 
 <div class="container">
 <div class="Added" id="added" style="display:none;" >
-<span><strong>Roast Chicken mayo added [<a href="Cart.php?auth=<?php echo $_GET['auth'];?>">view cart</a>] </strong></span>
+<span><strong>Roast Chicken mayo added [<a href="Bill.php?auth=<?php echo $_GET['auth'];?>">view cart</a>] </strong></span>
 </div>
 </div>
 </div>
