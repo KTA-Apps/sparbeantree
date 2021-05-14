@@ -248,7 +248,7 @@ R
 </p>
 <div class="woocommerce-product-details__short-description">
 	<p>
-	<span>Chicken, peppeadews and gruyere served with fries.</span>
+	<span>Chicken, peppadews and gruyere served with fries.</span>
 	</p></div>
 <div >
 	<div class="single_variation_wrap">
