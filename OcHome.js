@@ -1,5 +1,5 @@
 const cartshomeOC = document.querySelectorAll('.OrangeCaliHome');
-var priceHomeOC = 20;
+var priceHomeOC = 82;
 
 cartshomeOC.forEach(OrangeCaliHome =>{
     OrangeCaliHome.addEventListener('click', () => {
@@ -32,7 +32,7 @@ function addGramsNumbersHomeOC() {
                if(gramsNumberaddHomeOC) {
                 localStorage.setItem('GramsOC', gramsNumberaddHomeOC + 5);
                }else{
-                localStorage.setItem('GramsOC', 5);
+                localStorage.setItem('GramsOC', 1);
                }
 }
 
