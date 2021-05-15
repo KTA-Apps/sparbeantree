@@ -1,7 +1,7 @@
 const cartsNL = document.querySelectorAll('.NorthernLights');
 const moreGramsNL = document.querySelectorAll('.moreGramsNorthernLights');
 const lessGramsNL = document.querySelectorAll('.lessGramsNorthernLights');
-var priceNL = 45;
+var priceNL = 78;
 
 cartsNL.forEach(NorthernLights =>{
         NorthernLights.addEventListener('click', () => {
@@ -94,7 +94,7 @@ function addGramsNumbersNL() {
                 gramsNumberaddNL = parseInt(gramsNumberaddNL);
                 document.querySelector('.gramsamountNL').textContent =parseInt(gramsNumberaddNL);
                }else{
-                localStorage.setItem('GramsNL', 5 );       
+                localStorage.setItem('GramsNL', 1 );       
                 document.querySelector('.gramsamountNL').textContent = parseInt(gramsNumberaddNL);
                }
 }
