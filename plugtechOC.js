@@ -89,7 +89,7 @@ function addGramsNumbersOC() {
         let ifavailableOC = localStorage.getItem('GramsOC')
         ifavailableOC = parseInt(ifavailableOC);
                if(ifavailableOC) {
-                localStorage.setItem('GramsOC',(ifavailableOC) + 5);
+                localStorage.setItem('GramsOC',(ifavailableOC) + 1);
                 let gramsNumberaddOC = localStorage.getItem('GramsOC'); 
                 gramsNumberaddOC = parseInt(gramsNumberaddOC);
                 document.querySelector('.gramsamountOC').textContent =parseInt(gramsNumberaddOC);
@@ -106,8 +106,8 @@ function minusGramsNumbersOC() {
         let gramsNumbersminusOC = localStorage.getItem('GramsOC'); 
         gramsNumbersminusOC = parseInt(gramsNumbersminusOC);
                if(gramsNumbersminusOC) {
-                localStorage.setItem('GramsOC', gramsNumbersminusOC = (gramsNumbersminusOC - 5));
-                document.querySelector('.gramsamountOC').textContent = parseInt(gramsNumbersminusOC) -5;
+                localStorage.setItem('GramsOC', gramsNumbersminusOC = (gramsNumbersminusOC - 1));
+                document.querySelector('.gramsamountOC').textContent = parseInt(gramsNumbersminusOC) -1;
                }else{
                 document.querySelector('.gramsamountOC').textContent = 0;   
 }
