@@ -84,8 +84,7 @@ href="cannacaps.html" />
 	<div class="container">
 	<div class="topbar-content">
 	<div class="top-bar-left"> 
-	<span> <?php echo $_GET['username']; ?></span><span> </span><span>[<a href="Logout.php?&auth=<?php echo $_GET['auth'];?>"><span style="color:red;"> Log out</span></a>]</span>
-
+	<span>[<a href="T1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"><span style="color:orange;">Delivery status</span></a>]</span>
 	</div>
 	<div class="top-bar-right">
 	<div class="topbar-menu">
@@ -93,7 +92,7 @@ href="cannacaps.html" />
 	<ul id="menu-top-bar" class="menu">
 	<li id="menu-item-20488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20488 menu-item-design-default item-event-hover">
 	<a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-	Shop
+	Cafe`
 	</a></li></ul></div></div></div></div></div></div>
 	
 	<header class="main-header header-has-no-bg header-shop icons-design-line color-scheme-dark">
@@ -110,7 +109,7 @@ href="cannacaps.html" />
 <div class="right-column">
 <div >
 <div >
-	<a href="Cart.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+	<a href="Bill.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 	<span class="basel-cart-totals"> 
 		<span class="basel-cart-numberCart">
 		0
@@ -595,28 +594,15 @@ class="single-product-page single-product-content product-design-default product
 <div class="col-left"> 
 <i class="fa fa-copyright">
 </i> 
-2020 Created by 
+2021 Created by 
 <span>
-Kahrent Technology
+Kahrent Technology Africa
 </span>
-Africa. Contact us <a href="C.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a>. Terms and conditions <a href="A1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">(here)</a></div></div></div></div></footer></div>
+</div></div></div></div></footer></div>
 <div class="basel-close-side">
 </div>
 <div class="basel-toolbar icons-design-line basel-toolbar-label-show">
-<div class="basel-toolbar-shop basel-toolbar-item"> 
-<a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-<span class="basel-toolbar-label"> 
-Shop 
-</span> </a></div>
-<div class="king"> 
-<img src="https://img.icons8.com/ios-glyphs/30/000000/medieval-crown.png"/>
-</div>
-<div class="queen"> 
-<img src="https://img.icons8.com/pastel-glyph/30/000000/like--v1.png"/>
-</div>
-<div class="lighter">  
-<img src="https://img.icons8.com/pastel-glyph/30/000000/hand-lighter-without-flame.png"/>
-</a></div></div> 
+<div style="text-align:center;margin-bottom:1px;"><span><strong><a href="Shop.php?auth=<?php echo $_GET['auth'];?>">Back to Menu </a></strong></span></div></div></div> 
 </div>
 <a href="#" class="scrollToTop basel-tooltip">
 Scroll To Top
