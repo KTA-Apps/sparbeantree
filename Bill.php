@@ -197,10 +197,10 @@ class="single-product-page single-product-content product-design-default product
                         https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189069/Quiche2_h5lj2g.jpg"  class = "DPcontainer1">
                     </li>
                 <li>	
-                <span class = "DPcontainer2BW"><strong>Milk Chocolates</strong></span>
+                <span class = "DPcontainer2BW"><strong>Homemade Quiches</strong></span>
             </li>
             <li>
-                <span class = "DPcontainer3BW">R30 per/Box</span>
+                <span class = "DPcontainer3BW">R68 per/serving</span>
             </li>
             <li>
                 <div class="quantitygramsBW" id="BWgrams"> 
@@ -213,7 +213,7 @@ class="single-product-page single-product-content product-design-default product
                     <ion-icon name="caret-down-outline"></ion-icon>
 		    </div>
                     <span class="gramsamountBW1">
-                        Box/s
+                        serving/s
                     </span>
                 </div>
             </div>
@@ -239,10 +239,10 @@ class="single-product-page single-product-content product-design-default product
                         https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189653/RoastChickenMayo2_kwhxmd.jpg"  class = "DPcontainer1">
                     </li>
                 <li>	
-                <span class = "DPcontainer2CC"><strong>CBD oil capsules</strong></span>
+                <span class = "DPcontainer2CC"><strong>Roast chicken mayo</strong></span>
             </li>
             <li>
-                <span class = "DPcontainer3CC">R240 per/Batch</span>
+                <span class = "DPcontainer3CC">R60 per/serving</span>
             </li>
             <li>
                 <div class="quantitygramsCC" id="CCgrams"> 
@@ -255,7 +255,7 @@ class="single-product-page single-product-content product-design-default product
                     <ion-icon name="caret-down-outline"></ion-icon>
 		    </div>
                     <span>
-                        Batch/es
+                        serving/s
                     </span>
                 </div>
             </div>
@@ -282,10 +282,10 @@ class="single-product-page single-product-content product-design-default product
 						https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619452366/Spaggeti1_rn050m.jpg"  class = "DPcontainer1">
 					</li>
 				<li>	
-				<span class = "DPcontainer2OC"><strong>Pink Roses</strong></span>
+				<span class = "DPcontainer2OC"><strong>Spaghetti bolognaise</strong></span>
 			</li>
 			<li>
-				<span class = "DPcontainer3OC">R20 per/Rose</span>
+				<span class = "DPcontainer3OC">R82 per/serving</span>
 			</li>
 			<li>
 				<div class="quantitygramsOC" id="OCgrams"> 
@@ -298,7 +298,7 @@ class="single-product-page single-product-content product-design-default product
 		    			<ion-icon name="caret-down-outline"></ion-icon>
 		    			 </div> 
 					<span>
-						Roses
+						serving/s
 					</span>
 				</div>
 			</div>
@@ -325,10 +325,10 @@ class="single-product-page single-product-content product-design-default product
                         https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620124942/Breakfast2_yccqi8.jpg"  class = "DPcontainer1">
                     </li>
                 <li>	
-                <span class = "DPcontainer2PR"><strong>Dark Chocolates</strong></span>
+                <span class = "DPcontainer2PR"><strong>Conversations breakfast</strong></span>
             </li>
             <li>
-                <span class = "DPcontainer3PR">R60 per/Box</span>
+                <span class = "DPcontainer3PR">R75 per/serving</span>
             </li>
             <li>
                 <div class="quantitygramsPR" id="PRgrams"> 
@@ -341,7 +341,7 @@ class="single-product-page single-product-content product-design-default product
 		    <ion-icon name="caret-down-outline"></ion-icon>
 		    </div>
                     <span>
-                        Box/es
+                        serving/s
                     </span>
                 </div>
             </div>
@@ -366,10 +366,10 @@ class="single-product-page single-product-content product-design-default product
                             https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620127119/Salad1_zrgqo9.jpg"  class = "DPcontainer1">
                         </li>
                     <li>	
-                    <span class = "DPcontainer2CCES"><strong>CBD oil capsules (strong)</strong></span>
+                    <span class = "DPcontainer2CCES"><strong>Conversations club salad</strong></span>
                 </li>
                 <li>
-                    <span class = "DPcontainer3CCES">R450 per/Batch</span>
+                    <span class = "DPcontainer3CCES">R78 per/serving</span>
                 </li>
                 <li>
                     <div class="quantitygramsCCES" id="CCESgrams"> 
@@ -382,7 +382,7 @@ class="single-product-page single-product-content product-design-default product
 		        <ion-icon name="caret-down-outline"></ion-icon>
 		        </div>
                         <span>
-                            Batch/es
+                            serving/s
                         </span>
                     </div>
                 </div>
@@ -408,10 +408,10 @@ class="single-product-page single-product-content product-design-default product
                         https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619452321/Chickenburger1_ukfmj4.jpg"  class = "DPcontainer1">
                     </li>
                 <li>	
-                <span class = "DPcontainer2NL"><strong>Sunflowers</strong></span>
+                <span class = "DPcontainer2NL"><strong>Chicken burger</strong></span>
             </li>
             <li>
-                <span class = "DPcontainer3NL">R45 per/Flower</span>
+                <span class = "DPcontainer3NL">R68 per/serving</span>
             </li>
             <li>
                 <div class="quantitygramsNL" id="NLgrams"> 
@@ -424,7 +424,7 @@ class="single-product-page single-product-content product-design-default product
 		    <ion-icon name="caret-down-outline"></ion-icon>
 		    </div>
                     <span>
-                        Flowers
+                        serving/s
                     </span>
                 </div>
             </div>
@@ -450,10 +450,10 @@ class="single-product-page single-product-content product-design-default product
                         https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620129158/Ham1_wbb7s5.jpg"  class = "DPcontainer1">
                     </li>
                 <li>	
-                <span class = "DPcontainer2PE"><strong>Mugs</strong></span>
+                <span class = "DPcontainer2PE"><strong>Ham emmental sandwich</strong></span>
             </li>
             <li>
-                <span class = "DPcontainer3PE">R100 per/Mugt</span>
+                <span class = "DPcontainer3PE">R68 per/serving</span>
             </li>
             <li>
                 <div class="quantitygramsPE" id="PEgrams"> 
@@ -466,7 +466,7 @@ class="single-product-page single-product-content product-design-default product
 		    <ion-icon name="caret-down-outline"></ion-icon>
 		    </div>
                     <span>
-                        Mug/s
+                        serving/s
                     </span>
                 </div>
             </div>
@@ -491,10 +491,10 @@ class="single-product-page single-product-content product-design-default product
                         <img src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620126542/Beef1_pfodz6.jpg" class = "DPcontainer1">
                     </li>
                 <li>	
-                <span class = "DPcontainer2"><strong>Red Roses</strong></span>
+                <span class = "DPcontainer2"><strong>Beef burger</strong></span>
             </li>
             <li>
-                <span class = "DPcontainer3">R70 per/Rose</span>
+                <span class = "DPcontainer3">R64 per/serving</span>
             </li>
             <li>
                 <div class="quantity" id="DPgrams"> 
@@ -507,7 +507,7 @@ class="single-product-page single-product-content product-design-default product
 		    <ion-icon name="caret-down-outline"></ion-icon>
 		    </div>
                     <span>
-                        Roses
+                        serving/s
                     </span>
                 </div>
             </div>
