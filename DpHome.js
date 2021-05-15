@@ -1,5 +1,5 @@
 const cartshome = document.querySelectorAll('.DurbanPoisonHome');
-var priceHome = 70;
+var priceHome = 68;
 
 cartshome.forEach(DurbanPoisonHome =>{
         DurbanPoisonHome.addEventListener('click', () => {
@@ -34,7 +34,7 @@ function addGramsNumbersHome() {
                if(gramsNumberaddHome) {
                 localStorage.setItem('GramsDP', gramsNumberaddHome + 5);
                }else{
-                localStorage.setItem('GramsDP', 5);
+                localStorage.setItem('GramsDP', 1);
                }
 }
 
