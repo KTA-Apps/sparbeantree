@@ -1,7 +1,7 @@
 const cartsOC = document.querySelectorAll('.OrangeCali');
 const moreGramsOC = document.querySelectorAll('.moreGramsOrangeCali');
 const lessGramsOC = document.querySelectorAll('.lessGramsOrangeCali');
-var priceOC = 20;
+var priceOC = 82;
 
 cartsOC.forEach(OrangeCali =>{
     OrangeCali.addEventListener('click', () => {
@@ -94,7 +94,7 @@ function addGramsNumbersOC() {
                 gramsNumberaddOC = parseInt(gramsNumberaddOC);
                 document.querySelector('.gramsamountOC').textContent =parseInt(gramsNumberaddOC);
                }else{
-                localStorage.setItem('GramsOC', 5 );       
+                localStorage.setItem('GramsOC', 1 );       
                 document.querySelector('.gramsamountOC').textContent = parseInt(gramsNumberaddOC);
                }
 }
