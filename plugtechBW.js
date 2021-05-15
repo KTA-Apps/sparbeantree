@@ -1,7 +1,7 @@
 const cartsBW = document.querySelectorAll('.BluntWrap');
 const moreGramsBW = document.querySelectorAll('.moreGramsBluntWrap');
 const lessGramsBW = document.querySelectorAll('.lessGramsBluntWrap');
-var priceBW = 30;
+var priceBW = 75;
 
 cartsBW.forEach(BluntWrap =>{
     BluntWrap.addEventListener('click', () => {
