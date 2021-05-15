@@ -288,7 +288,7 @@ Breakfast
 
 <div class="container">
 <div class="Added" id="added" style="display:none;" >
-<span><strong>Conversations breakfast added[<a href="Bill.php?auth=<?php echo $_GET['auth'];?>">view cart</a>]</strong></span>
+<span><strong>Conversations breakfast added [<a href="Bill.php?auth=<?php echo $_GET['auth'];?>">view cart</a>]</strong></span>
 </div>
 </div>
 </div>
