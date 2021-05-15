@@ -1,7 +1,7 @@
 const carts = document.querySelectorAll('.DurbanPoison');
 const moreGrams = document.querySelectorAll('.moreGramsDurbanPoison');
 const lessGrams = document.querySelectorAll('.lessGramsDurbanPoison');
-var price = 70;
+var price = 68;
 
 carts.forEach(DurbanPoison =>{
         DurbanPoison.addEventListener('click', () => {
@@ -94,7 +94,7 @@ function addGramsNumbers() {
                 gramsNumberadd = parseInt(gramsNumberadd);
                 document.querySelector('.gramsamountDP').textContent =parseInt(gramsNumberadd);
                }else{
-                localStorage.setItem('GramsDP', 5 );       
+                localStorage.setItem('GramsDP', 1 );       
                 document.querySelector('.gramsamountDP').textContent = parseInt(gramsNumberadd);
                }
 }
