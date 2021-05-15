@@ -1,5 +1,5 @@
 const cartshomeNL = document.querySelectorAll('.NorthernLightsHome');
-var priceHomeNL = 45;
+var priceHomeNL = 78;
 
 cartshomeNL.forEach(NorthernLightsHome =>{
         NorthernLightsHome.addEventListener('click', () => {
@@ -34,7 +34,7 @@ function addGramsNumbersHomeNL() {
                if(gramsNumberaddHomeNL) {
                 localStorage.setItem('GramsNL', gramsNumberaddHomeNL + 5);
                }else{
-                localStorage.setItem('GramsNL', 5);
+                localStorage.setItem('GramsNL', 1);
                }
 }
 
