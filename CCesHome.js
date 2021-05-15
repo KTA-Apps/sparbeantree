@@ -1,5 +1,5 @@
 const cartshomeCCES = document.querySelectorAll('.CannacapsESHome');
-var priceHomeCCES = 450;
+var priceHomeCCES = 68;
 
 cartshomeCCES.forEach(CannacapsESHome =>{
         CannacapsESHome.addEventListener('click', () => {
