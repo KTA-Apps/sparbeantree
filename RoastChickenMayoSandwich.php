@@ -253,30 +253,37 @@ R
 	<span>Chicken mayo, baby greens, avo, feta and sun-dried tomato pesto.</span>
 	</p></div>
 <div >
-	<div class="single_variation_wrap">
-	<div class="woocommerce-variation single_variation">
-	</div>
 	<div >
-	<div class="quantity" id="OCgrams"> 
-	<button class ="upbutton">
-	<ion-icon type="button" class="lessGramsOrangeCali" name="caret-down-outline"></ion-icon>
-	</button> 
-	<span class="gramsamountOC" >0</span>
-	<button class ="upbutton">
-	<ion-icon type="button" class="moreGramsOrangeCali" name="caret-up-outline"></ion-icon>
-	</button>
-	
-	<span>
-	serving/s
-	</span>
-	</div>
-	<br>
-	<button class="OrangeCali" id="OC">
-		add to bill
-	</button>
-	</div>
-	</div>
-	</div>
+		
+		
+		<br>
+		<div class="single_variation_wrap">
+		<div class="woocommerce-variation single_variation">
+		</div>
+		<div >
+		<div class="quantity" id="CCgrams"> 
+		<button class ="upbutton">
+		<ion-icon type="button" class="lessGramsCannacaps" name="caret-down-outline"></ion-icon>
+		</button> 
+		<span class="gramsamountCC" >0</span>
+		<button class ="upbutton">
+		<ion-icon type="button" class="moreGramsCannacaps" name="caret-up-outline"></ion-icon>
+		</button>
+		
+		<span>
+			serving/s
+		</span>
+		</div>
+		<br>
+		<button class="cannacaps" id="CC">
+			add to bill
+		</button>
+		</div>
+		</div>
+		</div>
+
+</div>
+<br>
 <br>
 <div class="product_meta">  
 <span class="posted_in">
