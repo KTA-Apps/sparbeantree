@@ -89,7 +89,7 @@ function addGramsNumbersNL() {
         let ifavailableNL = localStorage.getItem('GramsNL')
         ifavailableNL = parseInt(ifavailableNL);
                if(ifavailableNL) {
-                localStorage.setItem('GramsNL',(ifavailableNL) + 5);
+                localStorage.setItem('GramsNL',(ifavailableNL) + 1);
                 let gramsNumberaddNL = localStorage.getItem('GramsNL'); 
                 gramsNumberaddNL = parseInt(gramsNumberaddNL);
                 document.querySelector('.gramsamountNL').textContent =parseInt(gramsNumberaddNL);
@@ -106,8 +106,8 @@ function minusGramsNumbersNL() {
         let gramsNumbersminusNL = localStorage.getItem('GramsNL'); 
         gramsNumbersminusNL = parseInt(gramsNumbersminusNL);
                if(gramsNumbersminusNL) {
-                localStorage.setItem('GramsNL', gramsNumbersminusNL = (gramsNumbersminusNL - 5));
-                document.querySelector('.gramsamountNL').textContent = parseInt(gramsNumbersminusNL) -5;
+                localStorage.setItem('GramsNL', gramsNumbersminusNL = (gramsNumbersminusNL - 1));
+                document.querySelector('.gramsamountNL').textContent = parseInt(gramsNumbersminusNL) -1;
                }else{
                 document.querySelector('.gramsamountNL').textContent = 0;   
 }
