@@ -256,13 +256,13 @@ R
 	<div class="woocommerce-variation single_variation">
 	</div>
 	<div >
-	<div class="quantity" id="PRgrams"> 
+	<div class="quantity" id="CCesgrams"> 
 	<button class ="upbutton">
-	<ion-icon type="button" class="lessGramsPreRolls" name="caret-down-outline"></ion-icon>
+	<ion-icon type="button" class="lessGramsCannacapsES" name="caret-down-outline"></ion-icon>
 	</button> 
-	<span class="gramsamountPR" >0</span>
+	<span class="gramsamountCCes" >0</span>
 	<button class ="upbutton">
-	<ion-icon type="button" class="moreGramsPreRolls" name="caret-up-outline"></ion-icon>
+	<ion-icon type="button" class="moreGramsCannacapsES" name="caret-up-outline"></ion-icon>
 	</button>
 	
 	<span>
@@ -270,7 +270,7 @@ R
 	</span>
 	</div>
 	<br>
-	<button class="PreRolls" id="PR">
+	<button class="CannacapsES" id="CCes">
 		add to bill
 	</button>
 	</div>
