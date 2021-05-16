@@ -240,7 +240,8 @@
     padding-left: 0px;
 }
 .totalcartBW{
-    padding-left: 100px;
+    float: right;
+    padding-left: 0px;
 }
 .RandsBW{
     padding-left: 70px;
