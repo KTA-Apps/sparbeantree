@@ -134,7 +134,7 @@
     width: 100px;
 }
 .DPcontainer2CC{
-    padding-left: 5%;
+    padding-left: 5px;
 }
 .DPcontainer3CC{
     padding-left: 100%;
@@ -182,7 +182,7 @@
     width: 100px;
 }
 .DPcontainer2OC{
-    padding-left: 5%;
+    padding-left: 5px;
 }
 .DPcontainer3OC{
     padding-left: 20%;
@@ -231,7 +231,7 @@
     width: 100px;
 }
 .DPcontainer2BW{
-    padding-left: 5%;
+    padding-left: 5px;
 }
 .DPcontainer3BW{
     padding-left: 120%;
@@ -279,7 +279,7 @@
     width: 100px;
 }
 .DPcontainer2PR{
-    padding-left: 5%;
+    padding-left: 5px;
 }
 .DPcontainer3PR{
     padding-left: 120%;
@@ -327,7 +327,7 @@
     width: 100px;
 }
 .DPcontainer2NL{
-    padding-left: 5%;
+    padding-left: 5px;
 }
 .DPcontainer3NL{
     padding-left: 120%;
@@ -375,7 +375,7 @@
     width: 100px;
 }
 .DPcontainer2CCES{
-    padding-left: 5%;
+    padding-left: 5px;
 }
 .DPcontainer3CCES{
     padding-left: 30%;
@@ -423,7 +423,7 @@
     width: 100px;
 }
 .DPcontainer2PE{
-    padding-left: 5%;
+    padding-left: 5px;
 }
 .DPcontainer3PE{
     padding-left: 100%;
@@ -509,29 +509,4 @@
     white-space: nowrap;
 }
 
-@media all screen  and (min-width : 1224px) {
-.totalOrderR{
-    float: left;
-    padding-left: 0%;
-    display: inline-block;
-}
-.totalOrderR1{
-    float: left;
-    padding-left: 0%;
-    display: inline-block;
-}
-}
 
-
-@media all screen  and (min-width : 1824px) {
-.totalOrderR{
-    float: left;
-    padding-left: 0%;
-    display: inline-block;
-}
-.totalOrderR1{
-    float: left;
-    padding-left: 0%;
-    display: inline-block;
-}
-}
