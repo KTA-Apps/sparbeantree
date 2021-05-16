@@ -140,7 +140,7 @@
     padding-left: 48px;
 }
 .quantitygramsCC{
-    padding-left: 150%;
+    padding-left: 0px;
 }
 .totalcartCC{
     padding-left: 100%;
@@ -240,10 +240,10 @@
     padding-left: 0px;
 }
 .totalcartBW{
-    padding-left: 0px;
+    padding-left: 40px;
 }
 .RandsBW{
-    padding-left: 0px;
+    padding-left: 55px;
 }
 .upbutton{
     background-color: white;
