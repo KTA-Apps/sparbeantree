@@ -90,14 +90,14 @@
     padding-left: 50px;
 }
 .quantitygrams{
-    padding-left: 80%;
+    padding-left: 0px;
 }
 .totalcart{
-    padding-left: 100%;
+    padding-left: float: right;
+    padding-left: 0px;
 }
 .Rands{
-    float: right;
-    padding-left: 170px;
+    padding-left: 155px;
 }
 .upbutton{
     background-color: white;
@@ -143,11 +143,11 @@
     padding-left: 0px;
 }
 .totalcartCC{
-    padding-left: 100%;
+    float: right;
+    padding-left: 0px;
 }
 .RandsCC{
-    float: right;
-    padding-left: 233px;
+    padding-left: 155px;
 }
 .upbutton{
     background-color: white;
@@ -188,14 +188,14 @@
     padding-left: 42px;
 }
 .quantitygramsOC{
-    padding-right: 0%;
+    padding-right: 0px;
 }
 .totalcartOC{
-    padding-left: 100%;
+    float: right;
+    padding-left: 0px;
 }
 .RandsOC{
-    float: right;
-    padding-left: 160px;
+    padding-left: 155px;
 }
 .upbutton{
     background-color: white;
@@ -244,7 +244,7 @@
     padding-left: 0px;
 }
 .RandsBW{
-    padding-left: 160px;
+    padding-left: 155px;
 }
 .upbutton{
     background-color: white;
