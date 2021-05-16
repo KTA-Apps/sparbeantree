@@ -139,7 +139,7 @@ Gourmet Sandwich
 </h1>
 <div class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
 <a href="Shop.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>" rel="v:url" property="v:title">
-Cafe
+Cafe`
 </a> 
 <span class="current">
 Ham Emmental Sandwich 
