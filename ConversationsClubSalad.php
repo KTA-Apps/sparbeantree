@@ -257,13 +257,13 @@ R
 	<div class="woocommerce-variation single_variation">
 	</div>
 	<div >
-	<div class="quantity" id="PEgrams"> 
+	<div class="quantity" id="NLgrams"> 
 	<button class ="upbutton">
-	<ion-icon type="button" class="lessGramsPineappleExpress" name="caret-down-outline"></ion-icon>
+	<ion-icon type="button" class="lessGramsNorthernLights" name="caret-down-outline"></ion-icon>
 	</button> 
-	<span class="gramsamountPE" >0</span>
+	<span class="gramsamountNL" >0</span>
 	<button class ="upbutton">
-	<ion-icon type="button" class="moreGramsPineappleExpress" name="caret-up-outline"></ion-icon>
+	<ion-icon type="button" class="moreGramsNorthernLights" name="caret-up-outline"></ion-icon>
 	</button>
 	
 	<span>
@@ -271,7 +271,7 @@ R
 	</span>
 	</div>
 	<br>
-	<button class="PineappleExpress" id="PE">
+	<button class="NorthernLights" id="NL">
 		add to bill
 	</button>
 	</div>
