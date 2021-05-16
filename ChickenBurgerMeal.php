@@ -328,7 +328,7 @@ Scroll To Top
 src="https://unpkg.com/ionicons@5.1.2/dist/ionicons.js" >
 </script>
 <script 
-src="plugtechPR.js" >
+src="plugtechCCes.js" >
 </script>
 <script 
 src="totalAmountsDisplay.js" >
