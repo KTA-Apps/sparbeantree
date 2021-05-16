@@ -194,8 +194,8 @@ class="single-product-page single-product-content product-design-default product
 			    </div>
                         <li> 
                         <img src="
-                        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189069/Quiche2_h5lj2g.jpg"  class = "DPcontainer1">
-                    </li>
+                        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620124942/Breakfast2_yccqi8.jpg"  class = "DPcontainer1">
+                     </li>
                 <li>	
                 <span class = "DPcontainer2BW"><strong>Homemade Quiches</strong></span>
             </li>
@@ -321,8 +321,7 @@ class="single-product-page single-product-content product-design-default product
                         </li>
                         </div>
                         <li> 
-                        <img src="
-                        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620124942/Breakfast2_yccqi8.jpg"  class = "DPcontainer1">
+                        <img src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620126542/Beef1_pfodz6.jpg" class = "DPcontainer1">
                     </li>
                 <li>	
                 <span class = "DPcontainer2PR"><strong>Conversations breakfast</strong></span>
@@ -363,7 +362,7 @@ class="single-product-page single-product-content product-design-default product
                             </div>
                             <li> 
                             <img src="
-                            https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620127119/Salad1_zrgqo9.jpg"  class = "DPcontainer1">
+                            https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619452321/Chickenburger1_ukfmj4.jpg"  class = "DPcontainer1">
                         </li>
                     <li>	
                     <span class = "DPcontainer2CCES"><strong>Conversations club salad</strong></span>
@@ -405,7 +404,7 @@ class="single-product-page single-product-content product-design-default product
                         </div>
                         <li> 
                         <img src="
-                        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619452321/Chickenburger1_ukfmj4.jpg"  class = "DPcontainer1">
+                        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620127119/Salad1_zrgqo9.jpg"  class = "DPcontainer1">
                     </li>
                 <li>	
                 <span class = "DPcontainer2NL"><strong>Chicken burger</strong></span>
@@ -488,7 +487,8 @@ class="single-product-page single-product-content product-design-default product
                         </li>
                         </div>	 
                         <li> 
-                        <img src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620126542/Beef1_pfodz6.jpg" class = "DPcontainer1">
+                        <img src="
+                        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189069/Quiche2_h5lj2g.jpg"  class = "DPcontainer1">
                     </li>
                 <li>	
                 <span class = "DPcontainer2"><strong>Beef burger</strong></span>
