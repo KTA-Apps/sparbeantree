@@ -197,10 +197,10 @@ class="single-product-page single-product-content product-design-default product
                         https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620124942/Breakfast2_yccqi8.jpg"  class = "DPcontainer1">
                      </li>
                 <li>	
-                <span class = "DPcontainer2BW"><strong>Homemade Quiches</strong></span>
+                <span class = "DPcontainer2BW"><strong>Conversations breakfast</strong></span>
             </li>
             <li>
-                <span class = "DPcontainer3BW">R68 per/serving</span>
+                <span class = "DPcontainer3BW">R75 per/serving</span>
             </li>
             <li>
                 <div class="quantitygramsBW" id="BWgrams"> 
@@ -324,10 +324,10 @@ class="single-product-page single-product-content product-design-default product
                         <img src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620126542/Beef1_pfodz6.jpg" class = "DPcontainer1">
                     </li>
                 <li>	
-                <span class = "DPcontainer2PR"><strong>Conversations breakfast</strong></span>
+                <span class = "DPcontainer2PR"><strong>Beef burger</strong></span>
             </li>
             <li>
-                <span class = "DPcontainer3PR">R75 per/serving</span>
+                <span class = "DPcontainer3PR">R64 per/serving</span>
             </li>
             <li>
                 <div class="quantitygramsPR" id="PRgrams"> 
@@ -365,10 +365,10 @@ class="single-product-page single-product-content product-design-default product
                             https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619452321/Chickenburger1_ukfmj4.jpg"  class = "DPcontainer1">
                         </li>
                     <li>	
-                    <span class = "DPcontainer2CCES"><strong>Conversations club salad</strong></span>
+                    <span class = "DPcontainer2CCES"><strong>Chicken burger</strong></span>
                 </li>
                 <li>
-                    <span class = "DPcontainer3CCES">R78 per/serving</span>
+                    <span class = "DPcontainer3CCES">R68 per/serving</span>
                 </li>
                 <li>
                     <div class="quantitygramsCCES" id="CCESgrams"> 
@@ -407,10 +407,10 @@ class="single-product-page single-product-content product-design-default product
                         https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620127119/Salad1_zrgqo9.jpg"  class = "DPcontainer1">
                     </li>
                 <li>	
-                <span class = "DPcontainer2NL"><strong>Chicken burger</strong></span>
+                <span class = "DPcontainer2NL"><strong>Conversations club salad</strong></span>
             </li>
             <li>
-                <span class = "DPcontainer3NL">R68 per/serving</span>
+                <span class = "DPcontainer3NL">R78 per/serving</span>
             </li>
             <li>
                 <div class="quantitygramsNL" id="NLgrams"> 
@@ -491,10 +491,10 @@ class="single-product-page single-product-content product-design-default product
                         https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189069/Quiche2_h5lj2g.jpg"  class = "DPcontainer1">
                     </li>
                 <li>	
-                <span class = "DPcontainer2"><strong>Beef burger</strong></span>
+                <span class = "DPcontainer2"><strong>Homemade Quiches</strong></span>
             </li>
             <li>
-                <span class = "DPcontainer3">R64 per/serving</span>
+                <span class = "DPcontainer3">R68 per/serving</span>
             </li>
             <li>
                 <div class="quantity" id="DPgrams"> 
