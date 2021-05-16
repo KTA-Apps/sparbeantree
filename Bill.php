@@ -548,7 +548,7 @@ class="single-product-page single-product-content product-design-default product
 		</div>
 		</div>
 		<div class='plugfooterEnd'></div>
-		
+		<div style="display:none;">
 		<br>
                 <input type="text" class="promo" name="" placeholder="Enter promo code here" id="promocode">
 		<br>
@@ -561,6 +561,7 @@ class="single-product-page single-product-content product-design-default product
 		<br>
                 <div class='plugfooterEnd'></div>
                 <br>
+                </div>
                 <form action="delivery.php" method="get" id="amount">
                 <input type="hidden" name="auth" value="<?php echo $_GET['auth'] ?>">
 		<input type="hidden" name="username" value="<?php echo $_GET['username'] ?>">
