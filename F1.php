@@ -6,7 +6,7 @@
 href="http://gmpg.org/xfn/11">
 <link rel="pingback" 
 href="Backend/xmlrpc.html">
-<title>Spar Bean tree cafe`</title>
+<title>Order cancelled</title>
 <link rel="stylesheet" 
 href="c7c58cca0fc9c8acb3530bf8cbf53297.css" 
 data-minify="1" />
@@ -158,8 +158,8 @@ Order cancelled
 <P><strong>Payment status:</strong> <span style="color:red"> Transaction unsuccessful </span></p>
 <P><strong> Order number:</strong> N/A</p>
 <P><strong> Order collection code:</strong> N/A </p>
-<P id="timehide2" style="display:none" ><strong> Placed:</strong>N/A</p>
-<P id="etahide2" style="display:none" ><strong> Estimated time of arrival:</strong>N/A</p>
+<P id="timehide2"><strong> Placed:</strong>N/A</p>
+<P id="etahide2"><strong> Estimated time of arrival:</strong>N/A</p>
 <p><strong> Order preparation: </strong> <span> N/A </span> </p>
 <p><strong> Order collection: </strong> <span> N/A </span> </p>
 <p><strong> Order delivery: </strong> <span> N/A </span> </p>
