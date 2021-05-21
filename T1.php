@@ -315,7 +315,7 @@ Delivery status
 <p id="collecthide1"><strong> Pick-up status: </strong> <span style="color:orange"> Pending </span> </p>
 <p id="collecthide2" style="display:none" ><strong> Pick-up status: </strong> <span style="color:green"> Collected </span> </p>
 <p id="collecthide3" style="display:none" ><strong> Pick-up status: </strong> <span> N/A </span> </p>
-<p id="deliveryhide1"><strong> Location status: </strong> <span style="color:orange"> @Distro point </span> </p>
+<p id="deliveryhide1"><strong> Location status: </strong> <span style="color:orange"> @cafe` </span> </p>
 <p id="deliveryhide2" style="display:none" ><strong> Location status: </strong> <span style="color:green"> En-route </span> </p>
 <p id="deliveryhide3" style="display:none" ><strong> Location status: </strong> <span> N/A </span> </p>
 <br>
