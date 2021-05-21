@@ -212,7 +212,7 @@ Delivery details
 </div>
 </div>
 
-<form action="https://sparbeantree.herokuapp.com/Paymentprocess.php" method="get" id="plug" name="moneytree">
+<form action="https://sparbeantree.co.za/Paymentprocess.php" method="get" id="plug" name="moneytree">
    <label for="Country">Country:</label><input type="text" name="Country" value="South Africa" readonly>
    <label>Province:</label><input type="text" name="Province" value="Gauteng" readonly>
    <label>City:</label>
