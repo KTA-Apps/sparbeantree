@@ -158,7 +158,8 @@ Order cancelled
 <P><strong>Payment status:</strong> <span style="color:red"> Transaction unsuccessful </span></p>
 <P><strong> Order number:</strong> N/A</p>
 <P><strong> Order collection code:</strong> N/A </p>
-<br>
+<P id="timehide2" style="display:none" ><strong> Placed:</strong>N/A</p>
+<P id="etahide2" style="display:none" ><strong> Estimated time of arrival:</strong>N/A</p>
 <p><strong> Order preparation: </strong> <span> N/A </span> </p>
 <p><strong> Order collection: </strong> <span> N/A </span> </p>
 <p><strong> Order delivery: </strong> <span> N/A </span> </p>
