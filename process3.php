@@ -4,7 +4,6 @@ $servername="pxukqohrckdfo4ty.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
  $dBPassword="kwpkk6ybhd4t3mh2";
  $dBName="f7pf1g63rq9j6hth";
 $conn=mysqli_connect($servername,$dBUsername,$dBPassword,$dBName);
-$username = $_GET['username'];
 $authtoken = $_GET['auth'];
 $query='SELECT * FROM oders WHERE idOrderToken="'.$authtoken.'" ';
 $result=mysqli_query($conn,$query);
@@ -36,14 +35,9 @@ mysqli_query($conn, $sql4);
 ?>
 <html>
 <form action="F1.php" method="get" id="form">
-<input type="hidden" name="username" value="" id="user">
 <input type="hidden" name="auth" value="" id="auth">
 </form>
 <script>
-function user(){
-let user = localStorage.getItem('username');
-document.getElementById("user").value = user;
-}
 function auth(){
 let auth = localStorage.getItem('token');
 document.getElementById("auth").value = auth ;
@@ -51,7 +45,6 @@ document.getElementById("auth").value = auth ;
 function submit(){
 document.getElementById("form").submit();
 }
-user();
 auth();
 submit();
 </script>
