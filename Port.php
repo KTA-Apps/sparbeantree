@@ -34,7 +34,7 @@ alt="" />
 </p>             
                         <p style="color:green;" >Order online now!</p>
                         <p style="color:grey;" ><small><a href="Signin.php">Operations login</a> [<span>Operators only<span>]</small></p>
-                        <p style="color:grey;" ><small>Get your order delivered within 60 minutes!</small></p>
+                        <p style="color:grey;" ><small>Get your order delivered within 45 minutes!</small></p>
                         <p><small>Which store is closest to you?</small></p>
                         <p>
                         <select class="PTAtown" name="Towns" id="townsPTA" form="plug" required>
