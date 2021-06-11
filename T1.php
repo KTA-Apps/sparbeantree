@@ -138,7 +138,7 @@ $sql='SELECT idDate FROM address WHERE idOrderCustiCode="'.$code.'"';
     $dateplaced=$hash1;
 	   
 $timeplacedReal= date('H:i', strtotime($timeplaced));
-$timeChange=date('H:i',strtotime('+2 hour',strtotime($timeplaced)));
+$timeChange=date('H:i',strtotime('+45 minutes',strtotime($timeplaced)));
 }
 ?>
 <html>
