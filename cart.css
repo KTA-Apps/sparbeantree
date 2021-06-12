@@ -474,7 +474,7 @@
 }
 .totalOrderR{
     float: right;
-    
+    position:relative;
     display: inline-block;
 }
 .totalOrderR1{
