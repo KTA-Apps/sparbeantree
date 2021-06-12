@@ -501,7 +501,7 @@
     max-width: 90%;
     justify-content: space-around;
     margin: 0 auto;
-    float: left;
+    float: right;
     display: inline-block;
 }
 .totalOrder1{
