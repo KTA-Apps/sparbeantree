@@ -474,7 +474,7 @@
 }
 .totalOrderR{
     right: 40px;
-    position:absolute;
+    position:relative;
     display: inline-block;
 }
 .totalOrderR1{
