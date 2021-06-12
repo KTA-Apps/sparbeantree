@@ -488,8 +488,7 @@
     display: inline-block;
 }
 .totalOrder{
-    float: right;
-    padding-left: 100px;
+    right: 0;
     position:absolute;
     display: inline-block;
 }
