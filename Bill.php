@@ -598,9 +598,9 @@ class="single-product-page single-product-content product-design-default product
 <div class="col-left"> 
 <i class="fa fa-copyright">
 </i> 
-2021 Created by 
+2021 by 
 <span>
-Kahrent Technology Africa
+SPAR Group (Pty) Ltd <br>Terms and conditions [<a href="A1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">Here</a>]
 </span>
 </div></div></div></div></footer></div>
 <div class="basel-close-side">
