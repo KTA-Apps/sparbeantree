@@ -403,8 +403,7 @@ BY AGREEING TO THIS AGREEMENT AND USING THE sparbeantree.co.za WEBSITE (THE "SIT
 </i> 
 2021 by 
 <span>
-Spar Group (Pty) Ltd. <br>Terms and conditions [<a href="A1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">Here</a>]
-</span>
+Spar Group (Pty) Ltd</span>
 </div></div></div></div></footer></div>
 <div class="basel-close-side">
 </div>
