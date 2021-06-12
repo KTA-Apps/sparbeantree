@@ -540,10 +540,10 @@ class="single-product-page single-product-content product-design-default product
                         <div class='plugfooterEnd'></div>
                 <div class="totalsRow">
                 <span class="totalCart"><strong>Total</strong></span>
-                <span class="totalOrderR1">R</span>
-		<div id="nodiscount">
+                <div id="nodiscount">
                 <span class="totalOrder1"></span>
 		</div>
+                <span class="totalOrderR1">R</span>
 		<div style="display:none" id="yesdiscount" >
                 <span class="totalOrder2">testing</span>
 		</div>
