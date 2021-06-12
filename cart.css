@@ -473,13 +473,13 @@
     float: right;
 }
 .totalOrderR{
-    float: left;
-    padding-left: 74.5%;
+    float: right;
+    
     display: inline-block;
 }
 .totalOrderR1{
-    float: left;
-    padding-left: 76.5%;
+    float: right;
+    
     display: inline-block;
 }
 .totalCart{
