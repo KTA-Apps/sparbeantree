@@ -473,8 +473,7 @@
     float: right;
 }
 .totalOrderR{
-    right: 40px;
-    position:relative;
+    float: right;
     display: inline-block;
 }
 .totalOrderR1{
@@ -488,8 +487,16 @@
     display: inline-block;
 }
 .totalOrder{
+    
+    display: inline-block;
+}
+.Totalnums{
     right: 30px;
     position:absolute;
+    display: inline-block;
+}
+.Rsymbol{
+    position:relative;
     display: inline-block;
 }
 .totalOrder1{
