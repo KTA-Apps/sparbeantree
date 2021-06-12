@@ -487,18 +487,21 @@
     display: inline-block;
 }
 .totalOrder{
-    
+    float: left;
     display: inline-block;
 }
 .Totalnums{
-    right: 30px;
-    position:absolute;
-    width: 20px;
+    max-width: 10%;
+    justify-content: space-around;
+    margin: 0 auto;
+    float: right;
     display: inline-block;
 }
 .Rsymbol{
-    float: right;
-    position:relative;
+    max-width: 90%;
+    justify-content: space-around;
+    margin: 0 auto;
+    float: left;
     display: inline-block;
 }
 .totalOrder1{
