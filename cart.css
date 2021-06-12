@@ -493,6 +493,7 @@
 .Totalnums{
     right: 30px;
     position:absolute;
+    width: 20px;
     display: inline-block;
 }
 .Rsymbol{
