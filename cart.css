@@ -489,8 +489,8 @@
 }
 .totalOrder{
     float: right;
-    padding-right: 0px;
-    position: fixed;
+    
+    position:absolute;
     display: inline-block;
 }
 .totalOrder1{
