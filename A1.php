@@ -157,10 +157,10 @@ Terms and Conditions
 
 <html>
 <p>
-Copyright © Canibuy, Johannesburg, South Africa. All rights not expressly granted, are reserved. To obtain permission for the use of the Canibuy site and the disposal of any product users must be 18 years of age or older.
+Copyright © Spar Group (Pty) Ltd, Johannesburg, South Africa. All rights not expressly granted, are reserved.
 </p>
 <p>
-BY AGREEING TO THIS AGREEMENT AND USING THE CANIBUY WEBSITE (THE “SITE”), YOU (THE “Disposal Agent”) ARE INDICATING THAT YOU ARE IN THE POSITION TO BE BOUND BY THIS CONTRACT AS WELL AS INDICATING YOUR ACCEPTANCE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS DISPOSAL AGENT AGREEMENT and are 18 years of age or older. 
+BY AGREEING TO THIS AGREEMENT AND USING THE sparbeantree.co.za WEBSITE (THE "SITE"), YOU (THE "END-USER") ARE INDICATING THAT YOU ARE IN THE POSITION TO BE BOUND BY THIS CONTRACT AS WELL AS INDICATING YOUR ACCEPTANCE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT. 
 </p>
 <p>
 <strong>
@@ -168,19 +168,19 @@ BY AGREEING TO THIS AGREEMENT AND USING THE CANIBUY WEBSITE (THE “SITE”), YO
 </strong>
 </p>
 <p>
-1.1 This agreement herein may be changed without notice. Your continued use of this Site after any such changes constitutes your acceptance of the new Disposal Agent agreement and its terms and conditions.
+1.1 This agreement herein may be changed without notice. Your continued use of this Site after any such changes constitutes your acceptance of the agreement and its terms and conditions.
 </p>
 <p>
-1.2 This agreement herein applies exclusively to your access to, and use of, this Site and does not alter in any way, the terms or conditions of any other agreement you may have with Canibuy for the disposal of the products or otherwise.
+1.2 This agreement herein applies exclusively to your access to, and use of, this Site and does not alter in any way, the terms or conditions of any other agreement you may have with Spar Group (Pty) Ltd.
 </p>
 <p>
 1.3 The headings of the clauses in the conditions is provided for convenience and ease of reference only and will not be used to interpret, modify or amplify the terms of the conditions.
 </p>
 <p>
-1.4 No failure or delay by Canibuy to exercise any of its rights will be construed as a waiver of any such right, whether this is done expressly or implied, nor will it affect the validity of any part of this Disposal Agent agreement or prejudice our right to take subsequent action against the Agent.
+1.4 No failure or delay by Spar Group (Pty) Ltd to exercise any of its rights will be construed as a waiver of any such right, whether this is done expressly or implied, nor will it affect the validity of any part of this agreement or prejudice our right to take subsequent action against the end-user.
 </p>
 <p>
-1.5 This Disposal Agent agreement applies exclusively to your access to the site as well as the use of this Site including but not limited to disposing of Canibuy products. This agreement does not alter in any way, the terms or conditions of any other agreement you may have with Canibuy for the service of disposing of products or otherwise.
+1.5 This applies exclusively to your access to the site as well as the use of this Site including but not limited to purchasing of the displayed products. This agreement does not alter in any way, the terms or conditions of any other agreement you may have with Spar Group (Pty) Ltd.
 </p>
 <p>
 <strong>
@@ -188,36 +188,36 @@ BY AGREEING TO THIS AGREEMENT AND USING THE CANIBUY WEBSITE (THE “SITE”), YO
 </strong>
 </p>
 <p>
-2.1 All the content, trademarks and data on this web site, including but not limited to, software, databases, text, graphics, icons, hyperlinks, private information, designs and agreements, are the property of, or are licensed to Canibuy and as such are protected from infringement by local and international legislation and treaties.
+2.1 All the content, trademarks and data on this web site, including but not limited to, software, databases, text, graphics, icons, hyperlinks, private information, designs and agreements, are the property of, or are licensed to Spar Group (Pty) Ltd and as such are protected from infringement by local and international legislation and treaties.
 </p>
 <p>
 <strong>
-3. LICENSES AND SITE ACCESS
+3. 
 </strong>
 </p>
 <p>
-3.1 By signing up to Canibuy gaining access to the site, you agree to become a Canibuy independent subcontractor obligated to dispose products for Canibuy at no compensation and are given the title of Disposal Agent.
+3.1 
 </p>
 <p>
-3.2 By signing up to Canibuy and gaining access to the site, you agree to become a participant in the Canibuy website development experiment until notice is give by Canibuy indicating the website development experiment has been concluded.
+3.2
 </p>
 <p>
-3.3 Canibuy grants you a limited license to make use of the Site. Such grant does not include, without limitation: (a) any resale of the products to be disposed; (b) making derivative uses of the Site and its contents; or (c) use of any data mining, robots or similar data gathering and extraction methods. Except as noted above, you are not conveyed any right or license by implication, estoppel or otherwise in or under any patent, trademark, copyright or proprietary right of Canibuy or any third party.
+3.3
 </p>
 <p>
-3.4 You may not use, frame or utilize framing techniques to enclose any Canibuy trademark, logo or other proprietary information (including the images found at this Site, the content of any text or the layout/design of any page or form contained on a page) without Canibuy‘s express written consent. Further, you may not use any meta tags or any other “hidden text” utilizing a Canibuy name, trademark or product name without Canibuy‘s express written consent.
+3.4 You may not use, frame or utilize framing techniques to enclose any Spar Group (Pty) Ltd trademark, logo or other proprietary information (including the images found at this Site, the content of any text or the layout/design of any page or form contained on a page) without express written consent from Spar Group (Pty) Ltd. Further, you may not use any meta tags or any other “hidden text” utilizing the Spar Group (Pty) Ltd name, trademark or product name without express written consent from Spar Group (Pty) Ltd.
 </p>
 <p>
 <strong>
-4. PRODUCT DISPOSAL
+4. 
 </strong>
 </p>
 <p>
-4.1 Canibuy makes no claim or representation regarding, and accepts no responsibility for, the safe handling and disposal of any products by the Disposal Agent. The product disposal methods employed by Disposal Agents are not under the control of Canibuy and Canibuy is not responsible for the illegal use and or application of the products to be disposed of.
+4.1
 </p>
 <p>
 <strong>
-5. DISPOSAL AGENT CONDUCT
+5. 
 </strong>
 </p>
 <p>
