@@ -1573,7 +1573,7 @@ R
 </i> 
 2021 by 
 <span>
-Spar Group (Pty) Ltd <br>Terms and conditions [<a href="A1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">Here</a>]
+SPAR Group (Pty) Ltd <br>Terms and conditions [<a href="A1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">Here</a>]
 </span>
 </div></div></div></div></footer></div>
 <div class="basel-close-side">
