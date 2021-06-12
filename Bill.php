@@ -7,6 +7,7 @@
    $username = $_GET['username'];
    $authtoken = $_GET['auth'];
 ?>
+<html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -735,8 +736,5 @@ document.getElementById("total").value = total;
 }, 1000);
 setTotal();
 </script>
-
-
-
 </body>
 </html>
