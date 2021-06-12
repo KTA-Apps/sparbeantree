@@ -35,7 +35,7 @@
  <meta name="generator" content="WooCommerce 3.9.2" />
  <meta name="theme-color" content="">
  <link rel="shortcut icon" href="https://res.cloudinary.com/ddjrcafre/image/upload/v1620742146/BeanTreeLogo1_n0flv5.jpg">
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://res.cloudinary.com/ddjrcafre/image/upload/v1620742146/BeanTreeLogo1_n0flv5.jpg">
+ <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://res.cloudinary.com/ddjrcafre/image/upload/v1620742146/BeanTreeLogo1_n0flv5.jpg">
  <style>
  .basel-promo-popup{max-width:900px}
  .site-logo{width:20%}
@@ -1584,7 +1584,7 @@ R
 </i> 
 2021 by 
 <span>
-Spar Group (Pty) Ltd. <br>Terms and conditions [<a href="A1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">Here</a>]
+Spar Group (Pty) Ltd <br>Terms and conditions [<a href="A1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">Here</a>]
 </span>
 </div></div></div></div></footer></div>
 <div class="basel-close-side">
