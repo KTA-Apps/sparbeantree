@@ -1556,21 +1556,13 @@ Conversations Breakfast
 	</div>
 	</div>
         </div>
-
-</div>
-</div>
-
-</div>
-
 </div>
 </div>
 </div>
 </div>
 </div>
 </div>
-
-
-
+</div>
 
 <footer class="footer-container color-scheme-light">
 <div class="container main-footer">
