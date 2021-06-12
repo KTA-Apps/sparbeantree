@@ -489,7 +489,7 @@
 }
 .totalOrder{
     float: right;
-    
+    padding-left: 100px;
     position:absolute;
     display: inline-block;
 }
