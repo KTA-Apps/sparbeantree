@@ -1224,59 +1224,220 @@ Conversations Breakfast
 	</div>
         </div>
 <div 
-class="products elements-grid basel-products-holder  elements-list pagination-pagination row grid-columns-4" 
-data-min_price="" 
-data-max_price="" 
-data-source="main_loop">
-	<div 
-class="product-grid-item basel-hover-alt product  col-md-3 col-sm-4 col-xs-6 first  type-product post-19655 status-publish first instock product_cat-bags product_tag-new product_tag-whte has-post-thumbnail featured shipping-taxable purchasable product-type-variable" data-loop="1" data-id="19655">
-	<div class="product-element-top"> 
-<a href="HomeMadeQuiches.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+class="product-grid-item basel-hover-alt product  col-md-3 col-sm-4 col-xs-6 first  type-product post-19730 status-publish first instock product_cat-accessories product_tag-basic product_tag-new has-post-thumbnail featured shipping-taxable purchasable product-type-variable" 
+data-loop="5" 
+data-id="19730">
+<div class="product-element-top"> 
+<a href="BeefBurgerMeal.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<div class="product-labels labels-rounded">
+<span class="new product-label">
+New
+</span>
+</div>
 <img 
 width="273" 
 height="348" 
-src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189069/Quiche2_h5lj2g.jpg" 
+src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620126542/Beef1_pfodz6.jpg" 
 class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
 alt="" 
-srcset= 
-"https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189069/Quiche2_h5lj2g.jpg 273w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1619189069/Quiche2_h5lj2g.jpg 235w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1619189069/Quiche2_h5lj2g.jpg 768w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1619189069/Quiche2_h5lj2g.jpg 803w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_697,w_546/v1619189069/Quiche2_h5lj2g.jpg 546w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1619189069/Quiche2_h5lj2g.jpg 266w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1619189069/Quiche2_h5lj2g.jpg 219w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1619189069/Quiche2_h5lj2g.jpg 263w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1619189069/Quiche2_h5lj2g.jpg 526w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189069/Quiche2_h5lj2g.jpg 870w" 
-sizes="(max-width: 273px) 100vw, 273px" />
+srcset=
+"https://res.cloudinary.com/ddjrcafre/image/upload/v1620126542/Beef1_pfodz6.jpg 870w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1620126542/Beef1_pfodz6.jpg 235w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1620126542/Beef1_pfodz6.jpg 768w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1620126542/Beef1_pfodz6.jpg 803w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1620126542/Beef1_pfodz6.jpg 266w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1620126542/Beef1_pfodz6.jpg 219w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1620126542/Beef1_pfodz6.jpg 263w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1620126542/Beef1_pfodz6.jpg 526w" 
+sizes="(max-width: 273px) 100vw, 273px" /> 
 </a>
-<div class="hover-img">  
-<a href="HomeMadeQuiches.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<div class="hover-img"> 
+<a href="BeefBurgerMeal.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 <img 
-	width="273" 
-	height="348" 
-	src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189068/Quiche1_hioazr.jpg" 
-	class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
-	alt="" 
-	srcset=
-        "https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189068/Quiche1_hioazr.jpg 273w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1619189068/Quiche1_hioazr.jpg 235w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1619189068/Quiche1_hioazr.jpg 768w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1619189068/Quiche1_hioazr.jpg 803w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_697,w_546/v1619189068/Quiche1_hioazr.jpg 546w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1619189068/Quiche1_hioazr.jpg 266w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1619189068/Quiche1_hioazr.jpg 219w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1619189068/Quiche1_hioazr.jpg 263w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1619189068/Quiche1_hioazr.jpg 526w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189068/Quiche1_hioazr.jpg 870w" 
-	sizes="(max-width: 273px) 100vw, 273px" />
+width="273" 
+height="348" 
+src="https://res.cloudinary.com/ddjrcafre/image/upload/v1620126542/Beef2_elmfwf.jpg" 
+class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
+alt="" 
+
+srcset=
+"https://res.cloudinary.com/ddjrcafre/image/upload/v1620126542/Beef2_elmfwf.jpg 870w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1620126542/Beef2_elmfwf.jpg 235w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1620126542/Beef2_elmfwf.jpg 768w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1620126542/Beef2_elmfwf.jpg 803w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1620126542/Beef2_elmfwf.jpg 266w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1620126542/Beef2_elmfwf.jpg 219w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1620126542/Beef2_elmfwf.jpg 263w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1620126542/Beef2_elmfwf.jpg 526w" 
+sizes="(max-width: 273px) 100vw, 273px" /> 
 </a>
 </div>
 </div>
 <h3 class="product-title">
-<a href="HomeMadeQuiches.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-Home-made Quiches
+<a href="BeefBurgerMeal.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+Beef Burger Meal
+</a>
+</h3>
+<div class="wrap-price">
+<div class="wrapp-swap">
+<div class="swap-elements">
+<span class="price">
+<span class="price">
+<span class="woocommerce-Price-amount amount">
+<span class="woocommerce-Price-currencySymbol">
+R
+</span>
+64
+</span>
+
+</span>
+</span>
+<div class="btn-add" id="PrHomecart">
+		<a href="Bill.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+			view bill
+		</a>	
+		</div>
+<div class="btn-add"> 
+	<button class="PreRollsHome" id="PrHome" >
+		add to bill
+	</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div 
+class="product-grid-item basel-hover-alt product  col-md-3 col-sm-4 col-xs-6 type-product post-19689 status-publish instock product_cat-accessories product_tag-basic product_tag-black has-post-thumbnail featured shipping-taxable purchasable product-type-simple" 
+data-loop="6" 
+data-id="19689">
+<div class="product-element-top"> 
+<a href="ConversationsClubSalad.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<img 
+width="273" 
+height="348" 
+src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620127119/Salad1_zrgqo9.jpg" 
+class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
+alt="" 
+srcset=
+"
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620127119/Salad1_zrgqo9.jpg 870w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1620127119/Salad1_zrgqo9.jpg 235w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1620127119/Salad1_zrgqo9.jpg 768w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1620127119/Salad1_zrgqo9.jpg 803w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1620127119/Salad1_zrgqo9.jpg 266w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1620127119/Salad1_zrgqo9.jpg 219w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1620127119/Salad1_zrgqo9.jpg 263w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1620127119/Salad1_zrgqo9.jpg 526w" 
+sizes="(max-width: 273px) 100vw, 273px" /> 
+</a>
+<div class="hover-img"> 
+<a href=ConversationsClubSalad.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<img 
+width="273" 
+height="348" 
+src="https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_348,w_273/v1620127088/Salad2_vgtoww.jpg" 
+class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
+alt="" 
+srcset=
+"
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_348,w_273/v1620127088/Salad2_vgtoww.jpg 870w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_300,w_235/v1620127088/Salad2_vgtoww.jpg 235w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_980,w_768/v1620127088/Salad2_vgtoww.jpg 768w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_1024,w_803/v1620127088/Salad2_vgtoww.jpg 803w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_340,w_266/v1620127088/Salad2_vgtoww.jpg 266w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_280,w_219/v1620127088/Salad2_vgtoww.jpg 219w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_336,w_263/v1620127088/Salad2_vgtoww.jpg 263w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_671,w_526/v1620127088/Salad2_vgtoww.jpg 526w" 
+sizes="(max-width: 273px) 100vw, 273px" /> 
+</a>
+</div>
+</div>
+<h3 class="product-title">
+<a href="ConversationsClubSalad.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+Conversations Club Salad
+</a>
+</h3>
+<div class="wrap-price">
+<div class="wrapp-swap">
+<div class="swap-elements">
+<span class="price">
+<span class="price">
+<span class="woocommerce-Price-amount amount">
+<span class="woocommerce-Price-currencySymbol">
+R
+</span>
+78
+</span>
+
+</span>
+</span>
+<div class="btn-add" id="NlHomecart">
+		<a href="Bill.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+			view bill
+		</a>	
+		</div>
+<div class="btn-add"> 
+	<button class="NorthernLightsHome" id="NlHome" >
+		add to bill
+	</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix visible-xs-block">
+</div>
+<div 
+class="product-grid-item basel-hover-alt product  col-md-3 col-sm-4 col-xs-6 last  type-product post-19564 status-publish last instock product_cat-watches has-post-thumbnail featured shipping-taxable purchasable product-type-simple" 
+data-loop="7" 
+data-id="19564">
+<div class="product-element-top"> 
+<a href="ChickenBurgerMeal.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<div class="product-labels labels-rounded">
+<span class="new product-label">
+New
+</span>
+</div>
+<img 
+width="273" 
+height="348" 
+src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619452321/Chickenburger1_ukfmj4.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
+alt="" 
+srcset=
+"https://res.cloudinary.com/ddjrcafre/image/upload/v1619452321/Chickenburger1_ukfmj4.jpg 870w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_697,w_546/v1619452321/Chickenburger1_ukfmj4.jpg 546w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619452321/Chickenburger1_ukfmj4.jpg 273w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1619452321/Chickenburger1_ukfmj4.jpg 235w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1619452321/Chickenburger1_ukfmj4.jpg 768w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1619452321/Chickenburger1_ukfmj4.jpg 803w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1619452321/Chickenburger1_ukfmj4.jpg 266w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1619452321/Chickenburger1_ukfmj4.jpg 219w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1619452321/Chickenburger1_ukfmj4.jpg 263w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1619452321/Chickenburger1_ukfmj4.jpg 526w" 
+sizes="(max-width: 273px) 100vw, 273px" /> 
+</a>
+<div class="hover-img"> 
+<a href="ChickenBurgerMeal.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<img 
+width="273" 
+height="348" 
+src="https://res.cloudinary.com/ddjrcafre/image/upload/v1620230087/Chicken_burger_zigz3t.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" 
+srcset=
+"https://res.cloudinary.com/ddjrcafre/image/upload/v1620128374/Chickenburger2_uzdwe1.jpg 870w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1620230087/Chicken_burger_zigz3t.jpg 235w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1620230087/Chicken_burger_zigz3t.jpg 768w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1620230087/Chicken_burger_zigz3t.jpg 803w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1620230087/Chicken_burger_zigz3t.jpg 266w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1620230087/Chicken_burger_zigz3t.jpg 219w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1620230087/Chicken_burger_zigz3t.jpg 263w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1620230087/Chicken_burger_zigz3t.jpg 526w" 
+sizes="(max-width: 273px) 100vw, 273px" /> 
+</a>
+</div>
+</div>
+<h3 class="product-title">
+<a href="ChickenBurgerMeal.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+Chicken Burger Meal 
 </a>
 </h3>
 <div class="wrap-price">
@@ -1292,13 +1453,13 @@ R
 </span>
 </span>
 </span>
-<div class="btn-add" id="DpHomecart">
-<a href="Bill.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>"> 
-	view bill
-</a>	
-</div> 
-<div class="btn-add" id="DpHome"> 
-	<button class="DurbanPoisonHome" >
+<div class="btn-add" id="CCesHomecart">
+		<a href="Bill.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+			view bill
+		</a>	
+		</div>
+<div class="btn-add"> 
+	<button class="CannacapsESHome" id="CCesHome" >
 		add to bill
 	</button>
 </div>
@@ -1308,11 +1469,11 @@ R
 </div>
 
 <div 
-class="product-grid-item basel-hover-alt product  col-md-3 col-sm-4 col-xs-6 type-product post-19616 status-publish instock product_cat-shoes has-post-thumbnail featured shipping-taxable purchasable product-type-variable" 
-data-loop="2" 
-data-id="19616">
+class="product-grid-item basel-hover-alt product  col-md-3 col-sm-4 col-xs-6 first  type-product post-19730 status-publish first instock product_cat-accessories product_tag-basic product_tag-new has-post-thumbnail featured shipping-taxable purchasable product-type-variable" 
+data-loop="8" 
+data-id="19730">
 <div class="product-element-top"> 
-<a href="RoastChickenMayoSandwich.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<a href="HamEmmentalSandwich.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 <div class="product-labels labels-rounded">
 <span class="new product-label">
 New
@@ -1321,241 +1482,78 @@ New
 <img 
 width="273" 
 height="348" 
-src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189653/RoastChickenMayo2_kwhxmd.jpg" 
+src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620129158/Ham1_wbb7s5.jpg" 
 class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
 alt="" 
 srcset=
-"https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189653/RoastChickenMayo2_kwhxmd.jpg 273w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1619189653/RoastChickenMayo2_kwhxmd.jpg 235w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1619189653/RoastChickenMayo2_kwhxmd.jpg 768w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1619189653/RoastChickenMayo2_kwhxmd.jpg 803w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_697,w_546/v1619189653/RoastChickenMayo2_kwhxmd.jpg 546w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1619189653/RoastChickenMayo2_kwhxmd.jpg 266w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1619189653/RoastChickenMayo2_kwhxmd.jpg 219w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1619189653/RoastChickenMayo2_kwhxmd.jpg 263w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1619189653/RoastChickenMayo2_kwhxmd.jpg 526w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619189653/RoastChickenMayo2_kwhxmd.jpg 870w" 
+"https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620129158/Ham1_wbb7s5.jpg 870w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1620129158/Ham1_wbb7s5.jpg 235w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1620129158/Ham1_wbb7s5.jpg 768w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1620129158/Ham1_wbb7s5.jpg 803w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1620129158/Ham1_wbb7s5.jpg 266w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1620129158/Ham1_wbb7s5.jpg 219w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1620129158/Ham1_wbb7s5.jpg 263w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1620129158/Ham1_wbb7s5.jpg 526w" 
 sizes="(max-width: 273px) 100vw, 273px" /> 
 </a>
 <div class="hover-img"> 
-<a href="RoastChickenMayoSandwich.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-<img 
-	width="273" 
-	height="348" 
-	src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620123332/Grilled-Chicken-3_t8o0jc.jpg" 
-	class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
-	alt="" 
-	srcset=
-        "https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 273w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 235w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 768w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 803w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_697,w_546/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 546w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 266w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 219w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 263w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 526w, 
-        https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620123332/Grilled-Chicken-3_t8o0jc.jpg 870w" 
-	sizes="(max-width: 273px) 100vw, 273px" /> 
-</a>
-</div>
-</div>
-<h3 class="product-title">
-	<a href="RoastChickenMayoSandwich.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-	Rost Chicken Mayo Sandwich
-	</a>
-	</h3>
-	<div class="wrap-price">
-		<div class="wrapp-swap">
-		<div class="swap-elements"> 
-		<span class="price">
-		<span class="price">
-		<span class="woocommerce-Price-amount amount">
-		<span class="woocommerce-Price-currencySymbol">
-		R
-		</span>
-		60
-		</span>
-		
-		</span>
-		</span>
-		<div class="btn-add" id="CcHomecart">
-			<a href="Bill.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-				view bill
-			</a>	
-			</div>
-		<div class="btn-add" id="CcHome"> 
-			<button class="cannacapsHome">
-				add to bill
-			</button>
-		</div>
-		</div>
-		</div>
-		</div>
-                </div>
-<div class="clearfix visible-xs-block">
-</div>
-<div 
-class="product-grid-item basel-hover-alt product  col-md-3 col-sm-4 col-xs-6 type-product post-19515 status-publish instock product_cat-woman has-post-thumbnail shipping-taxable purchasable product-type-variable" 
-data-loop="3" 
-data-id="19515">
-<div class="product-element-top"> 
-<a href="SpagettiBolongaise.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+<a href="HamEmmentalSandwich.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 <img 
 width="273" 
 height="348" 
-src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619452366/Spaggeti1_rn050m.jpg" 
+src="https://res.cloudinary.com/ddjrcafre/image/upload/v1620230220/Ham_ppjhwd.jpg" 
 class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
 alt="" 
+
 srcset=
-"
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619452366/Spaggeti1_rn050m.jpg 273w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1619452366/Spaggeti1_rn050m.jpg 235w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1619452366/Spaggeti1_rn050m.jpg 768w,
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1619452366/Spaggeti1_rn050m.jpg 803w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_697,w_546/v1619452366/Spaggeti1_rn050m.jpg 546w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1619452366/Spaggeti1_rn050m.jpg 266w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1619452366/Spaggeti1_rn050m.jpg 219w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1619452366/Spaggeti1_rn050m.jpg 263w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1619452366/Spaggeti1_rn050m.jpg 526w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1619452366/Spaggeti1_rn050m.jpg 870w" 
+"https://res.cloudinary.com/ddjrcafre/image/upload/v1620230220/Ham_ppjhwd.jpg 870w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1620230220/Ham_ppjhwd.jpg 235w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1620230220/Ham_ppjhwd.jpg 768w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1620230220/Ham_ppjhwd.jpg 803w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1620230220/Ham_ppjhwd.jpg 266w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1620230220/Ham_ppjhwd.jpg 219w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1620230220/Ham_ppjhwd.jpg 263w, 
+https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1620230220/Ham_ppjhwd.jpg 526w" 
 sizes="(max-width: 273px) 100vw, 273px" /> 
 </a>
-<div class="hover-img"> 
-<a href="SpagettiBolongaise.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-<img 
-width="273" 
-height="348" 
-src="https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_348,w_273/v1619452378/Spaggeti2_rmpbtm.jpg" 
-class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
-alt="" 
-srcset=
-"
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_348,w_273/v1619452378/Spaggeti2_rmpbtm.jpg 273w,
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_300,w_235/v1619452378/Spaggeti2_rmpbtm.jpg  235w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_980,w_768/v1619452378/Spaggeti2_rmpbtm.jpg 768w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_1024,w_803/v1619452378/Spaggeti2_rmpbtm.jpg 803w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_697,w_546/v1619452378/Spaggeti2_rmpbtm.jpg 546w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_340,w_266/v1619452378/Spaggeti2_rmpbtm.jpg 266w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_280,w_219/v1619452378/Spaggeti2_rmpbtm.jpg 219w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_336,w_263/v1619452378/Spaggeti2_rmpbtm.jpg 263w, 
-https://res.cloudinary.com/bddjrcafre/image/upload/c_fit,h_671,w_526/v1619452378/Spaggeti2_rmpbtm.jpg 526w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_348,w_273/v1619452378/Spaggeti2_rmpbtm.jpg 870w" 
-sizes="(max-width: 273px) 100vw, 273px" /> 
-</a>
+</div>
+<div class="basel-buttons">
 </div>
 </div>
 <h3 class="product-title">
-<a href="SpagettiBolongaise.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-Spagetti Bolongaise
+<a href="HamEmmentalSandwich.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
+Ham Emmental Sandwich
 </a>
 </h3>
 <div class="wrap-price">
-	<div class="wrapp-swap">
-	<div class="swap-elements"> 
-	<span class="price">
-	<span class="price">
-	<span class="woocommerce-Price-amount amount">
-	<span class="woocommerce-Price-currencySymbol">
-	R
-	</span>
-	82
-	</span>
-	
-	</span>
-	</span>
-	<div class="btn-add" id="OcHomecart">
-		<a href="Bill.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-			view bill
-		</a>	
-		</div> 
-		<div class="btn-add" id="OcHome"> 
-			<button class="OrangeCaliHome" >
-				add to bill
-			</button>
-		</div>
-	</div>
-	</div>
-	</div>
-</div>
-<div 
-class="product-grid-item basel-hover-alt product  col-md-3 col-sm-4 col-xs-6 type-product post-19515 status-publish instock product_cat-woman has-post-thumbnail shipping-taxable purchasable product-type-variable" 
-data-loop="4" 
-data-id="19515">
-<div class="product-element-top"> 
-<a href="ConversationsBreakfast.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-	<img 
-	width="273" 
-	height="348" 
-	src="https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620124942/Breakfast2_yccqi8.jpg" 
-	class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
-	alt="" 
-	srcset=
-	"https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_348,w_273/v1620124942/Breakfast2_yccqi8.jpg 870w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_300,w_235/v1620124942/Breakfast2_yccqi8.jpg 235w,
-	https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_980,w_768/v1620124942/Breakfast2_yccqi8.jpg 768w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_1024,w_803/v1620124942/Breakfast2_yccqi8.jpg 803w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_340,w_266/v1620124942/Breakfast2_yccqi8.jpg 266w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_280,w_219/v1620124942/Breakfast2_yccqi8.jpg 219w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_336,w_263/v1620124942/Breakfast2_yccqi8.jpg 263w, 
-	https://res.cloudinary.com/ddjrcafre/image/upload/c_scale,h_671,w_526/v1620124942/Breakfast2_yccqi8.jpg 526w" 
-sizes="(max-width: 273px) 100vw, 273px" /> 
-</a>
-<div class="hover-img"> 
-<a href="ConversationsBreakfast.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-	<img 
-	width="273" 
-	height="348" 
-	src="https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_348,w_273/v1620126076/Breakfastnew_ejdfqz.jpg" 
-class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" 
-alt="" 
-srcset=
-"https://res.cloudinary.com/ddjrcafre/image/upload/v1620126076/Breakfastnew_ejdfqz.jpg 870w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_300,w_235/v1620126076/Breakfastnew_ejdfqz.jpg 235w,
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_980,w_768/v1620126076/Breakfastnew_ejdfqz.jpg 768w,
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_1024,w_803/v1620126076/Breakfastnew_ejdfqz.jpg 803w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_340,w_266/v1620126076/Breakfastnew_ejdfqz.jpg 266w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_280,w_219/v1620126076/Breakfastnew_ejdfqz.jpg 219w, 
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_336,w_263/v1620126076/Breakfastnew_ejdfqz.jpg 263w,
-https://res.cloudinary.com/ddjrcafre/image/upload/c_fit,h_671,w_526/v1620126076/Breakfastnew_ejdfqz.jpg
- 526w" 
-sizes="(max-width: 273px) 100vw, 273px" /> 
-</a>
-</div>
-</div>
-<h3 class="product-title">
-<a href="ConversationsBreakfast.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
-Conversations Breakfast
-</a>
-</h3>
 <div class="wrap-price">
-	<div class="wrapp-swap">
-	<div class="swap-elements"> 
-	<span class="price">
-	<span class="price">
-	<span class="woocommerce-Price-amount amount">
-	<span class="woocommerce-Price-currencySymbol">
-	R
-	</span>
-	75
-	</span>
-	
-	</span>
-	</span>
-<div class="btn-add" id="BwHomecart">
+<div class="wrapp-swap">
+<div class="swap-elements"> 
+<span class="price">
+<span class="woocommerce-Price-amount amount">
+<span class="woocommerce-Price-currencySymbol">
+R
+</span>
+68
+</span>
+
+</span>
+</span>
+</span>
+<div class="btn-add" id="PeHomecart">
 		<a href="Bill.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">
 			view bill
 		</a>	
 		</div>
-	<div class="btn-add"> 
-		<button class="BluntWrapHome" id="BwHome">
-			add to bill
-		</button>
-	</div>
-	</div>
-	</div>
-	</div>
-        </div>
+<div class="btn-add"> 
+	<button class="PineappleExpressHome" id="PeHome" >
+		add to bill
+	</button>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
