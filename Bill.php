@@ -533,8 +533,8 @@ class="single-product-page single-product-content product-design-default product
                 <span class="totalDelivery">R15</span>
 		<br>
                 <span class="totalCart"><strong>Items</strong></span>
-                <span class="totalOrderR">R</span>
-                <span class="totalOrder"></span>
+                <div class="Rsymbol"><span class="totalOrderR">R</span></div>
+                <div class="Totalnums"><span class="totalOrder"></span></div>
                         </div>
                         <div class='plugfooterEnd'></div>
                 <div class="totalsRow">
