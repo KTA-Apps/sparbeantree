@@ -1223,13 +1223,6 @@ Conversations Breakfast
 	</div>
 	</div>
         </div>
-
-</div>
-</div>
-<div class="clearfix visible-xs-block">
-</div>
-<div class="clearfix visible-md-block visible-lg-block">
-</div>
 <div 
 class="products elements-grid basel-products-holder  elements-list pagination-pagination row grid-columns-4" 
 data-min_price="" 
@@ -1563,6 +1556,10 @@ Conversations Breakfast
 	</div>
 	</div>
         </div>
+
+</div>
+</div>
+
 </div>
 
 </div>
