@@ -563,7 +563,7 @@ class="single-product-page single-product-content product-design-default product
                 <div class='plugfooterEnd'></div>
                 <br>
                 </div>
-                <form action="delivery.php" method="get" id="amount">
+                <form action="delivery.php" method="get" id="amount" class="pay">
                 <input type="hidden" name="auth" value="<?php echo $_GET['auth'] ?>">
 		<input type="hidden" name="username" value="<?php echo $_GET['username'] ?>">
                 <input type="hidden" name="totalamount" value="" id="total">
