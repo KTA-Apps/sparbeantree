@@ -1582,9 +1582,9 @@ R
 <div class="col-left"> 
 <i class="fa fa-copyright">
 </i> 
-2021 created by 
+2021 by 
 <span>
-Kahrent Technology Africa
+Spar Group (Pty) Ltd. Terms and conditions [Here]
 </span>
 </div></div></div></div></footer></div>
 <div class="basel-close-side">
