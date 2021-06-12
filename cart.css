@@ -473,8 +473,8 @@
     float: right;
 }
 .totalOrderR{
-    float: right;
-    position:relative;
+    right: 40px;
+    position:absolute;
     display: inline-block;
 }
 .totalOrderR1{
