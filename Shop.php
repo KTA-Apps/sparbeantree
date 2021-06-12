@@ -1584,7 +1584,7 @@ R
 </i> 
 2021 by 
 <span>
-Spar Group (Pty) Ltd. Terms and conditions [Here]
+Spar Group (Pty) Ltd. Terms and conditions [<a href="A1.php?username=<?php echo $_GET['username'];?>&auth=<?php echo $_GET['auth'];?>">Here</a>]
 </span>
 </div></div></div></div></footer></div>
 <div class="basel-close-side">
