@@ -291,7 +291,7 @@ Sandwich
 
 <div class="container">
 <div class="Added" id="added" style="display:none;" >
-<span><strong>Ham sandwich added [<a href="Cart.php?auth=<?php echo $_GET['auth'];?>">view cart</a>]</strong></span>
+<span><strong>Ham sandwich added [<a href="Cart.php?auth=<?php echo $_GET['auth'];?>">view bill</a>]</strong></span>
 </div>
 </div>
 </div>
@@ -358,8 +358,8 @@ src="totalAmountsDisplay.js" >
 </script>
 <script>
 setInterval (function addHide(){
-    bw= localStorage.getItem('cartNumberBW');
-    if(bw){
+    pe= localStorage.getItem('cartNumberPE');
+    if(pe){
     document.getElementById("added").style.display = "block";
     }else{
     document.getElementById("added").style.display = "none";
