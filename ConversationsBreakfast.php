@@ -355,8 +355,8 @@ src="totalAmountsDisplay.js" >
 </script>
 <script>
 setInterval (function addHide(){
-    cces= localStorage.getItem('cartNumberCCES');
-    if(cces){
+    bw= localStorage.getItem('cartNumberBW');
+    if(bw){
     document.getElementById("added").style.display = "block";
     }else{
     document.getElementById("added").style.display = "none";
@@ -365,5 +365,4 @@ setInterval (function addHide(){
 addHide();
 </script>
 </body>
-<!-- Mirrored from demo.xtemos.com/basel/single-product/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Jul 2020 01:45:52 GMT -->
 </html>
