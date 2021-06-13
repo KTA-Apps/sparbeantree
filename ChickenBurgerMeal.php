@@ -335,8 +335,8 @@ src="totalAmountsDisplay.js" >
 </script>
 <script>
 setInterval (function addHide(){
-    pr= localStorage.getItem('cartNumberPR');
-    if(pr){
+    cces= localStorage.getItem('cartNumberCCES');
+    if(cces){
     document.getElementById("added").style.display = "block";
     }else{
     document.getElementById("added").style.display = "none";
