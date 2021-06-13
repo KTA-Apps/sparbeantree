@@ -237,7 +237,7 @@ Delivery details
 <input type="text" name="Towns" value="Randburg" readonly>
 </div>
 
-<div id="hideJHBRandburgsuburb" style="display:none">
+<div id="hideJHBRandburgsuburb">
 <label>Suburb:</label>
 <select class="JHBRandburg" name="suburbs" id="suburbsJHBRandburg" form="plug" required>
   <option value="" disabled selected>Select Suburb</option>
