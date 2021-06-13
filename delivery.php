@@ -226,9 +226,11 @@ Delivery details
   <option value="BeverlyGardens"> Beverly Gardens </option>
   <option value="Bordeaux"> Bordeaux </option>
   <option value="Bryanbrink"> Bryanbrink </option>
-  <option value="Cramersview"> Cramersview </option>
+  <option value="Bryanstonwest"> Bryanston west </option>
+  <option value="Cramerview"> Cramerview </option>
   <option value="DanielBrinkPark"> Daniel Brink Park </option>
   <option value="Ferndale"> Ferndale </option>
+  <option value="Gleniffer"> Gleniffer </option>
   <option value="KensingtonB"> Kensington B </option>
   <option value="Lymepark"> Lyme park </option>
   <option value="Millhill"> Mill hill </option>
