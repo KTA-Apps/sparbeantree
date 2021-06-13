@@ -1,11 +1,7 @@
 setInterval (function hidePort(){
-    var City = document.getElementById('city').value;
-         if (City=='Tshwane/Pretoria'){
+    var shop = document.getElementById('city').value;
+         if (shop=='ferndale'){
          document.getElementById("hidePTAtown").style.display = "block";
-                 document.getElementById("townsJHB").removeAttribute("required");
-     }else{
-         document.getElementById("hidePTAtown").style.display = "none";
      }
  }, 1000);
-
 hidePort();
