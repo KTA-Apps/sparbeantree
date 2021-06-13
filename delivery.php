@@ -216,9 +216,9 @@ Delivery details
 </div>
 
 <form action="https://sparbeantree.co.za/Paymentprocess.php" method="get" id="plug" name="moneytree">
-   <label for="Country">Country:</label><input type="text" name="Country" value="South Africa" style="display:none" readonly>
-   <label>Province:</label><input type="text" name="Province" value="Gauteng" style="display:none" readonly>
-   <label>City:</label><input type="text" name="City" value="Johannesburg" style="display:none" readonly>
+   <input type="text" name="Country" value="South Africa" style="display:none" readonly>
+   <input type="text" name="Province" value="Gauteng" style="display:none" readonly>
+   <input type="text" name="City" value="Johannesburg" style="display:none" readonly>
 <div id="hidePTAtown" style="display:none">
 <label>Town:</label>
 <select class="PTAtown" name="Towns" id="townsPTA" form="plug" required>
@@ -234,13 +234,7 @@ Delivery details
 </div>
 <div id="hideJHBtown" style="display:none">
 <label>Town:</label>
-<select class="JHBtown" name="Towns" id="townsJHB" form="plug" required>
-  <option value="" disabled selected>Select Town</option>
-  <option value="Midrand">Midrand</option>
-  <option value="Randburg">Randburg</option>
-  <option value="Sandton">Sandton</option>
-  <option value="Null" style="display:none" >Null</option>
-</select>
+<input type="text" name="Towns" value="Randburg" readonly>
 </div>
 
 <div id="hideJHBRandburgsuburb" style="display:none">
