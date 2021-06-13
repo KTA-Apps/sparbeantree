@@ -35,7 +35,7 @@ alt="" />
                         <p style="color:green;" >Order online now!</p>
                         <p style="color:grey;" ><small><a href="Signin.php">Operations login</a> [<span>Operators only<span>]</small></p>
                         <p style="color:grey;" ><small>Get your order delivered within 45 minutes!</small></p>
-                        <p><small>Which store is closest to you?</small></p>
+                        <p><small>Select store</small></p>
                         <p>
                         <select class="PTAtown" name="Towns" id="townsPTA" form="plug" required>
                         <option value="" disabled selected>select store</option>
@@ -43,7 +43,7 @@ alt="" />
                         <option value="Null" style="display:none" >Null</option>
                         </select>
                         </p>
-                        <div class="page-links">
+                        <div class="page-links" id="ferndale" style="display:none;">
                             <p><a href="Shop.php?auth=<?php echo $token; ?>"><span style="color:green"><small>Enter store</small><span></a></p>
                         </div>
                     </div>
