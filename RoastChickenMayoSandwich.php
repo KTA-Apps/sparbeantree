@@ -298,7 +298,7 @@ Gourmet Sandwich
 
 <div class="container">
 <div class="Added" id="added" style="display:none;" >
-<span><strong>Roast Chicken mayo added [<a href="Bill.php?auth=<?php echo $_GET['auth'];?>">view cart</a>] </strong></span>
+<span><strong>Roast Chicken mayo added [<a href="Bill.php?auth=<?php echo $_GET['auth'];?>">view bill</a>] </strong></span>
 </div>
 </div>
 </div>
@@ -366,8 +366,8 @@ src="totalAmountsDisplay.js" >
 </script>	
 <script>
 setInterval (function addHide(){
-    oc= localStorage.getItem('cartNumberOC');
-    if(oc){
+    cc= localStorage.getItem('cartNumberCC');
+    if(cc){
     document.getElementById("added").style.display = "block";
     }else{
     document.getElementById("added").style.display = "none";
@@ -376,6 +376,4 @@ setInterval (function addHide(){
 addHide();
 </script>
 </body>
-<!-- Mirrored from demo.xtemos.com/basel/single-product/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Jul 2020 01:45:52 GMT -->
 </html>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1582301857 -->
