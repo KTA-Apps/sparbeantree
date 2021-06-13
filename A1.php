@@ -158,10 +158,10 @@ Terms and Conditions
 
 <html>
 <p>
-Copyright © Spar Group (Pty) Ltd, Johannesburg, South Africa. All rights not expressly granted, are reserved.
+Copyright © Spar Group (Pty) Ltd, 22 Chancery Lane, Pinetown, 3610, South Africa with company registration number 1967/001572/06. All rights not expressly granted, are reserved.
 </p>
 <p>
-BY AGREEING TO THIS AGREEMENT AND USING THE sparbeantree.co.za WEBSITE (THE "SITE"), YOU (THE "END-USER") ARE INDICATING THAT YOU ARE IN THE POSITION TO BE BOUND BY THIS CONTRACT AS WELL AS INDICATING YOUR ACCEPTANCE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT. 
+By agreeing to this agreement and using the sparbeantree.co.za website application (THE "Site"), you (THE "End-user") are indicating that you are in the position to be bound by this contract as well as indicating your acceptance to be bound by the terms and conditions of this agreement. 
 </p>
 <p>
 <strong>
