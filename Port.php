@@ -37,9 +37,9 @@ alt="" />
                         <p style="color:grey;" ><small>Get your order delivered within 45 minutes!</small></p>
                         <p><small>Select store</small></p>
                         <p>
-                        <select class="PTAtown" name="Towns" id="townsPTA" form="plug" required>
+                        <select id="shop" required>
                         <option value="" disabled selected>select store</option>
-                        <option value="Ferndale">Bean Tree Cafe - Ferndale</option>
+                        <option value="ferndale">Bean Tree Cafe - Ferndale</option>
                         <option value="Null" style="display:none" >Null</option>
                         </select>
                         </p>
