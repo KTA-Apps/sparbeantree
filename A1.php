@@ -161,7 +161,7 @@ Terms and Conditions
 Copyright © Spar Group (Pty) Ltd, 22 Chancery Lane, Pinetown, 3610, South Africa with company registration number 1967/001572/06. All rights not expressly granted, are reserved.
 </p>
 <p>
-By agreeing to this agreement and using the sparbeantree.co.za website application (THE "Site"), you (THE "End-user") are indicating that you are in the position to be bound by this contract as well as indicating your acceptance to be bound by the terms and conditions of this agreement. 
+By agreeing to this agreement and using the sparbeantree.co.za website application (The "Site"), you (The "End-user") are indicating that you are in the position to be bound by this contract as well as indicating your acceptance to be bound by the terms and conditions of this agreement. 
 </p>
 <p>
 <strong>
@@ -192,199 +192,124 @@ By agreeing to this agreement and using the sparbeantree.co.za website applicati
 2.1 All the content, trademarks and data on this web site, including but not limited to, software, databases, text, graphics, icons, hyperlinks, private information, designs and agreements, are the property of, or are licensed to Spar Group (Pty) Ltd and as such are protected from infringement by local and international legislation and treaties.
 </p>
 <p>
-<strong>
-3. 
-</strong>
-</p>
-<p>
-3.1 
-</p>
-<p>
-3.2
-</p>
-<p>
-3.3
-</p>
-<p>
-3.4 You may not use, frame or utilize framing techniques to enclose any Spar Group (Pty) Ltd trademark, logo or other proprietary information (including the images found at this Site, the content of any text or the layout/design of any page or form contained on a page) without express written consent from Spar Group (Pty) Ltd. Further, you may not use any meta tags or any other “hidden text” utilizing the Spar Group (Pty) Ltd name, trademark or product name without express written consent from Spar Group (Pty) Ltd.
+2.2 You may not use, frame or utilize framing techniques to enclose any Spar Group (Pty) Ltd trademark, logo or other proprietary information (including the images found at this Site, the content of any text or the layout/design of any page or form contained on a page) without express written consent from Spar Group (Pty) Ltd. Further, you may not use any meta tags or any other “hidden text” utilizing the Spar Group (Pty) Ltd name, trademark or product name without express written consent from Spar Group (Pty) Ltd.
 </p>
 <p>
 <strong>
-4. 
+3. SUBMISSIONS
 </strong>
 </p>
 <p>
-4.1
+3.1 End-user agree that any materials, including but not limited to questions, comments, suggestions, ideas, plans, notes, drawings, original or creative materials or other information, provided by Agents in the form of email or submissions to Spar Group (Pty) Ltd, or postings on this Site, are non-confidential and shall become the sole property of Spar Group (Pty) Ltd. Spar Group (Pty) Ltd shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use of these materials for any purpose, commercial or otherwise, without acknowledgment or compensation to End-user. The submission of any materials to Spar Group (Pty) Ltd irrevocably waives any and all “moral rights” in such materials, including the rights of paternity and integrity.
 </p>
 <p>
 <strong>
-5. 
+4. EMAIL DISCLAIMER
 </strong>
 </p>
 <p>
-5.1.1 
+4.1 The information in all e-mail messages (document and attachments) sent by an employee / electronic agent / a legal member of Spar Group (Pty) Ltd is confidential and may be legally privileged. The information transmitted is intended only for the person(s) or entity to which it is addressed. If you are not the intended recipient(s), please notify the sender immediately and then delete this email (document and attachments). Do not disclose the contents of this email (document and attachments) to any other person, nor make any copies thereof.
 </p>
 <p>
-5.1.2 
+4.2 Internet communications cannot be guaranteed to be secure or error-free. Neither Spar Group (Pty) Ltd nor the sender accepts liability for any errors or omissions in the contents of messages which arise as a result of email transmission. If verification is required, please request a hard copy version. Also take note that email can possibly contain viruses and that the recipient is responsible for checking and deleting viruses. In no event will Spar Group (Pty) Ltd or the sender be liable to anyone for any indirect, special, consequential or direct damages arising from the transmission of email messages, the opening of email messages and their attachments, or any use thereof whatsoever.
 </p>
 <p>
-5.1.3 
-</p>
-<p>
-5.1.4 
-</p>
-<p>
-5.2 
+4.3 No employee or End-user is authorised to conclude a binding agreement on behalf of Spar Group (Pty) Ltd by email without the express written confirmation of a director of Spar Group (Pty) Ltd. Nothing contained in said email shall be construed as a legally binding agreement or an offer to contract.
 </p>
 <p>
 <strong>
-6. INDEMNIFICATION
+5. DELIVERY
 </strong>
 </p>
 <p>
-6.1 
+5.1 End-user understand that Spar Group (Pty) Ltd will charge fees to them for the delivery of the products. These fees are available on the Site and may change from time to time. Your acceptance of this agreement indicates your acceptance of these fees and any change to these fees which may occur now or in the future.
 </p>
 <p>
-6.2 
+5.2 End-user understands that Spar Group (Pty) Ltd may deliver products to End-user at the time estimate. Data gathered from the site may be used to facilitate the delivery of the products.
 </p>
 <p>
 <strong>
-7. SUBMISSIONS
+6. DISCLAIMER OF WARRANTIES
 </strong>
 </p>
 <p>
-7.1 End-user agree that any materials, including but not limited to questions, comments, suggestions, ideas, plans, notes, drawings, original or creative materials or other information, provided by Agents in the form of email or submissions to Spar Group (Pty) Ltd, or postings on this Site, are non-confidential and shall become the sole property of Spar Group (Pty) Ltd. Spar Group (Pty) Ltd shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use of these materials for any purpose, commercial or otherwise, without acknowledgment or compensation to End-user. The submission of any materials to Spar Group (Pty) Ltd irrevocably waives any and all “moral rights” in such materials, including the rights of paternity and integrity.
+6.1 YOU UNDERSTAND AND AGREE THAT THIS SITE AND THE INFORMATION, SERVICES, PRODUCTS AND MATERIALS AVAILABLE THROUGH IT ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. YOU EXPRESSLY AGREE THAT USE OF THIS SITE IS AT YOUR SOLE RISK.
+</p>
+<p>
+6.2 TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, SPAR GROUP (Pty) Ltd AND ITS AFFILIATES DISCLAIM ALL WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF TITLE, OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. NO ORAL OR WRITTEN INFORMATION PROVIDED BY SPAR GROUP (Pty) Ltd OR ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, PROVIDERS, MERCHANTS, SPONSORS, LICENSORS OR THE LIKE SHALL CREATE A WARRANTY; NOR SHALL YOU RELY ON ANY SUCH INFORMATION OR ADVICE.
+</p>
+<p>
+6.3 YOU EXPRESSLY AGREE THAT USE OF THIS SITE, INCLUDING ALL CONTENT, DATA OR SOFTWARE DISTRIBUTED BY, DOWNLOADED OR ACCESSED FROM OR THROUGH THIS SITE, IS AT YOUR SOLE RISK. YOU UNDERSTAND AND AGREE THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF SUCH CONTENT, DATA AND/OR SOFTWARE.
+</p>
+<p>
+6.4 SPAR GROUP (Pty) Ltd DOES NOT MAKE ANY WARRANTY THAT THE SITE OR CONTENT WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE, OR THAT DEFECTS, IF ANY, WILL BE CORRECTED. SPAR GROUP (Pty) Ltd DOES NOT REPRESENT OR WARRANT THAT MATERIALS IN THIS SITE OR INFORMATION PROVIDED BY SPAR GROUP (Pty) Ltd VIA EMAIL OR OTHER MEANS, ARE ACCURATE, COMPLETE, RELIABLE, CURRENT OR ERROR-FREE. NOR DOES SPAR GROUP (Pty) Ltd MAKE ANY WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM USE OF SPAR GROUP (Pty) Ltd OR ITS CONTENT OR AS TO THE ACCURACY, COMPLETENESS OR RELIABILITY OF ANY INFORMATION OBTAINED THROUGH USE OF THE SITE.
+</p>
+<p>
+6.5 SPAR GROUP (Pty) Ltd ASSUMES NO RESPONSIBILITY FOR ANY DAMAGES SUFFERED BY A End-user, INCLUDING, BUT NOT LIMITED TO, LOSS OF DATA FROM DELAYS, NONDELIVERIES OF CONTENT OR EMAIL, ERRORS, SYSTEM DOWN TIME, MISDELIVERIES OF CONTENT OR EMAIL, NETWORK OR SYSTEM OUTAGES, FILE CORRUPTION OR SERVICE INTERRUPTIONS CAUSED BY THE NEGLIGENCE OF SPAR GROUP (Pty) Ltd, ITS AFFILIATES, ITS LICENSORS OR A END-USER’S OWN ERRORS AND/OR OMISSIONS.
+</p>
+<p>
+6.6 SPAR GROUP (Pty) Ltd DISCLAIMS ANY WARRANTY OR REPRESENTATION THAT CONFIDENTIALITY OF INFORMATION TRANSMITTED THROUGH THIS WEB SITE WILL BE MAINTAINED.
+</p>
+<p>
+6.7 ALL THE INFORMATION APPEARING ON THIS SITE IS PROVIDED WITHOUT A REPRESENTATION OR WARRANTY WHATSOEVER, WHETHER EXPRESSED OR IMPLIED, AND SPAR GROUP (Pty) Ltd DISCLAIMS ANY LIABILITY TO THE END-USER IN THIS REGARD.
 </p>
 <p>
 <strong>
-8. EMAIL DISCLAIMER
+7. LIMITATION OF LIABILITY
 </strong>
 </p>
 <p>
-8.1 The information in all e-mail messages (document and attachments) sent by an employee / electronic agent / a legal member of Spar Group (Pty) Ltd is confidential and may be legally privileged. The information transmitted is intended only for the person(s) or entity to which it is addressed. If you are not the intended recipient(s), please notify the sender immediately and then delete this email (document and attachments). Do not disclose the contents of this email (document and attachments) to any other person, nor make any copies thereof.
+7.1 SPAR GROUP (Pty) Ltd has taken reasonable steps as far as is possible, to ensure the accuracy and completeness of the content shown on this site, to ensure that the End-user doesn’t suffer any loss or damages as a result of the use of this site.
 </p>
 <p>
-8.2 Internet communications cannot be guaranteed to be secure or error-free. Neither Spar Group (Pty) Ltd nor the sender accepts liability for any errors or omissions in the contents of messages which arise as a result of email transmission. If verification is required, please request a hard copy version. Also take note that email can possibly contain viruses and that the recipient is responsible for checking and deleting viruses. In no event will Spar Group (Pty) Ltd or the sender be liable to anyone for any indirect, special, consequential or direct damages arising from the transmission of email messages, the opening of email messages and their attachments, or any use thereof whatsoever.
+7.2 UNDER NO CIRCUMSTANCES, INCLUDING WITHOUT LIMITATION NEGLIGENCE, SHALL SPAR GROUP (Pty) Ltd OR ITS PARENTS, SUBSIDIARIES, AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUPPLIERS OR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING FOR SPAR GROUP (Pty) Ltd BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES ARISING FROM OR IN CONNECTION WITH THE USE OR INABILITY TO USE SPAR GROUP (Pty) Ltd OR ANY CONTENT PROVIDED BY OR THROUGH THIS SITE, OR RESULTING FROM UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA, OR OTHER INFORMATION THAT IS SENT OR RECEIVED, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOST PROFITS, USE, DATA OR OTHER INTANGIBLES, EVEN IF SPAR GROUP (Pty) Ltd HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 </p>
 <p>
-8.3 No employee or End-user is authorised to conclude a binding agreement on behalf of Spar Group (Pty) Ltd by email without the express written confirmation of a director of Spar Group (Pty) Ltd. Nothing contained in said email shall be construed as a legally binding agreement or an offer to contract.
+7.3 SPAR GROUP (Pty) Ltd SHALL HAVE NO LIABILITY TO END-USER IN CONNECTION WITH ANY ACTIONS OR TRANSACTIONS BY AN INDIVIDUAL THAT USES END-USER INFORMATION WITHOUT THEIR CONSENT OR KNOWLEDGE OR ANY CAUSE OVER WHICH SPAR GROUP (Pty) Ltd DOES NOT HAVE DIRECT CONTROL, INCLUDING, BUT NOT LIMITED TO, PROBLEMS ATTRIBUTABLE TO COMPUTER HARDWARE OR SOFTWARE (INCLUDING COMPUTER VIRUSES), TELEPHONES (OR OTHER COMMUNICATIONS EQUIPMENT), OR INTERNET SERVICE PROVIDERS.
+</p>
+<p>
+7.4 SPAR GROUP (Pty) Ltd shall not be liable for any fraud, deception or misrepresentations by End-user of the Site's services in any capacity whatsoever.
+</p>
+<p>
+7.5 In no event shall SPAR GROUP (Pty) Ltd be liable for any act or omission of any third party (such as, for example, any provider of telecommunications services, internet access or computer equipment or software) or for any circumstances beyond our control (such as, for example, a fire, flood, or other natural disaster, war, riot, strike, act of civil or military authority, equipment failure, computer virus, or failure or interruption of electrical, telecommunications or other utility services).
+</p>
+<p>
+7.6 Some jurisdictions do not allow the limitation or exclusion of liability for incidental or consequential damages, in such jurisdictions, liability is limited to the fullest extent permitted by law.
 </p>
 <p>
 <strong>
-9. 
+8. END-USER’S LIABILITY TO SPAR GROUP (Pty) Ltd
 </strong>
 </p>
 <p>
-9.1 
-</p>
-<p>
-9.2 
+8.1 In the event that SPAR GROUP (Pty) Ltd takes action against you for breach of these terms of use, End-user agrees to reimburse SPAR GROUP (Pty) Ltd for all legal costs, including all fees related to evidence gathering and collection commission, on a scale as between attorney and own client.
 </p>
 <p>
 <strong>
-10. 
+9. APPLICABLE LAW
 </strong>
 </p>
 <p>
-10.1 
-</p>
-<p>
-10.2 
+9.1 The terms and conditions pertaining to any products or services appearing on this site or pages shall be governed and interpreted in accordance with the laws of the Republic of South Africa. Use of the service offered on this site or pages will constitute the End-user's consent and submission to the jurisdiction of the Republic of South African courts regarding all proceedings, transactions, applications or the like instituted by either party against the other, arising from any of the terms and conditions pertaining to this site or such products or services.
 </p>
 <p>
 <strong>
-11. DELIVERY
+10. SEVERABILITY
 </strong>
 </p>
 <p>
-11.1 End-user understand that Spar Group (Pty) Ltd will charge fees to them for the delivery of the products. These fees are available on the Site and may change from time to time. Your acceptance of this agreement indicates your acceptance of these fees and any change to these fees which may occur now or in the future.
-</p>
-<p>
-11.2 End-user understands that Spar Group (Pty) Ltd may deliver products to End-user at the time estimate. Data gathered from the site may be used to facilitate the delivery of the products.
+10.1 If any provision of this agreement is held to be invalid, void or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions.
 </p>
 <p>
 <strong>
-12. DISCLAIMER OF WARRANTIES
+11. TERMS
 </strong>
 </p>
 <p>
-12.1 YOU UNDERSTAND AND AGREE THAT THIS SITE AND THE INFORMATION, SERVICES, PRODUCTS AND MATERIALS AVAILABLE THROUGH IT ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. YOU EXPRESSLY AGREE THAT USE OF THIS SITE IS AT YOUR SOLE RISK.
+11.1 The terms “End-user”,“You” and “Agent” are used interchangeably and refer to all individuals and/or entities accessing this web site for any reason.
 </p>
 <p>
-12.2 TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, SPAR GROUP (Pty) Ltd AND ITS AFFILIATES DISCLAIM ALL WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF TITLE, OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. NO ORAL OR WRITTEN INFORMATION PROVIDED BY SPAR GROUP (Pty) Ltd OR ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, PROVIDERS, MERCHANTS, SPONSORS, LICENSORS OR THE LIKE SHALL CREATE A WARRANTY; NOR SHALL YOU RELY ON ANY SUCH INFORMATION OR ADVICE.
-</p>
-<p>
-12.3 YOU EXPRESSLY AGREE THAT USE OF THIS SITE, INCLUDING ALL CONTENT, DATA OR SOFTWARE DISTRIBUTED BY, DOWNLOADED OR ACCESSED FROM OR THROUGH THIS SITE, IS AT YOUR SOLE RISK. YOU UNDERSTAND AND AGREE THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF SUCH CONTENT, DATA AND/OR SOFTWARE.
-</p>
-<p>
-12.4 SPAR GROUP (Pty) Ltd DOES NOT MAKE ANY WARRANTY THAT THE SITE OR CONTENT WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE, OR THAT DEFECTS, IF ANY, WILL BE CORRECTED. SPAR GROUP (Pty) Ltd DOES NOT REPRESENT OR WARRANT THAT MATERIALS IN THIS SITE OR INFORMATION PROVIDED BY SPAR GROUP (Pty) Ltd VIA EMAIL OR OTHER MEANS, ARE ACCURATE, COMPLETE, RELIABLE, CURRENT OR ERROR-FREE. NOR DOES SPAR GROUP (Pty) Ltd MAKE ANY WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM USE OF SPAR GROUP (Pty) Ltd OR ITS CONTENT OR AS TO THE ACCURACY, COMPLETENESS OR RELIABILITY OF ANY INFORMATION OBTAINED THROUGH USE OF THE SITE.
-</p>
-<p>
-12.5 SPAR GROUP (Pty) Ltd ASSUMES NO RESPONSIBILITY FOR ANY DAMAGES SUFFERED BY A End-user, INCLUDING, BUT NOT LIMITED TO, LOSS OF DATA FROM DELAYS, NONDELIVERIES OF CONTENT OR EMAIL, ERRORS, SYSTEM DOWN TIME, MISDELIVERIES OF CONTENT OR EMAIL, NETWORK OR SYSTEM OUTAGES, FILE CORRUPTION OR SERVICE INTERRUPTIONS CAUSED BY THE NEGLIGENCE OF SPAR GROUP (Pty) Ltd, ITS AFFILIATES, ITS LICENSORS OR A END-USER’S OWN ERRORS AND/OR OMISSIONS.
-</p>
-<p>
-12.6 SPAR GROUP (Pty) Ltd DISCLAIMS ANY WARRANTY OR REPRESENTATION THAT CONFIDENTIALITY OF INFORMATION TRANSMITTED THROUGH THIS WEB SITE WILL BE MAINTAINED.
-</p>
-<p>
-12.7 ALL THE INFORMATION APPEARING ON THIS SITE IS PROVIDED WITHOUT A REPRESENTATION OR WARRANTY WHATSOEVER, WHETHER EXPRESSED OR IMPLIED, AND SPAR GROUP (Pty) Ltd DISCLAIMS ANY LIABILITY TO THE END-USER IN THIS REGARD.
-</p>
-<p>
-<strong>
-13. LIMITATION OF LIABILITY
-</strong>
-</p>
-<p>
-13.1 SPAR GROUP (Pty) Ltd has taken reasonable steps as far as is possible, to ensure the accuracy and completeness of the content shown on this site, to ensure that the End-user doesn’t suffer any loss or damages as a result of the use of this site.
-</p>
-<p>
-13.2 UNDER NO CIRCUMSTANCES, INCLUDING WITHOUT LIMITATION NEGLIGENCE, SHALL SPAR GROUP (Pty) Ltd OR ITS PARENTS, SUBSIDIARIES, AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUPPLIERS OR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING FOR SPAR GROUP (Pty) Ltd BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES ARISING FROM OR IN CONNECTION WITH THE USE OR INABILITY TO USE SPAR GROUP (Pty) Ltd OR ANY CONTENT PROVIDED BY OR THROUGH THIS SITE, OR RESULTING FROM UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA, OR OTHER INFORMATION THAT IS SENT OR RECEIVED, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOST PROFITS, USE, DATA OR OTHER INTANGIBLES, EVEN IF SPAR GROUP (Pty) Ltd HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-</p>
-<p>
-13.3 SPAR GROUP (Pty) Ltd SHALL HAVE NO LIABILITY TO END-USER IN CONNECTION WITH ANY ACTIONS OR TRANSACTIONS BY AN INDIVIDUAL THAT USES END-USER INFORMATION WITHOUT THEIR CONSENT OR KNOWLEDGE OR ANY CAUSE OVER WHICH SPAR GROUP (Pty) Ltd DOES NOT HAVE DIRECT CONTROL, INCLUDING, BUT NOT LIMITED TO, PROBLEMS ATTRIBUTABLE TO COMPUTER HARDWARE OR SOFTWARE (INCLUDING COMPUTER VIRUSES), TELEPHONES (OR OTHER COMMUNICATIONS EQUIPMENT), OR INTERNET SERVICE PROVIDERS.
-</p>
-<p>
-13.4 SPAR GROUP (Pty) Ltd shall not be liable for any fraud, deception or misrepresentations by End-user of the Site's services in any capacity whatsoever.
-</p>
-<p>
-13.5 In no event shall SPAR GROUP (Pty) Ltd be liable for any act or omission of any third party (such as, for example, any provider of telecommunications services, internet access or computer equipment or software) or for any circumstances beyond our control (such as, for example, a fire, flood, or other natural disaster, war, riot, strike, act of civil or military authority, equipment failure, computer virus, or failure or interruption of electrical, telecommunications or other utility services).
-</p>
-<p>
-13.6 Some jurisdictions do not allow the limitation or exclusion of liability for incidental or consequential damages, in such jurisdictions, liability is limited to the fullest extent permitted by law.
-</p>
-<p>
-<strong>
-14. END-USER’S LIABILITY TO SPAR GROUP (Pty) Ltd
-</strong>
-</p>
-<p>
-14.1 In the event that SPAR GROUP (Pty) Ltd takes action against you for breach of these terms of use, End-user agrees to reimburse SPAR GROUP (Pty) Ltd for all legal costs, including all fees related to evidence gathering and collection commission, on a scale as between attorney and own client.
-</p>
-<p>
-<strong>
-15. APPLICABLE LAW
-</strong>
-</p>
-<p>
-15.1 The terms and conditions pertaining to any products or services appearing on this site or pages shall be governed and interpreted in accordance with the laws of the Republic of South Africa. Use of the service offered on this site or pages will constitute the End-user's consent and submission to the jurisdiction of the Republic of South African courts regarding all proceedings, transactions, applications or the like instituted by either party against the other, arising from any of the terms and conditions pertaining to this site or such products or services.
-</p>
-<p>
-<strong>
-16. SEVERABILITY
-</strong>
-</p>
-<p>
-16.1 If any provision of this agreement is held to be invalid, void or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions.
-</p>
-<p>
-<strong>
-18. TERMS
-</strong>
-</p>
-<p>
-18.1 The terms “End-user”,“You” and “Agent” are used interchangeably and refer to all individuals and/or entities accessing this web site for any reason.
-</p>
-<p>
-18.2 The terms “we” and “SPAR GROUP (Pty) Ltd” are used interchangeably and refer to SPAR GROUP (Pty) Ltd itself and all individuals and/or entities acting directly on behalf of SPAR GROUP (Pty) Ltd.
+11.2 The terms “we” and “SPAR GROUP (Pty) Ltd” are used interchangeably and refer to SPAR GROUP (Pty) Ltd itself and all individuals and/or entities acting directly on behalf of SPAR GROUP (Pty) Ltd.
 </p>
 </p>
 </html>
