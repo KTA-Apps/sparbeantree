@@ -1,7 +1,7 @@
 setInterval (function hidePort(){
-    var shop = document.getElementById('city').value;
+    var shop = document.getElementById('shop').value;
          if (shop=='ferndale'){
-         document.getElementById("hidePTAtown").style.display = "block";
+         document.getElementById("ferndale").style.display = "block";
      }
  }, 1000);
 hidePort();
