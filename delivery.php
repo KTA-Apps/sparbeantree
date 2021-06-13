@@ -219,7 +219,7 @@ Delivery details
    <input type="text" name="Country" value="South Africa" style="display:none" readonly>
    <input type="text" name="Province" value="Gauteng" style="display:none" readonly>
    <input type="text" name="City" value="Johannesburg" style="display:none" readonly>
-   <input type="text" name="Towns" value="Randburg" readonly>
+   <input type="text" name="Towns" value="Randburg" style="display:none" readonly>
 <label>Suburb:</label>
 <select class="JHBRandburg" name="suburbs" id="suburbsJHBRandburg" form="plug" required>
   <option value="" disabled selected>Select Suburb</option>
