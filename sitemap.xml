@@ -3,10 +3,7 @@
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://sparbeantree.co.za/Port.php</loc>
   <lastmod>2021-07-20T17:35:38+00:00</lastmod>
@@ -17,86 +14,4 @@
   <lastmod>2021-07-20T17:35:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://sparbeantree.co.za/Shop.php?auth=13b70c94efcdbe6fb52405b7c47d91c3</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sparbeantree.co.za/Reset.php</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sparbeantree.co.za/T1.php?username=&amp;auth=13b70c94efcdbe6fb52405b7c47d91c3</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sparbeantree.co.za/Bill.php?username=&amp;auth=13b70c94efcdbe6fb52405b7c47d91c3</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sparbeantree.co.za/Shop.php?username=&amp;auth=13b70c94efcdbe6fb52405b7c47d91c3</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sparbeantree.co.za/HomeMadeQuiches.php?username=&amp;auth=13b70c94efcdbe6fb52405b7c47d91c3</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sparbeantree.co.za/RoastChickenMayoSandwich.php?username=&amp;auth=13b70c94efcdbe6fb52405b7c47d91c3</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sparbeantree.co.za/SpagettiBolongaise.php?username=&amp;auth=13b70c94efcdbe6fb52405b7c47d91c3</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sparbeantree.co.za/ConversationsBreakfast.php?username=&amp;auth=13b70c94efcdbe6fb52405b7c47d91c3</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sparbeantree.co.za/BeefBurgerMeal.php?username=&amp;auth=13b70c94efcdbe6fb52405b7c47d91c3</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sparbeantree.co.za/ConversationsClubSalad.php?username=&amp;auth=13b70c94efcdbe6fb52405b7c47d91c3</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sparbeantree.co.za/ConversationsClubSalad.php?username=&amp;auth=13b70c94efcdbe6fb52405b7c47d91c3"</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sparbeantree.co.za/ChickenBurgerMeal.php?username=&amp;auth=13b70c94efcdbe6fb52405b7c47d91c3</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sparbeantree.co.za/HamEmmentalSandwich.php?username=&amp;auth=13b70c94efcdbe6fb52405b7c47d91c3</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sparbeantree.co.za/A1.php?username=&amp;auth=13b70c94efcdbe6fb52405b7c47d91c3</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sparbeantree.co.za/Bill.php?auth=13b70c94efcdbe6fb52405b7c47d91c3</loc>
-  <lastmod>2021-07-20T17:35:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
 </urlset>
