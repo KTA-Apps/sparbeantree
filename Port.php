@@ -3,6 +3,7 @@ $token= bin2hex(random_bytes(16));
 ?>
 <html lang="en">
 <head>
+    <meta name="google-site-verification" content="36S4XNcWsldw_bCMLsrCfYCPYKHDWxZ5SGgZjDa7Tuk" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Port</title>
